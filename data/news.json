@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T08:14:41Z",
+  "generated_at": "2026-10-05T08:20:50Z",
   "max_age_days": 7,
   "feeds": [
     {
@@ -80,7 +80,7 @@
       "url": "https://news.google.com/rss/search?q=AI%20jobs%20layoffs%20wages%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "items_returned": 8,
-      "entries_seen": 23
+      "entries_seen": 22
     },
     {
       "name": "Google News - entry level hiring graduates",
@@ -102,6 +102,14 @@
   },
   "total": 60,
   "items": [
+    {
+      "title": "Russia ramps up attacks on Kyiv infrastructure as U.S. makes fresh push for peace talks",
+      "link": "https://www.cnbc.com/2026/10/05/ukraine-war-russia-kyiv-putin-zelenskyy-trump.html",
+      "source": "CNBC Top News",
+      "category": "macro",
+      "published": "2026-10-05T08:12:21Z",
+      "summary": "Russia has pledged to intensify strikes on Kyiv and other Ukrainian cities after a drone attack damaged the capital’s key Northern Bridge over the weekend."
+    },
     {
       "title": "Euro hits 17-month low as political uncertainty in Spain and France rattles markets",
       "link": "https://www.cnbc.com/2026/10/05/euro-dollar-spain-france-risk.html",
@@ -165,14 +173,6 @@
       "category": "macro",
       "published": "2026-10-05T02:24:07Z",
       "summary": "Treasury yields above 5% are raising fears that higher borrowing costs could fuel a debt spiral."
-    },
-    {
-      "title": "‘Unwelcome and unsafe’: Why Japanese companies are retreating from China at a historic rate",
-      "link": "https://www.cnbc.com/2026/10/05/japanese-companies-leaving-china-takaichi-comment-taiwan.html",
-      "source": "CNBC Top News",
-      "category": "macro",
-      "published": "2026-10-05T02:15:12Z",
-      "summary": "Japanese companies are leaving China at record pace, as a diplomatic freeze and a slowing economy force businesses to reassess their presence."
     },
     {
       "title": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
@@ -303,12 +303,12 @@
       "summary": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity."
     },
     {
-      "title": "Amazon Pledges $1 Billion for Data Center Communities - Amazon.com (NASDAQ:AMZN) - benzinga.com",
+      "title": "Amazon Pledges $1 Billion for Data Center Communities - Amazon.com (NASDAQ:AMZN) - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2hXT25Ic3VnOWxYaklHWG5WR2E0T1NaclAtQ0RGbEVWSS1XTWFZNTlKM2Q0dy1jZHFaYkxua0UzVkhCSmVsMm92dUcyWVBaYnh6TVViM2tnUF9VbDhyZmh3MjFJZTV3ejExZ3Yzdm4yRklJR0gwa3NkMEpwU2ZSSEc3dFp5V282MzNjR3d3WUNYTGdOakdlbzJET2NvVXhFRU41S3VOcTA?oc=5",
       "source": "Google News - AI data center capex",
       "category": "ai_capex",
       "published": "2026-10-04T02:56:54Z",
-      "summary": "Amazon Pledges $1 Billion for Data Center Communities - Amazon.com (NASDAQ:AMZN) benzinga.com"
+      "summary": "Amazon Pledges $1 Billion for Data Center Communities - Amazon.com (NASDAQ:AMZN) Benzinga"
     },
     {
       "title": "Is AI to blame for hiring woes faced by college graduates? - ABC7 Chicago",
@@ -503,12 +503,12 @@
       "summary": "New Grads Struggle As Employers Raise The Bar For Entry-Level Jobs - Black Enterprise"
     },
     {
-      "title": "The Pentagon May Be Entering the AI CapEx Race? - moomoo.com",
+      "title": "The Pentagon May Be Entering the AI CapEx Race? - Moomoo",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWtHbjJ3OGJPQzhGdjRDUFlLWnJJY2NvZDRBVldVQXd2STRoQTFVTXlIenFFaEhWZEI5bTJ2OThPMVNhR0R3bi1Welg1NTNQLUFaRHB6WFExS0IyanVscWhqOTVDMVhyWjllWDJVcnhCUlJDUnpBTGhXV1RoVUlRVllMY2ZEUVJ4VFI5ZzRwOXBJdXctZ0lqTTNJOWtOdnZtTEE?oc=5",
       "source": "Google News - AI data center capex",
       "category": "ai_capex",
       "published": "2026-10-02T09:16:05Z",
-      "summary": "The Pentagon May Be Entering the AI CapEx Race? moomoo.com"
+      "summary": "The Pentagon May Be Entering the AI CapEx Race? Moomoo"
     },
     {
       "title": "Layoff Tracker: Foghorn cuts 40% of workforce - BioSpace",
@@ -527,12 +527,12 @@
       "summary": "How Much Are AI Companies Spending on Data Centers? fool.com"
     },
     {
-      "title": "Analysis: China's AI data center buildout vaults to No. 2 as Big Tech capex races toward US$100 billion - digitimes.com",
+      "title": "Analysis: China's AI data center buildout vaults to No. 2 as Big Tech capex races toward US$100 billion - digitimes",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWxHdjJodDNrc1M4Q0pON0hZeHlwWC1pZDBwUHZwQjNROHEwUHU2b2o1a3FnSm9Gb3dpQ290elo5aXp5Z08waHhFVDMyOE1wUHo2QV9tSGJ4QnJQVkh0UG1iREtZeHp4SXRXUy1KVTVwc0dibm5TZ2R4eDZvMTVxc0RnanFLUnQyalVEdzJxLWpWZTBvTzNHdQ?oc=5",
       "source": "Google News - AI data center capex",
       "category": "ai_capex",
       "published": "2026-10-01T04:15:44Z",
-      "summary": "Analysis: China's AI data center buildout vaults to No. 2 as Big Tech capex races toward US$100 billion digitimes.com"
+      "summary": "Analysis: China's AI data center buildout vaults to No. 2 as Big Tech capex races toward US$100 billion digitimes"
     },
     {
       "title": "3 AI Infrastructure Stocks Retail Investors Are Watching For Data Center Spending - Simply Wall Street",
