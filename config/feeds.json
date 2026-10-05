@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Federal Reserve - Press Releases",
+    "category": "fed",
+    "url": "https://www.federalreserve.gov/feeds/press_all.xml"
+  },
+  {
+    "name": "Federal Reserve - Monetary Policy / FOMC",
+    "category": "fed",
+    "url": "https://www.federalreserve.gov/feeds/press_monetary.xml"
+  },
+  {
+    "name": "BEA News (GDP, corporate profits)",
+    "category": "macro",
+    "url": "https://www.bea.gov/news/rss"
+  },
+  {
+    "name": "CNBC Top News",
+    "category": "macro",
+    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+  },
+  {
+    "name": "TechCrunch",
+    "category": "tech",
+    "url": "https://techcrunch.com/feed/"
+  },
+  {
+    "name": "Ars Technica",
+    "category": "tech",
+    "url": "https://feeds.arstechnica.com/arstechnica/index"
+  },
+  {
+    "name": "The Verge",
+    "category": "tech",
+    "url": "https://www.theverge.com/rss/index.xml"
+  },
+  {
+    "name": "Data Center Dynamics (AI capex / power / cooling)",
+    "category": "ai_capex",
+    "url": "https://www.datacenterdynamics.com/en/rss/"
+  },
+  {
+    "name": "Google News - AI data center capex",
+    "category": "ai_capex",
+    "url": "https://news.google.com/rss/search?q=AI%20data%20center%20capex%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+  },
+  {
+    "name": "Google News - AI jobs layoffs wages",
+    "category": "labor",
+    "url": "https://news.google.com/rss/search?q=AI%20jobs%20layoffs%20wages%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+  },
+  {
+    "name": "Google News - entry level hiring graduates",
+    "category": "labor",
+    "url": "https://news.google.com/rss/search?q=entry%20level%20hiring%20recent%20graduates%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+  }
+]

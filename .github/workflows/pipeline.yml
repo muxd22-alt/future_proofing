@@ -1,0 +1,165 @@
+name: Capital-over-Labor Daily Pipeline
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # daily at 06:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  issues: write
+  id-token: write
+
+concurrency:
+  group: capital-over-labor
+  cancel-in-progress: false
+
+jobs:
+  pipeline:
+    name: Fetch, summarize, build
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: "1/5 Fetch macro + market data (FRED, yfinance)"
+        run: python scripts/fetch_data.py
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+
+      - name: "2/5 Fetch RSS news (Fed, tech, AI capex)"
+        run: python scripts/fetch_news.py
+
+      - name: "3/5 Generate daily AI brief (OpenRouter)"
+        run: python scripts/summarize.py
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+
+      - name: "4/5 Build static dashboard"
+        run: python scripts/build_site.py
+
+      - name: "5/5 Threshold check + GitHub CLI issue alert"
+        id: thresholds
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          # Falsifiable alert rules (see README "What would change my mind")
+          LABOR_SHARE_DROP_THRESHOLD_PCT: "1.0" # labor share down >1% month-over-month
+          PROFITS_WAGES_RATIO_SPIKE_PCT: "2.0"  # profits/wages ratio up >2% month-over-month
+        run: |
+          set -euo pipefail
+
+          ALERT_TITLE="$(python - <<'PY'
+          import json, pathlib, datetime
+          p = pathlib.Path("data/macro.json")
+          if not p.exists():
+              raise SystemExit(0)
+          m = json.loads(p.read_text(encoding="utf-8"))
+          fired = []
+          ls = (m.get("series", {}).get("labor_share") or {}).get("stats") or {}
+          d1 = ls.get("delta_1m_pct")
+          if isinstance(d1, (int, float)) and d1 <= -abs(float(__import__("os").environ.get("LABOR_SHARE_DROP_THRESHOLD_PCT", 1.0))):
+              freq = ls.get("frequency") or "monthly"
+              fired.append(f"labor share {d1:+.2f}% vs prior observation ({freq} series)")
+          pw = (m.get("derived", {}).get("profits_vs_wages_ratio") or {}).get("stats") or {}
+          d2 = pw.get("delta_1m_pct")
+          if isinstance(d2, (int, float)) and d2 >= abs(float(__import__("os").environ.get("PROFITS_WAGES_RATIO_SPIKE_PCT", 2.0))):
+              fired.append(f"corporate-profits-to-wages ratio {d2:+.2f}% vs prior observation (quarterly series)")
+          if not fired:
+              print("")
+          else:
+              date = m.get("as_of") or datetime.date.today().isoformat()
+              print(f"Macro threshold crossed ({date}): " + "; ".join(fired))
+          PY
+          )" || ALERT_TITLE=""
+
+          if [ -z "${ALERT_TITLE}" ]; then
+            echo "alert=false" >> "$GITHUB_OUTPUT"
+            echo "No threshold crossed."
+            exit 0
+          fi
+
+          echo "alert=true" >> "$GITHUB_OUTPUT"
+          echo "alert_title=${ALERT_TITLE}" >> "$GITHUB_OUTPUT"
+
+          # De-duplicate: skip if an identical alert is already open
+          EXISTING="$(gh issue list --repo "$REPO" --state open --label macro-alert --json title --jq '.[].title' || true)"
+          if echo "$EXISTING" | grep -Fqx "$ALERT_TITLE"; then
+            echo "Open issue already exists for this alert."
+            exit 0
+          fi
+
+          gh label create "macro-alert" --repo "$REPO" \
+            --description "Automated macro threshold alerts (capital vs labor)" \
+            --color d73a4a --force || true
+
+          gh issue create --repo "$REPO" \
+            --title "$ALERT_TITLE" \
+            --label macro-alert \
+            --body "$(cat <<'EOF'
+          ## Automated macro threshold alert
+
+          The daily pipeline detected a crossed threshold in the **capital vs. labor** monitor.
+
+          | Signal | Rule | Status |
+          | --- | --- | --- |
+          | Labor share of income | down > 1.0% vs prior observation | see title |
+          | Corporate profits / wages ratio | up > 2.0% vs prior observation | see title |
+
+          - Workflow run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          - Dashboard: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+          - Data: `data/macro.json`
+
+          Rules are configured as workflow env vars and documented in the README
+          section **"What would change my mind"**.
+          EOF
+          )"
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Commit updated data/ and site/
+        run: |
+          set -euo pipefail
+          git config user.name "capital-labor-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data site
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "data: daily refresh $(date -u +%Y-%m-%d)"
+          git push
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: pipeline
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

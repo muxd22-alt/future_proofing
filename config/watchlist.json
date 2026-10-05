@@ -1,0 +1,12 @@
+{
+  "capital_enablers": {
+    "label": "Capital Enablers (AI capex / HALO)",
+    "rationale": "Semiconductors, data-center power/cooling, grid buildout and industrial automation: heavy-asset, low-obsolescence beneficiaries of the capex boom.",
+    "tickers": ["NVDA", "AVGO", "TSM", "VRT", "ANET", "SMCI", "ETN", "PWR", "GEV", "VST", "NRG", "CEG"]
+  },
+  "labor_heavy": {
+    "label": "Labor-Heavy (staffing / office / per-seat SaaS)",
+    "rationale": "Staffing agencies, IT outsourcers, commercial office REITs and per-seat software: revenue scales with headcount and is exposed to AI substitution.",
+    "tickers": ["MAN", "RHI", "KELYA", "EPAM", "INFY", "CTSH", "BXP", "VNO", "SLG", "TEAM"]
+  }
+}
