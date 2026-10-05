@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T08:06:45Z",
+  "generated_at": "2026-10-05T08:14:41Z",
   "max_age_days": 7,
   "feeds": [
     {
@@ -111,6 +111,14 @@
       "summary": "Political and fiscal concerns are mounting in two of the euro area's biggest economies."
     },
     {
+      "title": "Treasury yields inch lower as investors pare back Fed rate hike bets",
+      "link": "https://www.cnbc.com/2026/10/05/treasury-yields-bonds-fed-rates.html",
+      "source": "CNBC Top News",
+      "category": "macro",
+      "published": "2026-10-05T08:00:01Z",
+      "summary": "U.S. Treasury yields inched lower on Monday after a sharp selloff the week prior, as investors look ahead to the Federal Reserve's last meeting minutes."
+    },
+    {
       "title": "Spain's PM Sanchez calls snap election after housing crisis protests",
       "link": "https://www.cnbc.com/2026/10/05/spain-sanchez-snap-election-housing-protests.html",
       "source": "CNBC Top News",
@@ -189,14 +197,6 @@
       "category": "tech",
       "published": "2026-10-04T20:31:07Z",
       "summary": "AI slop seems to be overwhelming bug bounty programs."
-    },
-    {
-      "title": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
-      "link": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
-      "source": "CNBC Top News",
-      "category": "macro",
-      "published": "2026-10-04T20:28:47Z",
-      "summary": "Trump is promoting two federal payment programs already underway while reiterating a $5,000 dividend promise contingent on Republicans retaining Congress."
     },
     {
       "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
@@ -303,12 +303,12 @@
       "summary": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity."
     },
     {
-      "title": "Amazon Pledges $1 Billion for Data Center Communities - Amazon.com (NASDAQ:AMZN) - Benzinga",
+      "title": "Amazon Pledges $1 Billion for Data Center Communities - Amazon.com (NASDAQ:AMZN) - benzinga.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2hXT25Ic3VnOWxYaklHWG5WR2E0T1NaclAtQ0RGbEVWSS1XTWFZNTlKM2Q0dy1jZHFaYkxua0UzVkhCSmVsMm92dUcyWVBaYnh6TVViM2tnUF9VbDhyZmh3MjFJZTV3ejExZ3Yzdm4yRklJR0gwa3NkMEpwU2ZSSEc3dFp5V282MzNjR3d3WUNYTGdOakdlbzJET2NvVXhFRU41S3VOcTA?oc=5",
       "source": "Google News - AI data center capex",
       "category": "ai_capex",
       "published": "2026-10-04T02:56:54Z",
-      "summary": "Amazon Pledges $1 Billion for Data Center Communities - Amazon.com (NASDAQ:AMZN) Benzinga"
+      "summary": "Amazon Pledges $1 Billion for Data Center Communities - Amazon.com (NASDAQ:AMZN) benzinga.com"
     },
     {
       "title": "Is AI to blame for hiring woes faced by college graduates? - ABC7 Chicago",
@@ -495,36 +495,44 @@
       "summary": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc."
     },
     {
-      "title": "New Grads Struggle As Employers Raise The Bar For Entry-Level Jobs - - blackenterprise.com",
+      "title": "New Grads Struggle As Employers Raise The Bar For Entry-Level Jobs - - Black Enterprise",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT2FYcjN2SGhDaU51TlpoU2phZ21rZGJvTXpycWdBUl8wQmtNWFVMdjRmam9Id3FCc3d5anJEMlhfUEw3OWNUeXg3VzhXX250R1RSN2hFLUY4OS1zaEN5LTJkRG5iTlNDOXExeVoxUlM0RHljdWhic1ZrdGg0dUpNcGVIWlhWaVk1Nm1WbnA1M1Y3QQ?oc=5",
       "source": "Google News - entry level hiring graduates",
       "category": "labor",
       "published": "2026-10-02T11:18:26Z",
-      "summary": "New Grads Struggle As Employers Raise The Bar For Entry-Level Jobs - blackenterprise.com"
+      "summary": "New Grads Struggle As Employers Raise The Bar For Entry-Level Jobs - Black Enterprise"
     },
     {
-      "title": "The Pentagon May Be Entering the AI CapEx Race? - Moomoo",
+      "title": "The Pentagon May Be Entering the AI CapEx Race? - moomoo.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWtHbjJ3OGJPQzhGdjRDUFlLWnJJY2NvZDRBVldVQXd2STRoQTFVTXlIenFFaEhWZEI5bTJ2OThPMVNhR0R3bi1Welg1NTNQLUFaRHB6WFExS0IyanVscWhqOTVDMVhyWjllWDJVcnhCUlJDUnpBTGhXV1RoVUlRVllMY2ZEUVJ4VFI5ZzRwOXBJdXctZ0lqTTNJOWtOdnZtTEE?oc=5",
       "source": "Google News - AI data center capex",
       "category": "ai_capex",
       "published": "2026-10-02T09:16:05Z",
-      "summary": "The Pentagon May Be Entering the AI CapEx Race? Moomoo"
+      "summary": "The Pentagon May Be Entering the AI CapEx Race? moomoo.com"
     },
     {
-      "title": "How Much Are AI Companies Spending on Data Centers? - The Motley Fool",
+      "title": "Layoff Tracker: Foghorn cuts 40% of workforce - BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1N2d4NnYwN0JiU181Tm9vV0dUM1c1NWVMUHNCdlZFVmRSZXpmRFp3TnBQUVJXYnFYV1VlNVBIZXU0TzY4bE5BNTd4NGpIT21aYlZHMy1qSW1HWDFH?oc=5",
+      "source": "Google News - AI jobs layoffs wages",
+      "category": "labor",
+      "published": "2026-10-02T07:00:00Z",
+      "summary": "Layoff Tracker: Foghorn cuts 40% of workforce BioSpace"
+    },
+    {
+      "title": "How Much Are AI Companies Spending on Data Centers? - fool.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FRDhlT2wyczJjb2hKeUNCZG1EUTd4R3ZzM1BQRjFOOGxGMWw0Ql82WmpPS3JIMTVGejI0YWpCRndsMV82R1JSNWhFZF9TUlFkdkNDRlJqOTVkUFdIS01rT3dDcFpTSUJoMzF5alktUjdPNjJqbGUw?oc=5",
       "source": "Google News - AI data center capex",
       "category": "ai_capex",
       "published": "2026-10-01T18:37:00Z",
-      "summary": "How Much Are AI Companies Spending on Data Centers? The Motley Fool"
+      "summary": "How Much Are AI Companies Spending on Data Centers? fool.com"
     },
     {
-      "title": "Analysis: China's AI data center buildout vaults to No. 2 as Big Tech capex races toward US$100 billion - digitimes",
+      "title": "Analysis: China's AI data center buildout vaults to No. 2 as Big Tech capex races toward US$100 billion - digitimes.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWxHdjJodDNrc1M4Q0pON0hZeHlwWC1pZDBwUHZwQjNROHEwUHU2b2o1a3FnSm9Gb3dpQ290elo5aXp5Z08waHhFVDMyOE1wUHo2QV9tSGJ4QnJQVkh0UG1iREtZeHp4SXRXUy1KVTVwc0dibm5TZ2R4eDZvMTVxc0RnanFLUnQyalVEdzJxLWpWZTBvTzNHdQ?oc=5",
       "source": "Google News - AI data center capex",
       "category": "ai_capex",
       "published": "2026-10-01T04:15:44Z",
-      "summary": "Analysis: China's AI data center buildout vaults to No. 2 as Big Tech capex races toward US$100 billion digitimes"
+      "summary": "Analysis: China's AI data center buildout vaults to No. 2 as Big Tech capex races toward US$100 billion digitimes.com"
     },
     {
       "title": "3 AI Infrastructure Stocks Retail Investors Are Watching For Data Center Spending - Simply Wall Street",
@@ -533,14 +541,6 @@
       "category": "ai_capex",
       "published": "2026-09-30T21:00:33Z",
       "summary": "3 AI Infrastructure Stocks Retail Investors Are Watching For Data Center Spending Simply Wall Street"
-    },
-    {
-      "title": "Fearing AI, workers go back to school seeking jobs that still need a human touch - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDZYM0oyNmRIeXRRNnhIT3kxRHlxT1ZsTEJLeEdKenk2ZHhEMlYzdFJXQ2Zsd3JkYWFKdV80cE5HR21pNXBzUFFqajM2a3pvZzYtU2dGRTdoMHh2dmRqdXh1RDJlX29RZ3p5NDlDWVhtWGNYWU9kYlgxUUtaVUFkanMyNHVTWk5ONDkwUGhEbWlxQjRpQUtfaHM4eEdjVVhnOGlpX2xuMHA3WmgtTnVkM1kzT3JSMWxMekJ4QTRMY1hENGp5OFE?oc=5",
-      "source": "Google News - AI jobs layoffs wages",
-      "category": "labor",
-      "published": "2026-09-30T17:00:01Z",
-      "summary": "Fearing AI, workers go back to school seeking jobs that still need a human touch The Washington Post"
     },
     {
       "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
