@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T08:20:50Z",
+  "generated_at": "2026-10-06T13:01:55Z",
   "max_age_days": 7,
   "feeds": [
     {
@@ -7,7 +7,7 @@
       "category": "fed",
       "url": "https://www.federalreserve.gov/feeds/press_all.xml",
       "status": "ok",
-      "items_returned": 5,
+      "items_returned": 6,
       "entries_seen": 20
     },
     {
@@ -23,7 +23,7 @@
       "category": "macro",
       "url": "https://www.bea.gov/news/rss",
       "status": "ok",
-      "items_returned": 2,
+      "items_returned": 3,
       "entries_seen": 10
     },
     {
@@ -72,7 +72,7 @@
       "url": "https://news.google.com/rss/search?q=AI%20data%20center%20capex%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "items_returned": 8,
-      "entries_seen": 64
+      "entries_seen": 65
     },
     {
       "name": "Google News - AI jobs layoffs wages",
@@ -80,7 +80,7 @@
       "url": "https://news.google.com/rss/search?q=AI%20jobs%20layoffs%20wages%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "items_returned": 8,
-      "entries_seen": 22
+      "entries_seen": 23
     },
     {
       "name": "Google News - entry level hiring graduates",
@@ -88,227 +88,395 @@
       "url": "https://news.google.com/rss/search?q=entry%20level%20hiring%20recent%20graduates%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "items_returned": 8,
-      "entries_seen": 66
+      "entries_seen": 61
     }
   ],
   "feed_failures": 0,
   "carried_over": false,
   "counts": {
-    "macro": 10,
-    "ai_capex": 14,
+    "macro": 9,
     "tech": 24,
-    "labor": 8,
+    "ai_capex": 13,
+    "labor": 10,
     "fed": 4
   },
   "total": 60,
   "items": [
     {
-      "title": "Russia ramps up attacks on Kyiv infrastructure as U.S. makes fresh push for peace talks",
-      "link": "https://www.cnbc.com/2026/10/05/ukraine-war-russia-kyiv-putin-zelenskyy-trump.html",
+      "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
+      "link": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
       "source": "CNBC Top News",
       "category": "macro",
-      "published": "2026-10-05T08:12:21Z",
-      "summary": "Russia has pledged to intensify strikes on Kyiv and other Ukrainian cities after a drone attack damaged the capital’s key Northern Bridge over the weekend."
+      "published": "2026-10-06T13:00:34Z",
+      "summary": "Nearly 20 commercial ships, mostly tankers, have come under attack over the past month while sailing through the Hormuz chokepoint."
     },
     {
-      "title": "Euro hits 17-month low as political uncertainty in Spain and France rattles markets",
-      "link": "https://www.cnbc.com/2026/10/05/euro-dollar-spain-france-risk.html",
+      "title": "Anduril lands $2.9 billion Navy submarine shipyard contract days after CEO joins Pentagon weapons group",
+      "link": "https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html",
       "source": "CNBC Top News",
       "category": "macro",
-      "published": "2026-10-05T08:04:35Z",
-      "summary": "Political and fiscal concerns are mounting in two of the euro area's biggest economies."
+      "published": "2026-10-06T13:00:07Z",
+      "summary": "Defense tech leaders are gaining sway in Washington in President Donald Trump's military reindustrialization push"
     },
     {
-      "title": "Treasury yields inch lower as investors pare back Fed rate hike bets",
-      "link": "https://www.cnbc.com/2026/10/05/treasury-yields-bonds-fed-rates.html",
+      "title": "Flai’s AI dealership software is booking 50,000 appointments per month",
+      "link": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-10-06T13:00:00Z",
+      "summary": "Flai's revenue has grown 20x in a year, and the company just closed a $27 million Series A funding round."
+    },
+    {
+      "title": "The wireless headphones that roll up into a Bluetooth speaker are now available",
+      "link": "https://www.theverge.com/tech/1004860/tomorrow-doesnt-matter-tdm-neo-headphone-roll-up-bluetooth-speaker-us-availability",
+      "source": "The Verge",
+      "category": "tech",
+      "published": "2026-10-06T13:00:00Z",
+      "summary": "Following their debut at CES 2026 and a successful Kickstarter crowdfunding campaign last February, Tomorrow Doesn't Matter's (TDM) Neo headphones are now available in the US. While Sony recently opted to reintroduce a headphone design from six years ago, TDM…"
+    },
+    {
+      "title": "Paramount's hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here's how we got here",
+      "link": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html",
       "source": "CNBC Top News",
       "category": "macro",
-      "published": "2026-10-05T08:00:01Z",
-      "summary": "U.S. Treasury yields inched lower on Monday after a sharp selloff the week prior, as investors look ahead to the Federal Reserve's last meeting minutes."
+      "published": "2026-10-06T12:55:15Z",
+      "summary": "Paramount has faced competing bids and an antitrust hurdle since its earliest attempts to take over WBD. Here's a timeline of key events."
     },
     {
-      "title": "Spain's PM Sanchez calls snap election after housing crisis protests",
-      "link": "https://www.cnbc.com/2026/10/05/spain-sanchez-snap-election-housing-protests.html",
+      "title": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel cost spike ahead of midterms",
+      "link": "https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html",
       "source": "CNBC Top News",
       "category": "macro",
-      "published": "2026-10-05T07:44:56Z",
-      "summary": ""
+      "published": "2026-10-06T12:42:13Z",
+      "summary": "The U.S. national average price of diesel topped $6 a gallon in September for the first time ever, as fuel supply disruptions pushed up transportation costs in the country."
     },
     {
-      "title": "Sponsored: Data center evolution has reached a tipping point",
-      "link": "https://www.datacenterdynamics.com/en/marketwatch/slow-data-center-evolution-will-turn-into-massive-ai-inspired-transformation-in-next-25-years/",
+      "title": "Facebook tests going Reels-first in India",
+      "link": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-10-06T12:38:53Z",
+      "summary": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center."
+    },
+    {
+      "title": "U.S. International Trade in Goods and Services, August 2026",
+      "link": "http://www.bea.gov/news/2026/us-international-trade-goods-and-services-august-2026",
+      "source": "BEA News (GDP, corporate profits)",
+      "category": "macro",
+      "published": "2026-10-06T12:30:00Z",
+      "summary": "The U.S. goods and services trade deficit increased in August 2026 according to the U.S. Bureau of Economic Analysis and the U.S. Census Bureau. The deficit increased from $92.8 billion in July (revised) to $105.6 billion in August, as imports increased more…"
+    },
+    {
+      "title": "The easiest Apple Watch to recommend is $50 off",
+      "link": "https://www.theverge.com/gadgets/1002889/apple-watch-se-3-prime-day-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "published": "2026-10-06T12:30:00Z",
+      "summary": "The Apple Watch SE 3 is the smartwatch that we recommend for most people because it’s affordable, yet packed with most of the features found in pricier versions. We spotted Amazon October Prime Day discounts across the lineup, including both the 40mm and 44mm…"
+    },
+    {
+      "title": "Russia’s neighbor backs push to lift ban on nuclear weapons, prompting outcry from Moscow",
+      "link": "https://www.cnbc.com/2026/10/06/russia-ukraine-lithuania-trump-nato.html",
+      "source": "CNBC Top News",
+      "category": "macro",
+      "published": "2026-10-06T12:28:35Z",
+      "summary": "Lithuania is seeking to bolster its security amid growing concerns over Russia."
+    },
+    {
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-10-06T12:21:53Z",
+      "summary": "The reports of OpenAI agents harming 3rd party sites keep coming."
+    },
+    {
+      "title": "Meta Muse gives AMD a boost as AI momentum shifts to personal agents",
+      "link": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
+      "source": "CNBC Top News",
+      "category": "macro",
+      "published": "2026-10-06T12:18:28Z",
+      "summary": "The personal agent boom is lifting the fortunes of AMD and Intel, which have outperformed their megacap tech peers over the past month."
+    },
+    {
+      "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+      "link": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-10-06T12:00:31Z",
+      "summary": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes."
+    },
+    {
+      "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
+      "link": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-10-06T12:00:00Z",
+      "summary": "Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 million."
+    },
+    {
+      "title": "The planetary wave headed for California isn’t what you think it is",
+      "link": "https://www.theverge.com/science/1005077/el-nino-planetary-wave-kelvin",
+      "source": "The Verge",
+      "category": "tech",
+      "published": "2026-10-06T12:00:00Z",
+      "summary": "A rather strong \"planetary wave\" recently slammed into South America and is making its way toward California. In case you're worried about headlines warning of the supposedly \"freak\" phenomenon \"bringing trouble,\" it's worth understanding what this wave reall…"
+    },
+    {
+      "title": "ABB launches range of DC power products",
+      "link": "https://www.datacenterdynamics.com/en/news/abb-launches-range-of-dc-power-products/",
       "source": "Data Center Dynamics (AI capex / power / cooling)",
       "category": "ai_capex",
-      "published": "2026-10-05T07:00:00Z",
-      "summary": "As unprecedented demand causes slow data center evolution to reach a tipping point, are the next 25 years set to see dramatic AI-inspired transformation across the industry?"
+      "published": "2026-10-06T11:48:32Z",
+      "summary": "Vendors looking to be ready for 1MW racks and 800vDC architectures"
     },
     {
-      "title": "Russia hospitalizes almost 200 people after researcher's death from plague: Reports",
-      "link": "https://www.cnbc.com/2026/10/05/suspected-plague-cases-reported-in-russias-irkutsk-region.html",
-      "source": "CNBC Top News",
-      "category": "macro",
-      "published": "2026-10-05T05:34:17Z",
-      "summary": "Nearly 200 people are under medical observation in Russia’s Irkutsk region over suspected exposure to plague, according to local media reports."
-    },
-    {
-      "title": "The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances",
-      "link": "https://www.cnbc.com/2026/10/05/aging-population-moodys-public-finances.html",
-      "source": "CNBC Top News",
-      "category": "macro",
-      "published": "2026-10-05T05:00:01Z",
-      "summary": "Moody's predicts that the world's aging populations will have fundamental impacts on the global economy and lead to difficult policy decisions."
-    },
-    {
-      "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
-      "link": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "published": "2026-10-05T04:00:52Z",
-      "summary": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls"
-    },
-    {
-      "title": "Surging Treasury yields don’t signal a U.S. 'fiscal apocalypse' — yet",
-      "link": "https://www.cnbc.com/2026/10/05/treasury-yields-fiscal-concerns-not-crisis-yet.html",
-      "source": "CNBC Top News",
-      "category": "macro",
-      "published": "2026-10-05T02:24:07Z",
-      "summary": "Treasury yields above 5% are raising fears that higher borrowing costs could fuel a debt spiral."
-    },
-    {
-      "title": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
-      "link": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
-      "source": "CNBC Top News",
-      "category": "macro",
-      "published": "2026-10-05T00:47:47Z",
-      "summary": "Trump is ramping up pressure on South Korea over Alaska LNG as Seoul remains cautious over investment projects announced by the U.S. president."
-    },
-    {
-      "title": "The new Fitbit Edge leaks",
-      "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
-      "source": "The Verge",
-      "category": "tech",
-      "published": "2026-10-04T21:02:09Z",
-      "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of sp…"
-    },
-    {
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "published": "2026-10-04T20:31:07Z",
-      "summary": "AI slop seems to be overwhelming bug bounty programs."
-    },
-    {
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "published": "2026-10-04T20:08:34Z",
-      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI."
-    },
-    {
-      "title": "Prick’s theatrical industrial punk is perfect for spooky season",
-      "link": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
-      "source": "The Verge",
-      "category": "tech",
-      "published": "2026-10-04T20:00:00Z",
-      "summary": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While Reznor is only credited as the produce…"
-    },
-    {
-      "title": "The best early October Prime Day deals happening now",
-      "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-      "source": "The Verge",
-      "category": "tech",
-      "published": "2026-10-04T17:18:00Z",
-      "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on…"
-    },
-    {
-      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-      "source": "The Verge",
-      "category": "tech",
-      "published": "2026-10-04T16:16:04Z",
-      "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to…"
-    },
-    {
-      "title": "TechCrunch Mobility: Reining in robotaxis",
-      "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "published": "2026-10-04T16:05:00Z",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
-    },
-    {
-      "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
-      "link": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "published": "2026-10-04T15:34:14Z",
-      "summary": "Wunmi Mosaku ( Sinners, Loki ) narrates NatGeo's new documentary Africa: Earth's Wild Home"
-    },
-    {
-      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-      "source": "The Verge",
-      "category": "tech",
-      "published": "2026-10-04T15:21:59Z",
-      "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-m…"
-    },
-    {
-      "title": "Trump unveils his new Super Intelligence Force",
-      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "published": "2026-10-04T15:15:10Z",
-      "summary": "This new task force is Trump's latest response to the debate over AI safety."
-    },
-    {
-      "title": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
-      "link": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
-      "source": "The Verge",
-      "category": "tech",
-      "published": "2026-10-04T15:00:00Z",
-      "summary": "This toolless modular lever-action wallet is the coolest I've stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own? Now, OhSnap has a magnetic lever-action card wallet that can sta…"
-    },
-    {
-      "title": "America’s AI race won’t be won by hitting pause on data centers",
-      "link": "https://www.datacenterdynamics.com/en/opinions/americas-ai-race-wont-be-won-by-hitting-pause-on-cata-centers/",
+      "title": "ByteDance takes up one-fifth of China's data center capacity",
+      "link": "https://www.datacenterdynamics.com/en/news/bytedance-takes-up-one-fifth-of-chinas-data-center-capacity/",
       "source": "Data Center Dynamics (AI capex / power / cooling)",
       "category": "ai_capex",
-      "published": "2026-10-04T14:26:00Z",
-      "summary": "A moratorium mistake"
+      "published": "2026-10-06T11:43:14Z",
+      "summary": "Majority of capacity is leased from third-party providers"
     },
     {
-      "title": "The AirPods Pro 3 are a fantastic deal at $179",
-      "link": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
+      "title": "HF Sinclair launches cooling fluid for direct-to-chip environments",
+      "link": "https://www.datacenterdynamics.com/en/news/hf-sinclair-launches-cooling-fluid-for-direct-to-chip-environments/",
+      "source": "Data Center Dynamics (AI capex / power / cooling)",
+      "category": "ai_capex",
+      "published": "2026-10-06T11:41:44Z",
+      "summary": "Oil company follows on from launch of immersion fluid in 2024"
+    },
+    {
+      "title": "Lumos snaps up Allo Fiber's Joplin, Missouri, fiber network",
+      "link": "https://www.datacenterdynamics.com/en/news/lumos-snaps-up-allo-fibers-joplin-missouri-fiber-network/",
+      "source": "Data Center Dynamics (AI capex / power / cooling)",
+      "category": "ai_capex",
+      "published": "2026-10-06T11:31:51Z",
+      "summary": "The acquisition will bolster T-Mobile's fiber footprint as part of its JV"
+    },
+    {
+      "title": "The Pixel 11 Pro and Pro XL phones are $250 off",
+      "link": "https://www.theverge.com/gadgets/1003856/pixel-11-pro-xl-amazon-prime-day-deal-sale",
       "source": "The Verge",
       "category": "tech",
-      "published": "2026-10-04T13:00:00Z",
-      "summary": "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear…"
+      "published": "2026-10-06T11:30:00Z",
+      "summary": "During Amazon’s October sale, the Pixel 11 Pro and Pixel 11 Pro XL are discounted by $250 or more. The base model Pixel 11 Pro with 256GB of storage is only $849 (originally $1,099), $50 lower than the usual price for the base Pixel 11, while the 256GB 11 Pro…"
     },
     {
-      "title": "The MacBook Air M5 is $200 off for the first time in months",
-      "link": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
+      "title": "Unsure how long this AI bull has? Bonds now offer a cushion at the best values in years",
+      "link": "https://www.cnbc.com/2026/10/06/unsure-how-long-this-ai-bull-has-bonds-now-offer-a-cushion-at-the-best-values-in-years.html",
+      "source": "CNBC Top News",
+      "category": "macro",
+      "published": "2026-10-06T11:08:28Z",
+      "summary": "See an AI-generated hypothetical portfolio derived from my TV talk and this column's archives."
+    },
+    {
+      "title": "The Verge's guide to the best October Prime Day deals",
+      "link": "https://www.theverge.com/tech/1004783/october-prime-day-deals-guide",
       "source": "The Verge",
       "category": "tech",
-      "published": "2026-10-04T12:34:01Z",
-      "summary": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a machine that’s significantl…"
+      "published": "2026-10-06T11:01:52Z",
+      "summary": "Amazon’s Prime Big Deal Days (also known as October Prime Day) is here, serving as a precursor to Black Friday and Cyber Monday. There are a ton of good deals, and bundling them all into this package is the easiest way to keep the blast of upcoming coverage u…"
     },
     {
-      "title": "All hail electrification. But let’s talk about the hard part.",
-      "link": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
+      "title": "The best October Prime Day tech deals we found",
+      "link": "https://www.theverge.com/gadgets/996983/best-october-prime-day-deal-sale-tech",
+      "source": "The Verge",
+      "category": "tech",
+      "published": "2026-10-06T10:55:05Z",
+      "summary": "Amazon’s Prime Big Deal Days event has begun, and it lasts through 3AM ET on Thursday, October 8th. We’ve spun through the company’s huge list of deals to find products that Verge readers will like (and that we personally like, too). Prime subscribers can get…"
+    },
+    {
+      "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+      "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+      "source": "The Verge",
+      "category": "tech",
+      "published": "2026-10-06T10:53:11Z",
+      "summary": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alex…"
+    },
+    {
+      "title": "Malaysia's DNB secures $1.27bn in funding for next phase of 5G rollout",
+      "link": "https://www.datacenterdynamics.com/en/news/malaysias-dnb-secures-127bn-in-funding-for-next-phase-of-5g-rollout/",
+      "source": "Data Center Dynamics (AI capex / power / cooling)",
+      "category": "ai_capex",
+      "published": "2026-10-06T10:20:42Z",
+      "summary": "Comes shortly after the DNB activated more spectrum to expand 5G footprint"
+    },
+    {
+      "title": "TeraWulf's Kentucky campus to reach 1GW in 2029",
+      "link": "https://www.datacenterdynamics.com/en/news/terawulfs-kentucky-campus-to-reach-1gw-in-2029/",
+      "source": "Data Center Dynamics (AI capex / power / cooling)",
+      "category": "ai_capex",
+      "published": "2026-10-06T10:10:39Z",
+      "summary": "Company adding second 500MW phase a year sooner"
+    },
+    {
+      "title": "Investment firm Forum Markets partners with Edge Node for US compute roll-out",
+      "link": "https://www.datacenterdynamics.com/en/news/investment-firm-forum-markets-partners-with-edge-node-for-us-compute-roll-out/",
+      "source": "Data Center Dynamics (AI capex / power / cooling)",
+      "category": "ai_capex",
+      "published": "2026-10-06T10:00:32Z",
+      "summary": "JV taking on data center capacity in Dallas and North Carolina, deploying capacity at Texas cell tower"
+    },
+    {
+      "title": "Why deep-red Kansas has become an unexpected Senate battleground",
+      "link": "https://www.cnbc.com/2026/10/06/kansas-election-senate-marshall-hamilton.html",
+      "source": "CNBC Top News",
+      "category": "macro",
+      "published": "2026-10-06T10:00:01Z",
+      "summary": "A combination of local, national and international events has contributed to making the Kansas Senate race one to watch."
+    },
+    {
+      "title": "Axe Compute acquires full ownership of AI cluster in Columbus, Georgia",
+      "link": "https://www.datacenterdynamics.com/en/news/axe-compute-acquires-full-ownership-of-ai-cluster-in-columbus-georgia/",
+      "source": "Data Center Dynamics (AI capex / power / cooling)",
+      "category": "ai_capex",
+      "published": "2026-10-06T09:50:47Z",
+      "summary": "Purchased from Duos Technologies Group, Duos still owns facility"
+    },
+    {
+      "title": "This remote-controlled wagon is silly but so very useful",
+      "link": "https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful",
+      "source": "The Verge",
+      "category": "tech",
+      "published": "2026-10-06T08:00:00Z",
+      "summary": "Confession: When BougeRV told me about its remote-controlled wagon with animated lighting, I called it in for a laugh, expecting to eviscerate it in a review. It's ridiculous, to be sure. But the DuneRover also proved very capable, with enough torque to flatt…"
+    },
+    {
+      "title": "How AI is affecting the job market and hiring process - southeastarrow.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFlfTk5kcGpnWWNzem5GdktLeXphdU9zc2QyRkkxVDRBZlZnQng4ZmhwdEJOMzB3NjluOWhLVFdIVzBrbjNNWElid3lRSG54dm41bGVlQXIwbEJZb2Rwc2x1bjNFUUNNTmVwT084X2pwc1k4Z2tYZnNYWlNXZ0FXcHVORG8wRVlwVTBxWVRYdHktdm9PdzBTQmdhamNkZ0U?oc=5",
+      "source": "Google News - entry level hiring graduates",
+      "category": "labor",
+      "published": "2026-10-06T03:12:34Z",
+      "summary": "How AI is affecting the job market and hiring process southeastarrow.com"
+    },
+    {
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
       "source": "Ars Technica",
       "category": "tech",
-      "published": "2026-10-04T11:05:53Z",
-      "summary": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity."
+      "published": "2026-10-05T22:26:35Z",
+      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another."
     },
     {
-      "title": "Amazon Pledges $1 Billion for Data Center Communities - Amazon.com (NASDAQ:AMZN) - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2hXT25Ic3VnOWxYaklHWG5WR2E0T1NaclAtQ0RGbEVWSS1XTWFZNTlKM2Q0dy1jZHFaYkxua0UzVkhCSmVsMm92dUcyWVBaYnh6TVViM2tnUF9VbDhyZmh3MjFJZTV3ejExZ3Yzdm4yRklJR0gwa3NkMEpwU2ZSSEc3dFp5V282MzNjR3d3WUNYTGdOakdlbzJET2NvVXhFRU41S3VOcTA?oc=5",
+      "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+      "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-10-05T21:54:01Z",
+      "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs."
+    },
+    {
+      "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
+      "link": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-10-05T20:47:48Z",
+      "summary": "Cable industry to sue, says FCC can't repeal TV ownership limit set by Congress."
+    },
+    {
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-10-05T20:36:48Z",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says."
+    },
+    {
+      "title": "Texas city demands $2M for public records on Flock usage",
+      "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-10-05T20:31:12Z",
+      "summary": "Prices of public records tracking cops' use of Flock go up as backlash swells."
+    },
+    {
+      "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+      "source": "Federal Reserve - Press Releases",
+      "category": "fed",
+      "published": "2026-10-05T20:30:00Z",
+      "summary": "Federal Reserve Board announces approval of application by Isabella Bank Corporation"
+    },
+    {
+      "title": "Etched fields funding offers at $40B+ valuation, sources say",
+      "link": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-10-05T20:24:09Z",
+      "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch."
+    },
+    {
+      "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
+      "link": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-10-05T19:38:07Z",
+      "summary": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post."
+    },
+    {
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-10-05T19:33:53Z",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprieta…"
+    },
+    {
+      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+      "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-10-05T19:14:44Z",
+      "summary": "The tool can free up over 12GB of storage."
+    },
+    {
+      "title": "Controlling the brain with light earns a physiology Nobel",
+      "link": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-10-05T17:59:27Z",
+      "summary": "The entire field of optogenetics traces back to light-seeking algae."
+    },
+    {
+      "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
+      "link": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-10-05T17:21:11Z",
+      "summary": "Russian attacks on Internet, phone services threaten Ukraine’s wartime economy."
+    },
+    {
+      "title": "There’s a growing disconnect on the value of AI skills when it comes to salary - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWjdlanFHS3ZZT1prNUNkZU1CT0tXbWZuMWZuTkt4UE94VUlnajk5S0dZMnRuclBUZUk5Vmx4NHB0ZUJkVkVBdUlPbmd1VzJJSWljTUlkRGdULVdtZHhWMnpGY3hBVWxDN0RCaWJ1cVEtUGN3ZkZybDZfOHUtemlib3phdl9ybGo4ZU0wcWV6cVh3a21ndnMzUHBuTFkxSXlzUkE?oc=5",
+      "source": "Google News - AI jobs layoffs wages",
+      "category": "labor",
+      "published": "2026-10-05T16:48:00Z",
+      "summary": "There’s a growing disconnect on the value of AI skills when it comes to salary The Business Journals"
+    },
+    {
+      "title": "Cal State goes all in on AI, but some job-seeking students remain skeptical - EdSource",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rdXBZNW1XR1RCUDZaTGFMQjI5NDc5WWZMMjhZRHhaTWEwZWpHcWxReXNKQU1TeGxPX2RucmtzUFllR0ZBcmNraE5FTEhOLWM4RUNEaU9id05sV2lCLVhVcHNKeDhtTWZTLWdyam9nUFlxdzRjOWlF0gF3QVVfeXFMT2t1cFk1bVdHVEJQNlpMYUxCMjk0NzlZZkwyOFlEeFpNYTBlakdxbFF5c0pBTVN4bE9fZG5ya3NQWWVHRkFyY2toTkVMSE4tYzhFQ0RpT2J3TmxXaUItWFVwc0p4OG1NZlMtZ3Jqb2dQWXF3NGM5aUU?oc=5",
+      "source": "Google News - entry level hiring graduates",
+      "category": "labor",
+      "published": "2026-10-05T07:49:51Z",
+      "summary": "Cal State goes all in on AI, but some job-seeking students remain skeptical EdSource"
+    },
+    {
+      "title": "The Agentic AI Super Cycle - Semiconductor Engineering",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EWDVtWEtaWVJXc050dHY4TVkyTnZtMEQ0NzBNYVBTYU1XZkRoYTN3M2hWVXFsRWgyODN5MFJiT1ZqcDZjNHJWN3puMXloMUM0amNBQ3FmdkI2LWlBUlJQanppSzU?oc=5",
       "source": "Google News - AI data center capex",
       "category": "ai_capex",
-      "published": "2026-10-04T02:56:54Z",
-      "summary": "Amazon Pledges $1 Billion for Data Center Communities - Amazon.com (NASDAQ:AMZN) Benzinga"
+      "published": "2026-10-05T07:33:08Z",
+      "summary": "The Agentic AI Super Cycle Semiconductor Engineering"
+    },
+    {
+      "title": "Oracle's Wisconsin AI data center hits a Wisconsin power line roadblock - Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNzFlTm1PbkF4Z2hORzYxSVVEYktqak56YXJDNk0wNTBBeXlnMERoZi1pN0tMamZ6bnJZeTZYUDN0R2loOUh0eTNfN1dHSmdIUGtUNkczNWZUU2c3dnJiNk04QnpUM3FocEFIandKTU5HYk5NeXlkWVNmRDZ2NHAwUUJpaVdUTE8xOVBwVFVKMDRlV1ZpcXB1eHVVdXhhU0k?oc=5",
+      "source": "Google News - AI data center capex",
+      "category": "ai_capex",
+      "published": "2026-10-05T01:32:03Z",
+      "summary": "Oracle's Wisconsin AI data center hits a Wisconsin power line roadblock Startup Fortune"
     },
     {
       "title": "Is AI to blame for hiring woes faced by college graduates? - ABC7 Chicago",
@@ -317,62 +485,6 @@
       "category": "labor",
       "published": "2026-10-03T23:10:16Z",
       "summary": "Is AI to blame for hiring woes faced by college graduates? ABC7 Chicago"
-    },
-    {
-      "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
-      "link": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "published": "2026-10-03T19:45:17Z",
-      "summary": "\"...we were making history.\""
-    },
-    {
-      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-      "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "published": "2026-10-03T19:33:15Z",
-      "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant."
-    },
-    {
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "published": "2026-10-03T18:43:57Z",
-      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
-    },
-    {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "published": "2026-10-03T16:30:01Z",
-      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job."
-    },
-    {
-      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
-      "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "published": "2026-10-03T15:02:01Z",
-      "summary": "Bitchat has become largely unavailable in India as a result of the restrictions."
-    },
-    {
-      "title": "Sponsored: Overcoming five common direct liquid cooling specification challenges",
-      "link": "https://www.datacenterdynamics.com/en/opinions/overcoming-five-common-direct-liquid-cooling-specification-challenges/",
-      "source": "Data Center Dynamics (AI capex / power / cooling)",
-      "category": "ai_capex",
-      "published": "2026-10-03T15:00:00Z",
-      "summary": "The reality of AI infrastructure has arrived: the power-hungry chips of today, such as the NVIDIA Blackwell, have rendered traditional air cooling obsolete"
-    },
-    {
-      "title": "The dawn of the age of the exoskeleton",
-      "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "published": "2026-10-03T11:15:33Z",
-      "summary": "The devices continue to show noticeable benefits for users in various real-world tasks."
     },
     {
       "title": "AI's race to transform the world before the money runs out - Reuters",
@@ -395,24 +507,16 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PX0JSMUxWZVlQZzE4VklPbEdhZkRTQk15aG9FVnE2WmFrdGRGVjZSb29aRXF6UHVwMDhTNzZ1Vk9Tem8xdGtDTEFqTTBGRWVlWWcyZ1lRc2Q2VWhmQmNPM19kOElZMjhQ?oc=5",
       "source": "Google News - AI jobs layoffs wages",
       "category": "labor",
-      "published": "2026-10-03T03:32:39Z",
+      "published": "2026-10-03T03:32:23Z",
       "summary": "September US jobs data shows stagnant employment and lagging wages, as AI-driven layoffs deepen World Socialist Web Site"
     },
     {
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "published": "2026-10-02T23:03:16Z",
-      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ."
-    },
-    {
-      "title": "Someone got Doom in an SQL database",
-      "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "published": "2026-10-02T21:19:05Z",
-      "summary": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps."
+      "title": "The New Rules of Career Readiness: Connecting Education and Employment - Inside Higher Ed",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXg1T05sWVlkOGVlZ2I2LVNZT2JIajFld3dfWVQ1Nmllc2FMV0NJNnpaX2ppc2ZySUVCd0F0VG5Td281cGJrX2EzajdDSHdfRml2WnR3MmNXNGo5REM3VUYyMjh6SVlDS0ZvLWo0UEFMOHNOV0tJdmZjdVdTRFFZcERnR2lQOE1aemJzVC1LNmMwWXBHZ2tRZldtTnFNZUtqcEVlSEl1eUk5SWdfMGRaOTBhOVVuZw?oc=5",
+      "source": "Google News - entry level hiring graduates",
+      "category": "labor",
+      "published": "2026-10-03T01:29:48Z",
+      "summary": "The New Rules of Career Readiness: Connecting Education and Employment Inside Higher Ed"
     },
     {
       "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
@@ -423,36 +527,12 @@
       "summary": "Federal Reserve Board announces approval of application by Fleur Capital Corporation"
     },
     {
-      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-      "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "published": "2026-10-02T20:30:27Z",
-      "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution."
-    },
-    {
       "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
       "source": "Federal Reserve - Press Releases",
       "category": "fed",
       "published": "2026-10-02T20:00:00Z",
       "summary": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O"
-    },
-    {
-      "title": "General Compute signs multi-year agreement with Cerebras",
-      "link": "https://www.datacenterdynamics.com/en/news/general-compute-signs-multi-year-agreement-with-cerebras/",
-      "source": "Data Center Dynamics (AI capex / power / cooling)",
-      "category": "ai_capex",
-      "published": "2026-10-02T16:35:30Z",
-      "summary": "Will see Cerebras' wafer-scale compute coming to the AI cloud platform"
-    },
-    {
-      "title": "Intro Group to invest $270m in Egypt’s Kemet Data Center",
-      "link": "https://www.datacenterdynamics.com/en/news/intro-group-to-invest-270m-in-egypts-kemet-data-center/",
-      "source": "Data Center Dynamics (AI capex / power / cooling)",
-      "category": "ai_capex",
-      "published": "2026-10-02T16:33:42Z",
-      "summary": "The facility will be developed in two phases"
     },
     {
       "title": "The Job Seeker’s Guide to Entry-Level Software Engineer Jobs - Coursera",
@@ -463,30 +543,6 @@
       "summary": "The Job Seeker’s Guide to Entry-Level Software Engineer Jobs Coursera"
     },
     {
-      "title": "Poland’s National Data Processing Center receives EU funding grant",
-      "link": "https://www.datacenterdynamics.com/en/news/polands-national-data-processing-center-receives-eu-funding-grant/",
-      "source": "Data Center Dynamics (AI capex / power / cooling)",
-      "category": "ai_capex",
-      "published": "2026-10-02T16:29:50Z",
-      "summary": "The data center network has received PLN 1.56 billion ($401m) from the European Funds for Digital Development program"
-    },
-    {
-      "title": "AI data center planned for Karlsruhe Institute of Technology, Germany",
-      "link": "https://www.datacenterdynamics.com/en/news/ai-data-center-planned-for-karlsruhe-institute-of-technology-germany/",
-      "source": "Data Center Dynamics (AI capex / power / cooling)",
-      "category": "ai_capex",
-      "published": "2026-10-02T16:27:01Z",
-      "summary": "Facility estimated to cost €24 million and open in 2030"
-    },
-    {
-      "title": "Another data center in Kyiv taken offline by Russian strikes",
-      "link": "https://www.datacenterdynamics.com/en/news/another-data-center-in-kyiv-taken-offline-by-russian-strikes/",
-      "source": "Data Center Dynamics (AI capex / power / cooling)",
-      "category": "ai_capex",
-      "published": "2026-10-02T16:23:06Z",
-      "summary": "Dline.ua facility taken down, follows strikes on numerous others data centers in the city"
-    },
-    {
       "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
       "source": "Federal Reserve - Press Releases",
@@ -495,92 +551,36 @@
       "summary": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc."
     },
     {
-      "title": "New Grads Struggle As Employers Raise The Bar For Entry-Level Jobs - - Black Enterprise",
+      "title": "New Grads Struggle As Employers Raise The Bar For Entry-Level Jobs - - blackenterprise.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT2FYcjN2SGhDaU51TlpoU2phZ21rZGJvTXpycWdBUl8wQmtNWFVMdjRmam9Id3FCc3d5anJEMlhfUEw3OWNUeXg3VzhXX250R1RSN2hFLUY4OS1zaEN5LTJkRG5iTlNDOXExeVoxUlM0RHljdWhic1ZrdGg0dUpNcGVIWlhWaVk1Nm1WbnA1M1Y3QQ?oc=5",
       "source": "Google News - entry level hiring graduates",
       "category": "labor",
       "published": "2026-10-02T11:18:26Z",
-      "summary": "New Grads Struggle As Employers Raise The Bar For Entry-Level Jobs - Black Enterprise"
+      "summary": "New Grads Struggle As Employers Raise The Bar For Entry-Level Jobs - blackenterprise.com"
+    },
+    {
+      "title": "U.S. Labor Market Shifts to a Lower Gear - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTgzSzJQRjlHNnJvczdDMlpONE1wVzVDdGpaQ1dDT3pQT25BYUdEUUxPbThTZVBWakJBREhYT2REVWppb3NMSlhQeUR0bzVBUS1iZ0JtbWF0OGZoaWR5MVZKRXBPVXFFemduaU9fWUxFTV9MSzh4Yk15V2UzQ1hsZW1pZVJBZUlN?oc=5",
+      "source": "Google News - AI jobs layoffs wages",
+      "category": "labor",
+      "published": "2026-10-02T09:46:03Z",
+      "summary": "U.S. Labor Market Shifts to a Lower Gear The New York Times"
     },
     {
       "title": "The Pentagon May Be Entering the AI CapEx Race? - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWtHbjJ3OGJPQzhGdjRDUFlLWnJJY2NvZDRBVldVQXd2STRoQTFVTXlIenFFaEhWZEI5bTJ2OThPMVNhR0R3bi1Welg1NTNQLUFaRHB6WFExS0IyanVscWhqOTVDMVhyWjllWDJVcnhCUlJDUnpBTGhXV1RoVUlRVllMY2ZEUVJ4VFI5ZzRwOXBJdXctZ0lqTTNJOWtOdnZtTEE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQnlrak5GOXFObEs3ME1DSkZvRGpYb3U0NFE3bjZ4elRxMUxvQUhiUTh0TGFybmR2TUlQUFc3Tk9ULV80RWxIb3NlOHE1ZkFCdmNPNzlVS3hoNERBNzIweDNpRnRPQzZ5TE12cTBaZlMxZWRpaDVmWFB0MXpOZHk0bEZMOWowdGR1VEFNSFhCRk90X3AycnY4WHZOYThMNGxQ?oc=5",
       "source": "Google News - AI data center capex",
       "category": "ai_capex",
       "published": "2026-10-02T09:16:05Z",
       "summary": "The Pentagon May Be Entering the AI CapEx Race? Moomoo"
     },
     {
-      "title": "Layoff Tracker: Foghorn cuts 40% of workforce - BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1N2d4NnYwN0JiU181Tm9vV0dUM1c1NWVMUHNCdlZFVmRSZXpmRFp3TnBQUVJXYnFYV1VlNVBIZXU0TzY4bE5BNTd4NGpIT21aYlZHMy1qSW1HWDFH?oc=5",
-      "source": "Google News - AI jobs layoffs wages",
-      "category": "labor",
-      "published": "2026-10-02T07:00:00Z",
-      "summary": "Layoff Tracker: Foghorn cuts 40% of workforce BioSpace"
-    },
-    {
-      "title": "How Much Are AI Companies Spending on Data Centers? - fool.com",
+      "title": "How Much Are AI Companies Spending on Data Centers? - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FRDhlT2wyczJjb2hKeUNCZG1EUTd4R3ZzM1BQRjFOOGxGMWw0Ql82WmpPS3JIMTVGejI0YWpCRndsMV82R1JSNWhFZF9TUlFkdkNDRlJqOTVkUFdIS01rT3dDcFpTSUJoMzF5alktUjdPNjJqbGUw?oc=5",
       "source": "Google News - AI data center capex",
       "category": "ai_capex",
       "published": "2026-10-01T18:37:00Z",
-      "summary": "How Much Are AI Companies Spending on Data Centers? fool.com"
-    },
-    {
-      "title": "Analysis: China's AI data center buildout vaults to No. 2 as Big Tech capex races toward US$100 billion - digitimes",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWxHdjJodDNrc1M4Q0pON0hZeHlwWC1pZDBwUHZwQjNROHEwUHU2b2o1a3FnSm9Gb3dpQ290elo5aXp5Z08waHhFVDMyOE1wUHo2QV9tSGJ4QnJQVkh0UG1iREtZeHp4SXRXUy1KVTVwc0dibm5TZ2R4eDZvMTVxc0RnanFLUnQyalVEdzJxLWpWZTBvTzNHdQ?oc=5",
-      "source": "Google News - AI data center capex",
-      "category": "ai_capex",
-      "published": "2026-10-01T04:15:44Z",
-      "summary": "Analysis: China's AI data center buildout vaults to No. 2 as Big Tech capex races toward US$100 billion digitimes"
-    },
-    {
-      "title": "3 AI Infrastructure Stocks Retail Investors Are Watching For Data Center Spending - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDZFSEZRSWxwbnVyTlMxd0hqVmFOdm5KeUhEajFsUGZxeFVyNXVoa2l4MDZxaUc4d3RXNzExUzVkQlZ5VkhzTFhpN2JwUkxjY1pDZVFXREtvbjlZZ3BNYXAzOFVHYUVNb2dsLXhNanFxc0JhcGFOU3pmdnZ0VGViLUhMTFpFVGVUOG1oUWpuNEtmbXhfaF9XRG5GZmJGOUVsaHRXZHo2NXVkMTFjN0NIakFHLS1MdEVOWHlCN0M2TkxneHhQcnhtNFhnSUNNRjlz0gHWAUFVX3lxTE90LWc1ZE5pbUNkSTZZUWxSeU43NHJfWFFvZ0FjdXNnVEJqUnBWRDJXUjFvdHlHRHZmUmZVNFpTMWVLRjVMaHJobTdCOVl4TndkRVBWR3RaLWdGeGxyaGEydjZDUW1tZnluUHktT2lGMmx4MVA1Znh0aFVJUUZpZTNOby0zRXFreWVBakVhQmVkbXBBOXdGOHVzYjZQelhvQnVmQmNkcWhZLV9rd2Y1SldsdFhGOUVCb3B0ZVdUMURaWmNvcDhxOVBlWVRYdWJpVDZrZFR0Q3c?oc=5",
-      "source": "Google News - AI data center capex",
-      "category": "ai_capex",
-      "published": "2026-09-30T21:00:33Z",
-      "summary": "3 AI Infrastructure Stocks Retail Investors Are Watching For Data Center Spending Simply Wall Street"
-    },
-    {
-      "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-      "source": "Federal Reserve - Press Releases",
-      "category": "fed",
-      "published": "2026-09-30T13:00:00Z",
-      "summary": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements"
-    },
-    {
-      "title": "Personal Income and Outlays, August 2026",
-      "link": "http://www.bea.gov/news/2026/personal-income-and-outlays-august-2026",
-      "source": "BEA News (GDP, corporate profits)",
-      "category": "macro",
-      "published": "2026-09-30T12:30:00Z",
-      "summary": "Personal income increased $66.6 billion (0.2 percent at a monthly rate) in August, according to estimates released today by the U.S. Bureau of Economic Analysis (BEA). Disposable personal income (DPI)—personal income less personal current taxes—increased $68.…"
-    },
-    {
-      "title": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 2nd Quarter 2026; State PCE, 2025",
-      "link": "http://www.bea.gov/news/2026/gdp-third-estimate-industries-corporate-profits-state-gdp-and-state-personal-income-2nd",
-      "source": "BEA News (GDP, corporate profits)",
-      "category": "macro",
-      "published": "2026-09-30T12:30:00Z",
-      "summary": "Real gross domestic product (GDP) increased at an annual rate of 2.2 percent in the second quarter of 2026 (April, May, and June), according to the third estimate released today by the U.S. Bureau of Economic Analysis (BEA). In the first quarter, real GDP inc…"
-    },
-    {
-      "title": "What Happens To Entry-Level Workers When AI Does The Junior Work? - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbWZXNU1JZDhORmMwcXp5bjgyUFhJTmhWdjhGN3dKVXgxcnJUOUhYYVdiNTVYc2I5Nkw3bHFGU0FMQVBlaU56cDJ4UFlOSEkxWTBaTTRpTzM2VE5GbDhNRFJoYXVCU1FGRU1MOGIxc2Y1V3JZUnFqa0lpYWhCUW9LRVpHeGhuMUJ1aFRjUXY0bUw0UQ?oc=5",
-      "source": "Google News - entry level hiring graduates",
-      "category": "labor",
-      "published": "2026-09-30T10:30:00Z",
-      "summary": "What Happens To Entry-Level Workers When AI Does The Junior Work? Forbes"
-    },
-    {
-      "title": "AI Will Create 4 Times as Many Jobs as It Destroys, New Research Shows - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmpaOGZWRUdTbVQwVlFsNFJmcFQzNXdKZ3FfWFZnT0F0bFZVOE5lbWJUMFlrMFVpYVRELVhjaExvLWhtSjVJWUxQb21nNWw0X2pmemFBcTBGeFIwQktURWV6VGRBQ2dPRzQ2WW80UlBpLTJSZm9JTENiUWNjSFRUMjdITWM?oc=5",
-      "source": "Google News - AI jobs layoffs wages",
-      "category": "labor",
-      "published": "2026-09-29T20:20:00Z",
-      "summary": "AI Will Create 4 Times as Many Jobs as It Destroys, New Research Shows Barron's"
+      "summary": "How Much Are AI Companies Spending on Data Centers? The Motley Fool"
     }
   ]
 }
