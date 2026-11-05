@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-04T13:59:16Z",
-  "headline": "Labor share falling; capital enablers behind by 15.6pp (3m)",
+  "generated_at": "2026-11-05T14:20:02Z",
+  "headline": "Labor share falling; capital enablers behind by 27.2pp (3m)",
   "bullets": [
     {
-      "text": "Labor share index fell to 93.45 (-1.47% vs prior observation, -3.39% YoY) - income continues to rotate toward capital.",
+      "text": "Labor share index fell to 93.73 (-0.67% vs prior observation, -1.60% YoY) - income continues to rotate toward capital.",
       "tag": "capital-positive"
     },
     {
@@ -11,22 +11,22 @@
       "tag": "capital-positive"
     },
     {
-      "text": "Labor-heavy names returned +7.24% over 3 months versus -8.34% for capital enablers - a +15.59% spread in favor of labor.",
+      "text": "Labor-heavy names returned +13.09% over 3 months versus -14.07% for capital enablers - a +27.16% spread in favor of labor.",
       "tag": "labor-positive"
     },
     {
-      "text": "News flow over the last 7 days: 14 AI-capex stories versus 11 labor-market stories across 60 tracked items.",
+      "text": "News flow over the last 7 days: 14 AI-capex stories versus 13 labor-market stories across 60 tracked items.",
       "tag": "capital-positive"
     },
     {
-      "text": "Unemployment at 4.2% (2026-09-01). Macro data as of 2026-04-01; brief generated deterministically because no LLM API key was available.",
+      "text": "Unemployment at 4.2% (2026-09-01). Macro data as of 2026-07-01; brief generated deterministically because no LLM API key was available.",
       "tag": "neutral"
     }
   ],
   "model": "deterministic-fallback",
   "status": "fallback",
   "news_items_considered": 60,
-  "macro_as_of": "2026-04-01",
-  "markets_as_of": "2026-11-03",
-  "snapshot_used": "AS OF: 2026-04-01 (macro), markets as of 2026-11-03\n\n[LABOR SHARE]\n- Labor share index (PRS85006173, quarterly): 93.45 on 2026-04-01; change vs prior observation -1.47%; vs prior year -3.39%\n\n[CAPITAL INCOME vs WAGE INCOME]\n- Corporate profits (CP): 4,279.94 bn USD SAAR on 2026-04-01; prior obs +8.40%; YoY +26.61%\n- Wage bill proxy: 10,756.87 bn USD/yr on 2026-09-01; prior month +0.15%; YoY +3.95%\n- Profits-to-wage-bill ratio: 0.404 on 2026-04-01; prior obs +7.50%; YoY +22.00%\n- Unemployment rate: 4.2% on 2026-09-01; 1 month change +2.44%\n\n[WATCHLISTS]\n- Capital Enablers (AI capex / HALO) (12 tickers): basket returns 1m -8.48%, 3m -8.34%, 6m -10.17%, 1y +2.10%, YTD +9.83%\n  top 3m: SMCI +3.5%, CEG -0.5%, VST -0.5%\n  bottom 3m: VRT -15.1%, NRG -19.9%, AVGO -20.5%\n- Labor-Heavy (staffing / office / per-seat SaaS) (10 tickers): basket returns 1m +6.07%, 3m +7.24%, 6m +37.48%, 1y +13.93%, YTD +16.40%\n  top 3m: TEAM +68.6%, EPAM +25.8%, CTSH +15.1%\n  bottom 3m: BXP -9.5%, VNO -15.1%, MAN -16.4%\n- Spread (enablers minus labor-heavy): 1m -14.54%, 3m -15.59%, 1y -11.83%\n\n[NEWS]\n- Item counts by category (last 7 days): ai_capex=14, fed=1, labor=11, macro=10, tech=24; total 60\n  - [macro] CVS to split off drugstore business in major breakup of healthcare giant (CNBC Top News)\n  - [macro] SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service (CNBC Top News)\n  - [macro] Private companies added 86,000 jobs in October, slightly higher than expected, ADP says (CNBC Top News)\n  - [macro] Uber beats on revenue even as mobility and delivery units miss estimates (CNBC Top News)\n  - [macro] Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress (CNBC Top News)\n  - [macro] U.S. International Trade in Goods and Services, September 2026 (BEA News (GDP, corporate profits))\n  - [ai_capex] AT&T, AST SpaceMobile claim D2D handoff success (Data Center Dynamics (AI capex / power / cooling))\n  - [macro] McDonald's earnings beat, but traffic to its U.S. restaurants falls (CNBC Top News)\n  - [ai_capex] Oracle drops Tencent as cloud client, losing multi-billion-dollar contract - report (Data Center Dynamics (AI capex / power / cooling))\n  - [labor] How Recent College Graduates Are Managing Money Amid Inflation and a Tough Job Market - Investopedia (Google News - entry level hiring graduates)\n  - [macro] AI data center stocks and Musk's SpaceX decline as Texas governor result raises risks of a slowdown (CNBC Top News)\n  - [tech] TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston (TechCrunch)\n  - [macro] 5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans (CNBC Top News)\n  - [ai_capex] Google commits to $15bn investment in Malaysian data centers (Data Center Dynamics (AI capex / power / cooling))\n  - [ai_capex] Portuguese gov't drafts new rules requiring data centers to be powered via renewable energy (Data Center Dynamics (AI capex / power / cooling))"
+  "macro_as_of": "2026-07-01",
+  "markets_as_of": "2026-11-04",
+  "snapshot_used": "AS OF: 2026-07-01 (macro), markets as of 2026-11-04\n\n[LABOR SHARE]\n- Labor share index (PRS85006173, quarterly): 93.73 on 2026-07-01; change vs prior observation -0.67%; vs prior year -1.60%\n\n[CAPITAL INCOME vs WAGE INCOME]\n- Corporate profits (CP): 4,279.94 bn USD SAAR on 2026-04-01; prior obs +8.40%; YoY +26.61%\n- Wage bill proxy: 10,756.87 bn USD/yr on 2026-09-01; prior month +0.15%; YoY +3.95%\n- Profits-to-wage-bill ratio: 0.404 on 2026-04-01; prior obs +7.50%; YoY +22.00%\n- Unemployment rate: 4.2% on 2026-09-01; 1 month change +2.44%\n\n[WATCHLISTS]\n- Capital Enablers (AI capex / HALO) (12 tickers): basket returns 1m -16.43%, 3m -14.07%, 6m -16.19%, 1y -1.21%, YTD +2.21%\n  top 3m: SMCI +0.7%, TSM -5.1%, CEG -5.7%\n  bottom 3m: AVGO -22.5%, VRT -25.3%, NRG -29.7%\n- Labor-Heavy (staffing / office / per-seat SaaS) (10 tickers): basket returns 1m +10.53%, 3m +13.09%, 6m +42.55%, 1y +19.59%, YTD +20.54%\n  top 3m: TEAM +72.4%, EPAM +47.6%, CTSH +16.3%\n  bottom 3m: BXP -3.0%, VNO -6.8%, MAN -15.2%\n- Spread (enablers minus labor-heavy): 1m -26.96%, 3m -27.16%, 1y -20.81%\n\n[NEWS]\n- Item counts by category (last 7 days): ai_capex=14, labor=13, macro=9, tech=24; total 60\n  - [tech] Tech is about to get hammered in Congress (The Verge)\n  - [tech] NASA’s new experimental X-70 plane will be used to test next-gen aviation technologies (The Verge)\n  - [tech] RadianX promises solar-powered devices that never need charging (TechCrunch)\n  - [tech] Box taps Nvidia’s Nemotron for new agent-first content retrieval system (TechCrunch)\n  - [tech] The touchscreen MacBook Pro is a winner (The Verge)\n  - [tech] The new iMac is a good desktop computer that needs a redesign (The Verge)\n  - [tech] The M6 MacBook Pro is probably the last of its kind (The Verge)\n  - [macro] Banks are turning cautious on lending, according to the Fed. What it means for the economy (CNBC Top News)\n  - [macro] World's largest olive oil company plummets 20% after rivals agree to takeover deal (CNBC Top News)\n  - [ai_capex] 21 injured in Mackenzie, B.C., bus crash involving Iren contractor (Data Center Dynamics (AI capex / power / cooling))\n  - [macro] Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC (CNBC Top News)\n  - [macro] Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz’s Trian (CNBC Top News)\n  - [ai_capex] OpenAI promises to drop NDAs and increase community transparency, following anti-data center wave (Data Center Dynamics (AI capex / power / cooling))\n  - [tech] Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag (Ars Technica)\n  - [ai_capex] Caterpillar seeking to expand production of large reciprocating engines and turbines to meet huge data center demand (Data Center Dynamics (AI capex / power / cooling))"
 }

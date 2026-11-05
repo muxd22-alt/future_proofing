@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-04-01",
-  "generated_at": "2026-11-04T13:59:11Z",
+  "as_of": "2026-07-01",
+  "generated_at": "2026-11-05T14:19:57Z",
   "stale": false,
   "source": "FRED (fredgraph CSV / FRED API)",
   "fred_api_used": true,
@@ -15,20 +15,20 @@
       "via": "api",
       "stats": {
         "latest": {
-          "date": "2026-04-01",
-          "value": 93.446
+          "date": "2026-07-01",
+          "value": 93.729
         },
         "prev_month": {
-          "date": "2026-01-01",
-          "value": 94.843
+          "date": "2026-04-01",
+          "value": 94.362
         },
         "prev_year": {
-          "date": "2025-04-01",
-          "value": 96.723
+          "date": "2025-07-01",
+          "value": 95.254
         },
-        "delta_1m_pct": -1.473,
-        "delta_12m_pct": -3.388,
-        "observations": 318,
+        "delta_1m_pct": -0.671,
+        "delta_12m_pct": -1.601,
+        "observations": 319,
         "frequency": "quarterly"
       },
       "points": [
@@ -1218,91 +1218,95 @@
         },
         {
           "date": "2021-01-01",
-          "value": 100.601
+          "value": 100.507
         },
         {
           "date": "2021-04-01",
-          "value": 100.417
+          "value": 100.303
         },
         {
           "date": "2021-07-01",
-          "value": 100.748
+          "value": 100.747
         },
         {
           "date": "2021-10-01",
-          "value": 99.573
+          "value": 99.455
         },
         {
           "date": "2022-01-01",
-          "value": 99.12
+          "value": 99.159
         },
         {
           "date": "2022-04-01",
-          "value": 97.499
+          "value": 97.476
         },
         {
           "date": "2022-07-01",
-          "value": 98.166
+          "value": 98.149
         },
         {
           "date": "2022-10-01",
-          "value": 96.9
-        },
-        {
-          "date": "2023-01-01",
-          "value": 96.555
-        },
-        {
-          "date": "2023-04-01",
-          "value": 96.709
-        },
-        {
-          "date": "2023-07-01",
-          "value": 96.251
-        },
-        {
-          "date": "2023-10-01",
-          "value": 96.224
-        },
-        {
-          "date": "2024-01-01",
-          "value": 96.882
-        },
-        {
-          "date": "2024-04-01",
-          "value": 96.602
-        },
-        {
-          "date": "2024-07-01",
-          "value": 96.657
-        },
-        {
-          "date": "2024-10-01",
           "value": 96.94
         },
         {
+          "date": "2023-01-01",
+          "value": 96.618
+        },
+        {
+          "date": "2023-04-01",
+          "value": 96.933
+        },
+        {
+          "date": "2023-07-01",
+          "value": 96.566
+        },
+        {
+          "date": "2023-10-01",
+          "value": 96.307
+        },
+        {
+          "date": "2024-01-01",
+          "value": 96.693
+        },
+        {
+          "date": "2024-04-01",
+          "value": 96.347
+        },
+        {
+          "date": "2024-07-01",
+          "value": 96.42
+        },
+        {
+          "date": "2024-10-01",
+          "value": 96.35
+        },
+        {
           "date": "2025-01-01",
-          "value": 97.871
+          "value": 96.861
         },
         {
           "date": "2025-04-01",
-          "value": 96.723
+          "value": 96.113
         },
         {
           "date": "2025-07-01",
-          "value": 95.999
+          "value": 95.254
         },
         {
           "date": "2025-10-01",
-          "value": 95.727
+          "value": 95.643
         },
         {
           "date": "2026-01-01",
-          "value": 94.843
+          "value": 95.518
         },
         {
           "date": "2026-04-01",
-          "value": 93.446
+          "value": 94.362
+        },
+        {
+          "date": "2026-07-01",
+          "value": 93.729
         }
       ]
     },
@@ -14236,11 +14240,11 @@
   "errors": {},
   "headline": {
     "labor_share_latest": {
-      "date": "2026-04-01",
-      "value": 93.446
+      "date": "2026-07-01",
+      "value": 93.729
     },
-    "labor_share_change_1m_pct": -1.473,
-    "labor_share_change_12m_pct": -3.388,
+    "labor_share_change_1m_pct": -0.671,
+    "labor_share_change_12m_pct": -1.601,
     "profits_vs_wages_ratio_latest": {
       "date": "2026-04-01",
       "value": 0.4039
