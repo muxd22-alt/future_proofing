@@ -1,6 +1,6 @@
 {
   "as_of": "2026-07-01",
-  "generated_at": "2026-11-06T13:57:07Z",
+  "generated_at": "2026-11-07T12:41:54Z",
   "stale": false,
   "source": "FRED (fredgraph CSV / FRED API)",
   "fred_api_used": true,
@@ -2621,20 +2621,20 @@
       "via": "api",
       "stats": {
         "latest": {
-          "date": "2026-09-01",
-          "value": 37.81
+          "date": "2026-10-01",
+          "value": 38.0
         },
         "prev_month": {
-          "date": "2026-08-01",
-          "value": 37.76
+          "date": "2026-09-01",
+          "value": 37.86
         },
         "prev_year": {
-          "date": "2025-09-01",
-          "value": 36.7
+          "date": "2025-10-01",
+          "value": 36.85
         },
-        "delta_1m_pct": 0.132,
-        "delta_12m_pct": 3.025,
-        "observations": 247,
+        "delta_1m_pct": 0.37,
+        "delta_12m_pct": 3.121,
+        "observations": 248,
         "frequency": "monthly"
       },
       "points": [
@@ -3624,7 +3624,11 @@
         },
         {
           "date": "2026-09-01",
-          "value": 37.81
+          "value": 37.86
+        },
+        {
+          "date": "2026-10-01",
+          "value": 38.0
         }
       ]
     },
@@ -3638,20 +3642,20 @@
       "via": "api",
       "stats": {
         "latest": {
-          "date": "2026-09-01",
-          "value": 159044.0
+          "date": "2026-10-01",
+          "value": 159293.0
         },
         "prev_month": {
-          "date": "2026-08-01",
-          "value": 159015.0
+          "date": "2026-09-01",
+          "value": 159128.0
         },
         "prev_year": {
-          "date": "2025-09-01",
-          "value": 158548.0
+          "date": "2025-10-01",
+          "value": 158408.0
         },
-        "delta_1m_pct": 0.018,
-        "delta_12m_pct": 0.313,
-        "observations": 957,
+        "delta_1m_pct": 0.104,
+        "delta_12m_pct": 0.559,
+        "observations": 958,
         "frequency": "monthly"
       },
       "points": [
@@ -7477,11 +7481,15 @@
         },
         {
           "date": "2026-08-01",
-          "value": 159015.0
+          "value": 159068.0
         },
         {
           "date": "2026-09-01",
-          "value": 159044.0
+          "value": 159128.0
+        },
+        {
+          "date": "2026-10-01",
+          "value": 159293.0
         }
       ]
     },
@@ -7495,20 +7503,20 @@
       "via": "api",
       "stats": {
         "latest": {
-          "date": "2026-09-01",
+          "date": "2026-10-01",
           "value": 34.4
         },
         "prev_month": {
-          "date": "2026-08-01",
+          "date": "2026-09-01",
           "value": 34.4
         },
         "prev_year": {
-          "date": "2025-09-01",
+          "date": "2025-10-01",
           "value": 34.2
         },
         "delta_1m_pct": 0.0,
         "delta_12m_pct": 0.585,
-        "observations": 247,
+        "observations": 248,
         "frequency": "monthly"
       },
       "points": [
@@ -8499,6 +8507,10 @@
         {
           "date": "2026-09-01",
           "value": 34.4
+        },
+        {
+          "date": "2026-10-01",
+          "value": 34.4
         }
       ]
     },
@@ -8953,20 +8965,20 @@
       "via": "api",
       "stats": {
         "latest": {
-          "date": "2026-09-01",
-          "value": 4.2
+          "date": "2026-10-01",
+          "value": 4.1
         },
         "prev_month": {
-          "date": "2026-08-01",
-          "value": 4.1
+          "date": "2026-09-01",
+          "value": 4.2
         },
         "prev_year": {
           "date": "2025-09-01",
           "value": 4.4
         },
-        "delta_1m_pct": 2.439,
-        "delta_12m_pct": -4.545,
-        "observations": 944,
+        "delta_1m_pct": -2.381,
+        "delta_12m_pct": -6.818,
+        "observations": 945,
         "frequency": "monthly"
       },
       "points": [
@@ -12745,6 +12757,10 @@
         {
           "date": "2026-09-01",
           "value": 4.2
+        },
+        {
+          "date": "2026-10-01",
+          "value": 4.1
         }
       ]
     },
@@ -12757,20 +12773,20 @@
       "chart": false,
       "stats": {
         "latest": {
-          "date": "2026-09-01",
-          "value": 10756.866
+          "date": "2026-10-01",
+          "value": 10827.846
         },
         "prev_month": {
-          "date": "2026-08-01",
-          "value": 10740.682
+          "date": "2026-09-01",
+          "value": 10776.78
         },
         "prev_year": {
-          "date": "2025-09-01",
-          "value": 10347.997
+          "date": "2025-10-01",
+          "value": 10381.116
         },
-        "delta_1m_pct": 0.151,
-        "delta_12m_pct": 3.951,
-        "observations": 247,
+        "delta_1m_pct": 0.474,
+        "delta_12m_pct": 4.303,
+        "observations": 248,
         "frequency": "monthly"
       },
       "points": [
@@ -13756,11 +13772,15 @@
         },
         {
           "date": "2026-08-01",
-          "value": 10740.682
+          "value": 10744.262
         },
         {
           "date": "2026-09-01",
-          "value": 10756.866
+          "value": 10776.78
+        },
+        {
+          "date": "2026-10-01",
+          "value": 10827.846
         }
       ],
       "via": "derived"
