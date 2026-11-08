@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:41:58Z",
+  "generated_at": "2026-11-08T12:59:05Z",
   "max_age_days": 7,
   "feeds": [
     {
@@ -72,7 +72,7 @@
       "url": "https://news.google.com/rss/search?q=AI%20data%20center%20capex%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "items_returned": 8,
-      "entries_seen": 31
+      "entries_seen": 30
     },
     {
       "name": "Google News - AI jobs layoffs wages",
@@ -80,7 +80,7 @@
       "url": "https://news.google.com/rss/search?q=AI%20jobs%20layoffs%20wages%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "items_returned": 8,
-      "entries_seen": 23
+      "entries_seen": 22
     },
     {
       "name": "Google News - entry level hiring graduates",
@@ -94,37 +94,213 @@
   "feed_failures": 0,
   "carried_over": false,
   "counts": {
-    "tech": 24,
+    "labor": 10,
     "macro": 9,
     "ai_capex": 16,
-    "labor": 10,
+    "tech": 24,
     "fed": 1
   },
   "total": 60,
   "items": [
     {
-      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "source": "The Verge",
-      "category": "tech",
-      "published": "2026-11-07T12:30:00Z",
-      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thurs…"
+      "title": "Millennials want meaningful work but can't afford to quit for it - Quartz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRS1oSmt5My1uRi0xTlNURXlUOGJnTkg2eXhvcUxwcktWTFY5cWkzTDdzX2E5WGNFZEp6VndSN3RaZVZDLW00NGFOTG9WRUtBamxTQ0NHcEhRRVY5YW1SSHY2Vmx5aWNvQnA0VEFyazJ0YlhDbXpybmMyZkJ1akFHa3Jn?oc=5",
+      "source": "Google News - AI jobs layoffs wages",
+      "category": "labor",
+      "published": "2026-11-08T12:54:40Z",
+      "summary": "Millennials want meaningful work but can't afford to quit for it Quartz"
     },
     {
-      "title": "The migration that transformed Africa's languages, genes, and cultures",
+      "title": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
+      "link": "https://www.cnbc.com/2026/11/08/top-analysts-like-these-3-dividend-stocks-for-consistent-income.html",
+      "source": "CNBC Top News",
+      "category": "macro",
+      "published": "2026-11-08T11:47:24Z",
+      "summary": "Three dividend-paying stocks that are highlighted by Wall Street’s top pros, as tracked by TipRanks."
+    },
+    {
+      "title": "What data centers need to consider when storing produced water",
+      "link": "https://www.datacenterdynamics.com/en/opinions/what-data-centers-need-to-consider-when-storing-produced-water/",
+      "source": "Data Center Dynamics (AI capex / power / cooling)",
+      "category": "ai_capex",
+      "published": "2026-11-08T11:00:48Z",
+      "summary": "A possible alternative to portable supplies"
+    },
+    {
+      "title": "In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend",
+      "link": "https://www.cnbc.com/2026/11/08/france-protests-clashes-arrests.html",
+      "source": "CNBC Top News",
+      "category": "macro",
+      "published": "2026-11-08T09:29:04Z",
+      "summary": "France's Interior Ministry counted 146,000 protesters Saturday as demonstrations over living costs public services entered a fourth consecutive weekend."
+    },
+    {
+      "title": "Cathie Wood 'always feels better when the market is worried' — here's why",
+      "link": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+      "source": "CNBC Top News",
+      "category": "macro",
+      "published": "2026-11-08T06:00:01Z",
+      "summary": "The Ark Invest CEO said there was a \"wall of worry\" gripping markets right now."
+    },
+    {
+      "title": "Trump offers UFC chief Dana White press secretary job",
+      "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+      "source": "CNBC Top News",
+      "category": "macro",
+      "published": "2026-11-07T23:13:38Z",
+      "summary": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday."
+    },
+    {
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-11-07T22:07:22Z",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry."
+    },
+    {
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-11-07T21:17:08Z",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
+    },
+    {
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-11-07T19:00:00Z",
+      "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones."
+    },
+    {
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-11-07T17:24:07Z",
+      "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users."
+    },
+    {
+      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+      "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-11-07T17:18:00Z",
+      "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models."
+    },
+    {
+      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+      "link": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+      "source": "The Verge",
+      "category": "tech",
+      "published": "2026-11-07T17:00:00Z",
+      "summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. H…"
+    },
+    {
+      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+      "link": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "published": "2026-11-07T16:00:00Z",
+      "summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. C…"
+    },
+    {
+      "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+      "link": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+      "source": "The Verge",
+      "category": "tech",
+      "published": "2026-11-07T16:00:00Z",
+      "summary": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a s…"
+    },
+    {
+      "title": "Sponsored: Water stewardship starts with design, not offsets",
+      "link": "https://www.datacenterdynamics.com/en/opinions/water-stewardship-starts-with-design-not-offsets/",
+      "source": "Data Center Dynamics (AI capex / power / cooling)",
+      "category": "ai_capex",
+      "published": "2026-11-07T16:00:00Z",
+      "summary": "How can data center development not only minimize its impact on local water resources, but contribute to the long-term resilience of the watersheds in which we operate?"
+    },
+    {
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "source": "The Verge",
+      "category": "tech",
+      "published": "2026-11-07T15:50:00Z",
+      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in wh…"
+    },
+    {
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "source": "The Verge",
+      "category": "tech",
+      "published": "2026-11-07T15:43:45Z",
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approve…"
+    },
+    {
+      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+      "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+      "source": "CNBC Top News",
+      "category": "macro",
+      "published": "2026-11-07T15:23:46Z",
+      "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit."
+    },
+    {
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "source": "The Verge",
+      "category": "tech",
+      "published": "2026-11-07T15:00:00Z",
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to A…"
+    },
+    {
+      "title": "Good riddance, Cybertruck!",
+      "link": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+      "source": "The Verge",
+      "category": "tech",
+      "published": "2026-11-07T14:40:06Z",
+      "summary": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a hum…"
+    },
+    {
+      "title": "31-year-old dumpster diver brought in $140,000 in 12 months: I 'did much more than I thought was possible'",
+      "link": "https://www.cnbc.com/make-it/2026/11/07/dumpster-diver-resale-business.html",
+      "source": "CNBC Top News",
+      "category": "macro",
+      "published": "2026-11-07T14:15:01Z",
+      "summary": "Carter Stevens started reselling discarded items from dumpsters around Nashville, Tennessee, in March 2024. Months earlier, he'd been living in his car."
+    },
+    {
+      "title": "Mark Cuban says he doesn’t ‘give a f---' about growing his net worth—a healthy mindset for non-billionaires too, a financial therapist says",
+      "link": "https://www.cnbc.com/make-it/2026/11/07/mark-cuban-net-worth-money-mindset.html",
+      "source": "CNBC Top News",
+      "category": "macro",
+      "published": "2026-11-07T14:05:01Z",
+      "summary": "The billionaire serial entrepreneur says he cares more about the impact he can have by spending and investing, rather than worrying about amassing more wealth."
+    },
+    {
+      "title": "Zelda is back and better than ever",
+      "link": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+      "source": "The Verge",
+      "category": "tech",
+      "published": "2026-11-07T13:49:01Z",
+      "summary": "Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all the old editions at the Installer homepa…"
+    },
+    {
+      "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+      "link": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+      "source": "CNBC Top News",
+      "category": "macro",
+      "published": "2026-11-07T13:00:01Z",
+      "summary": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry."
+    },
+    {
+      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
       "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
       "source": "Ars Technica",
       "category": "tech",
       "published": "2026-11-07T12:15:55Z",
       "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa."
-    },
-    {
-      "title": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
-      "link": "https://www.cnbc.com/2026/11/07/snap-social-media-teen-safety-lawsuits.html",
-      "source": "CNBC Top News",
-      "category": "macro",
-      "published": "2026-11-07T12:00:01Z",
-      "summary": "Lawsuits against Snap, Meta and Google are creating headwinds for tech companies just as artificial intelligence tools expand into classrooms."
     },
     {
       "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
@@ -133,30 +309,6 @@
       "category": "tech",
       "published": "2026-11-07T11:00:34Z",
       "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed."
-    },
-    {
-      "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
-      "link": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
-      "source": "CNBC Top News",
-      "category": "macro",
-      "published": "2026-11-07T09:01:57Z",
-      "summary": "The \"weakest point of aviation is targeting it in-flight,\" analysts say — but any change to procedures will be a lengthy process."
-    },
-    {
-      "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
-      "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
-      "source": "CNBC Top News",
-      "category": "macro",
-      "published": "2026-11-07T07:37:36Z",
-      "summary": "Trump said the U.S. carried out ‘minor strikes’ on Iran after Iranian media reported two missiles hit Qeshm Island near the Strait of Hormuz."
-    },
-    {
-      "title": "The race is on to build the first fusion power plant — and Europe is looking to Japan for help",
-      "link": "https://www.cnbc.com/2026/11/07/proxima-fusion-power-japan-supply-chain.html",
-      "source": "CNBC Top News",
-      "category": "macro",
-      "published": "2026-11-07T06:00:01Z",
-      "summary": "Fusion energy has the potential to provide abundant, clean power. Now, the race is on to develop the world’s first commercial plant."
     },
     {
       "title": "Sequoia shutting down its Scouts program marks the end of an era",
@@ -175,36 +327,12 @@
       "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do."
     },
     {
-      "title": "Inside the card-grading empire shaping the price of Pokémon cards",
-      "link": "https://www.cnbc.com/2026/11/06/card-pokemon-grading-psa-collectors-price.html",
-      "source": "CNBC Top News",
-      "category": "macro",
-      "published": "2026-11-07T02:00:01Z",
-      "summary": "PSA’s resale premium, backlog and grading-market dominance shape what collectors pay — and how much their Pokémon cards may fetch."
-    },
-    {
       "title": "Crusoe sells troubled Wyoming data center project to Google",
       "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
       "source": "TechCrunch",
       "category": "tech",
       "published": "2026-11-07T01:40:28Z",
       "summary": "The deal highlights the challenges of developing massive AI data centers."
-    },
-    {
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "source": "The Verge",
-      "category": "tech",
-      "published": "2026-11-06T23:46:18Z",
-      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valua…"
-    },
-    {
-      "title": "Oracle (ORCL) Ranks Sixth Among the Cheapest AI Data Center Stocks - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcl9mcGR0ZXd4WmNzRFp1YTh5WlpPSWs5dUVucjA3NjhyWEVCbzNOYm5OQ1ZlZVoxUldIVWVGMEkxMjh4ZXF5TUFhdFI3NlhUUXBRWERGY2tKeWFFdHFmVklwVTNFS0tsUTk3ckl6MzZ6aHVjZlVFTms2NkRxbTIwME9oZWZDSHRETzJldW1kTzJFVnJ4cUc5bw?oc=5",
-      "source": "Google News - AI data center capex",
-      "category": "ai_capex",
-      "published": "2026-11-06T23:34:10Z",
-      "summary": "Oracle (ORCL) Ranks Sixth Among the Cheapest AI Data Center Stocks Yahoo Finance"
     },
     {
       "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
@@ -215,44 +343,12 @@
       "summary": "It's the exact path, not the apparent severity that matters most, doctors say."
     },
     {
-      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-      "source": "The Verge",
-      "category": "tech",
-      "published": "2026-11-06T23:00:44Z",
-      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence…"
-    },
-    {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "published": "2026-11-06T22:53:46Z",
-      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
-    },
-    {
-      "title": "Starlink Mobile: All the news on SpaceX's major mobile carrier ambitions",
-      "link": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
-      "source": "The Verge",
-      "category": "tech",
-      "published": "2026-11-06T22:45:43Z",
-      "summary": "SpaceX has declared that it's going to make Starlink Mobile a \"major\" mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of…"
-    },
-    {
       "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
       "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
       "source": "Ars Technica",
       "category": "tech",
       "published": "2026-11-06T22:41:37Z",
       "summary": "Iran threatened to attack subsea cables if US escalates military strikes again."
-    },
-    {
-      "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
-      "link": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-      "source": "CNBC Top News",
-      "category": "macro",
-      "published": "2026-11-06T22:22:53Z",
-      "summary": "Trump revealed the shake-up three days after Democrats' landslide victory in the midterm elections, winning majority control of the House and Senate."
     },
     {
       "title": "Remote work trends employers should watch. - Kelly Services",
@@ -269,30 +365,6 @@
       "category": "tech",
       "published": "2026-11-06T22:08:47Z",
       "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see."
-    },
-    {
-      "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
-      "link": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
-      "source": "The Verge",
-      "category": "tech",
-      "published": "2026-11-06T21:50:32Z",
-      "summary": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Bar…"
-    },
-    {
-      "title": "The Duo apps are coming, says Apple",
-      "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "published": "2026-11-06T21:38:05Z",
-      "summary": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily."
-    },
-    {
-      "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
-      "link": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
-      "source": "CNBC Top News",
-      "category": "macro",
-      "published": "2026-11-06T21:07:07Z",
-      "summary": "Anthropic could list below a $1.5 trillion valuation, trailing previous expectations, as the AI trade sours on Wall Street."
     },
     {
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -327,68 +399,12 @@
       "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later."
     },
     {
-      "title": "All the latest updates on AI data centers",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "source": "The Verge",
-      "category": "tech",
-      "published": "2026-11-06T20:02:22Z",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearb…"
-    },
-    {
-      "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
-      "link": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
-      "source": "The Verge",
-      "category": "tech",
-      "published": "2026-11-06T19:47:02Z",
-      "summary": "While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon, Guitar Center, and directly…"
-    },
-    {
-      "title": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
-      "link": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
-      "source": "CNBC Top News",
-      "category": "macro",
-      "published": "2026-11-06T19:44:33Z",
-      "summary": "Ty Pinkins said he avoided campaigning in heavily Black areas of Mississippi to avoid harming chances for Democrat Scott Colom, who, like him, is Black."
-    },
-    {
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "published": "2026-11-06T18:44:38Z",
-      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
-    },
-    {
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "published": "2026-11-06T18:44:20Z",
-      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
-    },
-    {
-      "title": "Lame-duck Congress might actually do something: speed up energy projects",
-      "link": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
-      "source": "The Verge",
-      "category": "tech",
-      "published": "2026-11-06T18:42:30Z",
-      "summary": "A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a catalyst for lots of clean energy, it could also speed up pollut…"
-    },
-    {
       "title": "SpaceXAI plans data center in Arizona, Musk's firm claims it will have 6GW capacity",
       "link": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-arizona-cochise-county-elon-musk/",
       "source": "Data Center Dynamics (AI capex / power / cooling)",
       "category": "ai_capex",
       "published": "2026-11-06T17:34:34Z",
       "summary": "Construction work could start in March 2027"
-    },
-    {
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "published": "2026-11-06T17:23:52Z",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center d…"
     },
     {
       "title": "Hyperscalers, neoclouds face reckoning after ballot blowout - Fierce Network",
@@ -439,36 +455,12 @@
       "summary": "Protesting water use, AI, and ties to Israel"
     },
     {
-      "title": "Plans for Poland’s National Data Processing Center fleshed out by NASK",
-      "link": "https://www.datacenterdynamics.com/en/news/plans-for-polands-national-data-processing-center-fleshed-out-by-nask/",
-      "source": "Data Center Dynamics (AI capex / power / cooling)",
-      "category": "ai_capex",
-      "published": "2026-11-06T14:56:32Z",
-      "summary": "The research and development institute said that the facility’s first phase will now require up to 15MW of power"
-    },
-    {
-      "title": "Deutsche Telekom CEO welcomes SpaceX terrestrial challenge, warns it will cost Musk at least $200bn",
-      "link": "https://www.datacenterdynamics.com/en/news/deutsche-telekom-ceo-welcomes-spacex-terrestrial-challenge-warns-it-will-cost-musk-at-least-200bn/",
-      "source": "Data Center Dynamics (AI capex / power / cooling)",
-      "category": "ai_capex",
-      "published": "2026-11-06T14:55:11Z",
-      "summary": "Tim Höttges says \"welcome to the party\""
-    },
-    {
       "title": "Fearing AI disruption, white-collar workers are quitting their jobs - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnFTWWhzamcxS0dYX1JlNHRkaDhzdlhEbkhZRGNWdlV1REhMdkFPNmlGRmJtTHJnbjNzQ053aUtoQy1jYWlkcFNIaGNRS2ZNY1JmQlJDcEZ4V0Nodm10N05WcDFNcHBiczdtVUNZRmNFQ2RMNHAzQ01kS2RWRW5GS211QQ?oc=5",
       "source": "Google News - AI jobs layoffs wages",
       "category": "labor",
       "published": "2026-11-06T14:00:00Z",
       "summary": "Fearing AI disruption, white-collar workers are quitting their jobs The Guardian"
-    },
-    {
-      "title": "US job growth expected to pick up in October, with moderation in wage gains - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSDViTzRZWlJHTWlVVjEtNzJZUnNvU2lOQVZXLUZGNTNfV1RMbENwTXlFOVBtUXNLMm5rLWlrMU91Ym9KOVJaOE1oeVo1MGxKVVY4MWdxU3Q2dDNhT1N0LURqdzd4emhBSmN5akZjZGJNbEdHR3RVQ0M0WXFvS0hkTlhrcHdvODM5M3l0aHhOelVHWmlvYk1oeGh5SmIzOUZOczFRb3VXdkdmMlJSenRv?oc=5",
-      "source": "Google News - AI jobs layoffs wages",
-      "category": "labor",
-      "published": "2026-11-06T05:04:00Z",
-      "summary": "US job growth expected to pick up in October, with moderation in wage gains Reuters"
     },
     {
       "title": "AI stocks crater as investors panic over the risk of a data center slowdown - Business Insider",
@@ -519,6 +511,14 @@
       "summary": "How Much Are AI Companies Spending on Data Centers? The Motley Fool"
     },
     {
+      "title": "5 Cheapest AI Data Center Stocks to Buy According to Billionaires - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa1NJNkRQR0pzX1Z5X3o2UnprZFNkSmlFUzBrTXZSS3hOZ2NrblJ3QTdmanZxc3NzT2hjc1lFRndYcmJwYXE0eGdaMzFmbWhwblVuMmxOSUlBWEd5S0hKRVZ6eElzSDBWamcwZDZqUDVrOVB4VzJueHRDRWJpVGtocW9FS2Ztb3VORDhrTHVkV1NtZm8?oc=5",
+      "source": "Google News - AI data center capex",
+      "category": "ai_capex",
+      "published": "2026-11-04T20:32:21Z",
+      "summary": "5 Cheapest AI Data Center Stocks to Buy According to Billionaires Yahoo Finance"
+    },
+    {
       "title": "AI data-center stocks slide, renewables rally after Democratic US midterm sweep - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcW5CTURXaGFocTExc3NDZk9feEYwc1dTaDVuTkVqUEZxejUwS1ZkZkhaMlNZUnh0UkY5VFo5ZXczeFBPMDFzMVBvUTc0SEUxREtORkRSTE5maGlaZWVMREY5ZXduYlZRQUFPNGNnUFhqNlpiQUhKYWhKeVNscEF2ZGNSaG5ha19TZ3ZkYXJxbVpPZ0RId1g3VXBCM0RfTzdqWnBxbEFqanIxS1NYUGJKOTNPcUlNOEhzM0xvMkt0RlhPcDB1aWF6MnRUaktaQ0R0YWRJ?oc=5",
       "source": "Google News - AI data center capex",
@@ -527,12 +527,12 @@
       "summary": "AI data-center stocks slide, renewables rally after Democratic US midterm sweep Reuters"
     },
     {
-      "title": "Wall Street Sees Risks to AI Boom After the Democratic Sweep - Bloomberg.com",
+      "title": "Wall Street Sees Risks to AI Boom After the Democratic Sweep - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeDNtR2JnZEd4TXBWa1FpX05KaWVrV1VTM0p2QjFZR1EzN0gxeDE0dlFaSVp4NU9XTVdSR1hVWGFzTmV6UWxFZ1ZYTURGVzdUbWFlY0dhZHlLZ3hrUVRMbVVGei1TcEFNQVlNRzJUVEdjOEZYbHBqTm80LUtiQnRLMzl1LXRSbnV0R0E5eE9SUHlHVGhRUWhuc1NxQUVuOXVwOVVMYzljYnlvUXRnSU5JOQ?oc=5",
       "source": "Google News - AI data center capex",
       "category": "ai_capex",
       "published": "2026-11-04T16:27:47Z",
-      "summary": "Wall Street Sees Risks to AI Boom After the Democratic Sweep Bloomberg.com"
+      "summary": "Wall Street Sees Risks to AI Boom After the Democratic Sweep Bloomberg"
     },
     {
       "title": "U.S. International Trade in Goods and Services, September 2026",
