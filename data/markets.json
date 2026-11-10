@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-09",
-  "generated_at": "2026-11-09T15:39:08Z",
+  "generated_at": "2026-11-10T11:12:51Z",
   "stale": false,
   "source": "yfinance",
   "watchlists": {
@@ -9,132 +9,132 @@
       "rationale": "Semiconductors, data-center power/cooling, grid buildout and industrial automation: heavy-asset, low-obsolescence beneficiaries of the capex boom.",
       "count": 12,
       "basket_returns": {
-        "ret_1m": -16.812,
-        "ret_3m": -14.763,
-        "ret_6m": -13.62,
-        "ret_1y": 1.572,
-        "ret_ytd": 2.779
+        "ret_1m": -16.247,
+        "ret_3m": -14.224,
+        "ret_6m": -13.099,
+        "ret_1y": 2.165,
+        "ret_ytd": 3.332
       },
       "holdings": [
         {
           "ticker": "NVDA",
-          "price": 178.16,
+          "price": 178.67,
           "as_of": "2026-11-09",
-          "ret_1m": -22.296,
-          "ret_3m": -17.996,
-          "ret_6m": -20.928,
-          "ret_1y": -5.083,
-          "ret_ytd": -5.44
+          "ret_1m": -22.073,
+          "ret_3m": -17.761,
+          "ret_6m": -20.702,
+          "ret_1y": -4.811,
+          "ret_ytd": -5.169
         },
         {
           "ticker": "AVGO",
-          "price": 316.58,
+          "price": 319.48,
           "as_of": "2026-11-09",
-          "ret_1m": -12.436,
-          "ret_3m": -23.775,
-          "ret_6m": -23.785,
-          "ret_1y": -8.727,
-          "ret_ytd": -8.427
+          "ret_1m": -11.634,
+          "ret_3m": -23.077,
+          "ret_6m": -23.086,
+          "ret_1y": -7.891,
+          "ret_ytd": -7.589
         },
         {
           "ticker": "TSM",
-          "price": 390.9,
+          "price": 388.62,
           "as_of": "2026-11-09",
-          "ret_1m": -13.768,
-          "ret_3m": -7.134,
-          "ret_6m": -1.734,
-          "ret_1y": 37.884,
-          "ret_ytd": 23.267
+          "ret_1m": -14.271,
+          "ret_3m": -7.676,
+          "ret_6m": -2.307,
+          "ret_1y": 37.08,
+          "ret_ytd": 22.548
         },
         {
           "ticker": "VRT",
-          "price": 200.1,
+          "price": 200.47,
           "as_of": "2026-11-09",
-          "ret_1m": -17.58,
-          "ret_3m": -28.977,
-          "ret_6m": -45.893,
-          "ret_1y": 11.409,
-          "ret_ytd": 14.024
+          "ret_1m": -17.427,
+          "ret_3m": -28.846,
+          "ret_6m": -45.793,
+          "ret_1y": 11.615,
+          "ret_ytd": 14.235
         },
         {
           "ticker": "ANET",
-          "price": 185.65,
+          "price": 186.17,
           "as_of": "2026-11-09",
-          "ret_1m": -14.344,
-          "ret_3m": -6.166,
-          "ret_6m": 31.957,
-          "ret_1y": 37.876,
-          "ret_ytd": 38.96
+          "ret_1m": -14.104,
+          "ret_3m": -5.903,
+          "ret_6m": 32.326,
+          "ret_1y": 38.262,
+          "ret_ytd": 39.349
         },
         {
           "ticker": "SMCI",
-          "price": 29.33,
+          "price": 28.6,
           "as_of": "2026-11-09",
-          "ret_1m": -29.933,
-          "ret_3m": -7.184,
-          "ret_6m": -8.344,
-          "ret_1y": -26.233,
-          "ret_ytd": -5.265
+          "ret_1m": -31.677,
+          "ret_3m": -9.494,
+          "ret_6m": -10.625,
+          "ret_1y": -28.068,
+          "ret_ytd": -7.623
         },
         {
           "ticker": "ETN",
-          "price": 359.76,
+          "price": 359.3,
           "as_of": "2026-11-09",
-          "ret_1m": -16.267,
-          "ret_3m": -21.67,
-          "ret_6m": -11.376,
-          "ret_1y": -2.943,
-          "ret_ytd": 10.834
+          "ret_1m": -16.374,
+          "ret_3m": -21.771,
+          "ret_6m": -11.49,
+          "ret_1y": -3.067,
+          "ret_ytd": 10.692
         },
         {
           "ticker": "PWR",
-          "price": 578.82,
+          "price": 591.48,
           "as_of": "2026-11-09",
-          "ret_1m": -18.007,
-          "ret_3m": -13.669,
-          "ret_6m": -25.166,
-          "ret_1y": 30.171,
-          "ret_ytd": 31.714
+          "ret_1m": -16.214,
+          "ret_3m": -11.781,
+          "ret_6m": -23.529,
+          "ret_1y": 33.018,
+          "ret_ytd": 34.595
         },
         {
           "ticker": "GEV",
-          "price": 823.4,
+          "price": 829.34,
           "as_of": "2026-11-09",
-          "ret_1m": -18.0,
-          "ret_3m": -18.58,
-          "ret_6m": -22.424,
-          "ret_1y": 43.516,
-          "ret_ytd": 21.463
+          "ret_1m": -17.408,
+          "ret_3m": -17.992,
+          "ret_6m": -21.864,
+          "ret_1y": 44.552,
+          "ret_ytd": 22.34
         },
         {
           "ticker": "VST",
-          "price": 132.19,
+          "price": 133.92,
           "as_of": "2026-11-09",
-          "ret_1m": -18.138,
-          "ret_3m": -8.635,
-          "ret_6m": -7.025,
-          "ret_1y": -30.389,
-          "ret_ytd": -19.644
+          "ret_1m": -17.067,
+          "ret_3m": -7.439,
+          "ret_6m": -5.808,
+          "ret_1y": -29.478,
+          "ret_ytd": -18.592
         },
         {
           "ticker": "NRG",
-          "price": 96.48,
+          "price": 97.4,
           "as_of": "2026-11-09",
-          "ret_1m": -10.198,
-          "ret_3m": -19.059,
-          "ret_6m": -25.768,
-          "ret_1y": -43.243,
-          "ret_ytd": -41.077
+          "ret_1m": -9.341,
+          "ret_3m": -18.287,
+          "ret_6m": -25.06,
+          "ret_1y": -42.702,
+          "ret_ytd": -40.515
         },
         {
           "ticker": "CEG",
-          "price": 265.95,
+          "price": 276.09,
           "as_of": "2026-11-09",
-          "ret_1m": -10.776,
-          "ret_3m": -4.311,
-          "ret_6m": -2.953,
-          "ret_1y": -25.378,
-          "ret_ytd": -27.063
+          "ret_1m": -7.374,
+          "ret_3m": -0.663,
+          "ret_6m": 0.747,
+          "ret_1y": -22.533,
+          "ret_ytd": -24.283
         }
       ]
     },
@@ -143,122 +143,122 @@
       "rationale": "Staffing agencies, IT outsourcers, commercial office REITs and per-seat software: revenue scales with headcount and is exposed to AI substitution.",
       "count": 10,
       "basket_returns": {
-        "ret_1m": 5.613,
-        "ret_3m": 1.757,
-        "ret_6m": 45.386,
-        "ret_1y": 12.927,
-        "ret_ytd": 12.348
+        "ret_1m": 6.23,
+        "ret_3m": 2.373,
+        "ret_6m": 46.422,
+        "ret_1y": 13.771,
+        "ret_ytd": 13.199
       },
       "holdings": [
         {
           "ticker": "MAN",
-          "price": 44.58,
+          "price": 44.57,
           "as_of": "2026-11-09",
-          "ret_1m": -15.546,
-          "ret_3m": -20.741,
-          "ret_6m": 74.898,
-          "ret_1y": 62.956,
-          "ret_ytd": 51.741
+          "ret_1m": -15.555,
+          "ret_3m": -20.75,
+          "ret_6m": 74.878,
+          "ret_1y": 62.937,
+          "ret_ytd": 51.724
         },
         {
           "ticker": "RHI",
-          "price": 41.31,
+          "price": 42.33,
           "as_of": "2026-11-09",
-          "ret_1m": 21.765,
-          "ret_3m": -0.659,
-          "ret_6m": 71.853,
-          "ret_1y": 70.041,
-          "ret_ytd": 60.528
+          "ret_1m": 24.757,
+          "ret_3m": 1.782,
+          "ret_6m": 76.074,
+          "ret_1y": 74.219,
+          "ret_ytd": 64.472
         },
         {
           "ticker": "KELYA",
-          "price": 13.43,
+          "price": 13.62,
           "as_of": "2026-11-09",
-          "ret_1m": -13.855,
-          "ret_3m": -12.508,
-          "ret_6m": 39.177,
-          "ret_1y": 43.615,
-          "ret_ytd": 58.652
+          "ret_1m": -12.636,
+          "ret_3m": -11.27,
+          "ret_6m": 41.146,
+          "ret_1y": 45.647,
+          "ret_ytd": 60.896
         },
         {
           "ticker": "EPAM",
-          "price": 155.89,
+          "price": 156.82,
           "as_of": "2026-11-09",
-          "ret_1m": 37.663,
-          "ret_3m": 56.046,
-          "ret_6m": 72.464,
-          "ret_1y": -11.072,
-          "ret_ytd": -22.234
+          "ret_1m": 38.485,
+          "ret_3m": 56.977,
+          "ret_6m": 73.493,
+          "ret_1y": -10.542,
+          "ret_ytd": -21.77
         },
         {
           "ticker": "INFY",
-          "price": 12.43,
+          "price": 12.39,
           "as_of": "2026-11-09",
-          "ret_1m": 15.797,
-          "ret_3m": -1.389,
-          "ret_6m": 7.029,
-          "ret_1y": -23.069,
-          "ret_ytd": -30.063
+          "ret_1m": 15.471,
+          "ret_3m": -1.667,
+          "ret_6m": 6.727,
+          "ret_1y": -23.286,
+          "ret_ytd": -30.26
         },
         {
           "ticker": "CTSH",
-          "price": 63.81,
+          "price": 63.6,
           "as_of": "2026-11-09",
-          "ret_1m": 7.787,
-          "ret_3m": 9.529,
-          "ret_6m": 40.606,
-          "ret_1y": -10.861,
-          "ret_ytd": -20.072
+          "ret_1m": 7.432,
+          "ret_3m": 9.169,
+          "ret_6m": 40.144,
+          "ret_1y": -11.154,
+          "ret_ytd": -20.335
         },
         {
           "ticker": "BXP",
-          "price": 66.25,
+          "price": 66.19,
           "as_of": "2026-11-09",
-          "ret_1m": 12.202,
-          "ret_3m": -0.704,
-          "ret_6m": 15.962,
-          "ret_1y": -4.16,
-          "ret_ytd": 1.223
+          "ret_1m": 12.091,
+          "ret_3m": -0.801,
+          "ret_6m": 15.849,
+          "ret_1y": -4.254,
+          "ret_ytd": 1.124
         },
         {
           "ticker": "VNO",
-          "price": 36.74,
+          "price": 36.65,
           "as_of": "2026-11-09",
-          "ret_1m": 9.233,
-          "ret_3m": -5.322,
-          "ret_6m": 19.697,
-          "ret_1y": 0.907,
-          "ret_ytd": 9.821
+          "ret_1m": 8.98,
+          "ret_3m": -5.541,
+          "ret_6m": 19.42,
+          "ret_1y": 0.673,
+          "ret_ytd": 9.567
         },
         {
           "ticker": "SLG",
-          "price": 52.02,
+          "price": 52.46,
           "as_of": "2026-11-09",
-          "ret_1m": 7.457,
-          "ret_3m": -5.499,
-          "ret_6m": 23.309,
-          "ret_1y": 4.44,
-          "ret_ytd": 15.504
+          "ret_1m": 8.366,
+          "ret_3m": -4.7,
+          "ret_6m": 24.352,
+          "ret_1y": 5.323,
+          "ret_ytd": 16.481
         },
         {
           "ticker": "TEAM",
-          "price": 152.26,
+          "price": 154.9,
           "as_of": "2026-11-09",
-          "ret_1m": -26.37,
-          "ret_3m": -1.181,
-          "ret_6m": 88.861,
-          "ret_1y": -3.529,
-          "ret_ytd": -1.615
+          "ret_1m": -25.093,
+          "ret_3m": 0.532,
+          "ret_6m": 92.136,
+          "ret_1y": -1.856,
+          "ret_ytd": 0.09
         }
       ]
     }
   },
   "spread": {
-    "ret_1m": -22.425,
-    "ret_3m": -16.52,
-    "ret_6m": -59.006,
-    "ret_1y": -11.355,
-    "ret_ytd": -9.569
+    "ret_1m": -22.477,
+    "ret_3m": -16.597,
+    "ret_6m": -59.521,
+    "ret_1y": -11.606,
+    "ret_ytd": -9.867
   },
   "normalized": {
     "window_days": 365,
@@ -766,7 +766,7 @@
       99.26,
       90.09,
       94.45,
-      99.78
+      100.37
     ],
     "labor_heavy": [
       100.0,
@@ -1019,7 +1019,7 @@
       123.53,
       120.04,
       115.76,
-      115.36
+      116.23
     ]
   }
 }
