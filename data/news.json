@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T11:24:29Z",
+  "generated_at": "2026-11-10T14:34:20Z",
   "max_age_days": 7,
   "feeds": [
     {
@@ -59,6 +59,26 @@
   },
   "total": 24,
   "items": [
+    {
+      "title": "Nvidia shareholders file class action lawsuit against chip giant and its CEO Jensen Huang following fall-out from Chinese spy allegations",
+      "link": "https://www.datacenterdynamics.com/en/news/nvidia-shareholders-file-class-action-lawsuit-against-chip-giant-and-its-ceo-jensen-huang-following-fall-out-from-chinese-spy-allegations/",
+      "source": "Data Center Dynamics",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-10T13:23:52Z",
+      "summary": "Defendants claim the company and its chief exec misled shareholders by not disclosing Huang’s relationship with accused spy"
+    },
+    {
+      "title": "Nvidia CEO's affair with alleged spy aided $7.5 billion in China chip shipments, Information reports",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
+      "source": "Reuters",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-10T12:14:40Z",
+      "summary": "Nvidia CEO's affair with alleged spy aided $7.5 billion in China chip shipments, Information reports Reuters"
+    },
     {
       "title": "PPL advanced stage data center pipeline hits 35GW in Pennsylvania",
       "link": "https://www.datacenterdynamics.com/en/news/ppl-advanced-stage-data-center-pipeline-hits-35gw-in-pennsylvania/",
@@ -126,7 +146,7 @@
       "category": "ai_capex",
       "signal": "capital-positive",
       "reason": "Physical power & cooling bottleneck driving HALO infrastructure capex",
-      "published": "2026-11-09T20:21:09Z",
+      "published": "2026-11-09T20:30:40Z",
       "summary": "Nvidia Buying an Additional $1.5 Billion in SB Energy Shares Ahead of IPO EnergyNow.com"
     },
     {
@@ -208,26 +228,6 @@
       "reason": "Physical power & cooling bottleneck driving HALO infrastructure capex",
       "published": "2026-11-09T15:13:16Z",
       "summary": "Company's first DRIL lab in Latin America, follows launch of London lab earlier this year"
-    },
-    {
-      "title": "Riot Platforms signs 910MW agreement with unnamed frontier AI lab",
-      "link": "https://www.datacenterdynamics.com/en/news/riot-platforms-signs-910mw-agreement-with-unnamed-frontier-ai-lab/",
-      "source": "Data Center Dynamics",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-09T15:07:20Z",
-      "summary": "Capacity will be provided at Riot's Corsicana, Texas, data center"
-    },
-    {
-      "title": "Jensen Huang's net worth dropped $21 billion in AI rout—Nvidia's recovery will be 'capped' after he admits affair",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYjJIUTlEZFUtb1JubTNjbUVVM2Z1LUxJaTJyTFFKRzdscVYxeFIxSkJzYTJkQjdIRldMbVItNFFVUUJ5a0xTM3BrSEd6UlFSX3ZhRUJYU25jcjd6Sm1yN0VxZFpfbEJtR25yQkk2Q2NWRDNMTXhtMm5wZ19HRFBIdUV2ZEFvUWVt?oc=5",
-      "source": "Fortune",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-09T11:43:00Z",
-      "summary": "Jensen Huang's net worth dropped $21 billion in AI rout—Nvidia's recovery will be 'capped' after he admits affair Fortune"
     },
     {
       "title": "‘AI rebounding’: Nearly 20% of U.S. workers replaced by AI are being asked back",
