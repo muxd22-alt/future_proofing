@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T11:12:52Z",
+  "generated_at": "2026-11-10T11:24:29Z",
   "max_age_days": 7,
   "feeds": [
     {
@@ -48,7 +48,7 @@
       "url": "https://news.google.com/rss/search?q=(%22labor%20share%22%20OR%20%22wage%20growth%22%20OR%20%22corporate%20profits%22%20OR%20%22worker%20productivity%22%20OR%20%22nonfarm%20payrolls%22)%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "items_returned": 10,
-      "entries_seen": 90
+      "entries_seen": 89
     }
   ],
   "feed_failures": 0,
