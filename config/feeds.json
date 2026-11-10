@@ -1,57 +1,32 @@
 [
   {
-    "name": "Federal Reserve - Press Releases",
-    "category": "fed",
-    "url": "https://www.federalreserve.gov/feeds/press_all.xml"
-  },
-  {
-    "name": "Federal Reserve - Monetary Policy / FOMC",
+    "name": "Federal Reserve",
     "category": "fed",
     "url": "https://www.federalreserve.gov/feeds/press_monetary.xml"
   },
   {
-    "name": "BEA News (GDP, corporate profits)",
+    "name": "BEA Macro Releases",
     "category": "macro",
     "url": "https://www.bea.gov/news/rss"
   },
   {
-    "name": "CNBC Top News",
-    "category": "macro",
-    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"
-  },
-  {
-    "name": "TechCrunch",
-    "category": "tech",
-    "url": "https://techcrunch.com/feed/"
-  },
-  {
-    "name": "Ars Technica",
-    "category": "tech",
-    "url": "https://feeds.arstechnica.com/arstechnica/index"
-  },
-  {
-    "name": "The Verge",
-    "category": "tech",
-    "url": "https://www.theverge.com/rss/index.xml"
-  },
-  {
-    "name": "Data Center Dynamics (AI capex / power / cooling)",
+    "name": "Data Center Dynamics",
     "category": "ai_capex",
     "url": "https://www.datacenterdynamics.com/en/rss/"
   },
   {
-    "name": "Google News - AI data center capex",
+    "name": "Hyperscaler & AI Capex",
     "category": "ai_capex",
-    "url": "https://news.google.com/rss/search?q=AI%20data%20center%20capex%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+    "url": "https://news.google.com/rss/search?q=(%22AI%20capex%22%20OR%20%22data%20center%22%20OR%20hyperscaler%20OR%20%22power%20grid%22%20OR%20Nvidia%20OR%20TSMC)%20(billion%20OR%20megawatt%20OR%20gigawatt%20OR%20capex%20OR%20spending)%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
   },
   {
-    "name": "Google News - AI jobs layoffs wages",
+    "name": "AI Automation & Layoffs",
     "category": "labor",
-    "url": "https://news.google.com/rss/search?q=AI%20jobs%20layoffs%20wages%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+    "url": "https://news.google.com/rss/search?q=(AI%20OR%20automation)%20(layoffs%20OR%20%22job%20cuts%22%20OR%20headcount%20OR%20%22hiring%20freeze%22%20OR%20%22entry-level%22%20OR%20workforce)%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
   },
   {
-    "name": "Google News - entry level hiring graduates",
+    "name": "Wages, Productivity & Labor Share",
     "category": "labor",
-    "url": "https://news.google.com/rss/search?q=entry%20level%20hiring%20recent%20graduates%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+    "url": "https://news.google.com/rss/search?q=(%22labor%20share%22%20OR%20%22wage%20growth%22%20OR%20%22corporate%20profits%22%20OR%20%22worker%20productivity%22%20OR%20%22nonfarm%20payrolls%22)%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
   }
 ]

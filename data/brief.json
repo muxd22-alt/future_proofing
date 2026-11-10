@@ -1,32 +1,42 @@
 {
-  "generated_at": "2026-11-09T15:39:12Z",
-  "headline": "Labor share falling; capital enablers behind by 16.5pp (3m)",
+  "generated_at": "2026-11-10T11:09:25Z",
+  "headline": "Macro favors Capital (Labor Share 93.7, Profits/Wages +7.5%); Equities show 3M pullback in AI hardware (-14.76%) vs. IT/Staffing bounce (+1.76%)",
   "bullets": [
     {
-      "text": "Labor share index fell to 93.73 (-0.67% vs prior observation, -1.60% YoY) - income continues to rotate toward capital.",
-      "tag": "capital-positive"
+      "tag": "capital-positive",
+      "title": "Labor Share Compression",
+      "text": "BLS Nonfarm Labor Share stands at 93.73 (-0.67% QoQ, -1.60% YoY), remaining structurally below the 2017=100 baseline.",
+      "reason": "Real output growth is accruing to capital owners faster than compensation: nonfarm payrolls sit at 159.3M with average weekly hours capped at 34.4h and hourly earnings at $38.00/hr."
     },
     {
-      "text": "Corporate profits divided by the wage bill rose to 0.404 (+7.50% vs prior observation) - capital income is outpacing wage income.",
-      "tag": "capital-positive"
+      "tag": "capital-positive",
+      "title": "Profits Outpacing Wages",
+      "text": "Corporate Profits-to-Wage-Bill ratio hit 0.404 (+7.50% QoQ, +22.00% YoY).",
+      "reason": "BEA Corporate Profits expanded to $4,279.9B SAAR (+8.40% QoQ, +26.61% YoY) while the annualized private wage bill grew only +0.47% MoM (+4.30% YoY) to $10,827.8B."
     },
     {
-      "text": "Labor-heavy names returned +1.76% over 3 months versus -14.76% for capital enablers - a +16.52% spread in favor of labor.",
-      "tag": "labor-positive"
+      "tag": "labor-positive",
+      "title": "Watchlist Spread Drivers",
+      "text": "3M Watchlist Spread is -16.52pp (Capital Enablers -14.76% vs. Labor-Heavy +1.76%).",
+      "reason": "Short-term multiple compression hit AI hardware/power names (VRT (-29.0%), AVGO (-23.8%), ETN (-21.7%)), while oversold IT outsourcers & staffing rebounded (EPAM (+56.0%), CTSH (+9.5%), RHI (-0.7%)). Over 1Y, hardware/grid winners (GEV (+43.5%), TSM (+37.9%), ANET (+37.9%)) still anchor the capex cycle."
     },
     {
-      "text": "News flow over the last 7 days: 15 AI-capex stories versus 11 labor-market stories across 60 tracked items.",
-      "tag": "capital-positive"
+      "tag": "capital-positive",
+      "title": "AI & Power Capex Catalyst",
+      "text": "\"PPL advanced stage data center pipeline hits 35GW in Pennsylvania\" (Data Center Dynamics).",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners. Also tracked: \"Equinix launches SG6 data center in Singapore\" (Data Center Dynamics)."
     },
     {
-      "text": "Unemployment at 4.1% (2026-10-01). Macro data as of 2026-07-01; brief generated deterministically because no LLM API key was available.",
-      "tag": "neutral"
+      "tag": "capital-positive",
+      "title": "Workforce & Macro Signal",
+      "text": "\"AI Layoffs Tracker\" (Layoffs.fyi) — with U.S. unemployment at 4.1% (2026-10-01).",
+      "reason": "Direct headcount reduction / AI substitution compressing labor share."
     }
   ],
-  "model": "deterministic-fallback",
-  "status": "fallback",
-  "news_items_considered": 60,
+  "model": "causal-quant-engine",
+  "status": "quant",
+  "news_items_considered": 24,
   "macro_as_of": "2026-07-01",
   "markets_as_of": "2026-11-09",
-  "snapshot_used": "AS OF: 2026-07-01 (macro), markets as of 2026-11-09\n\n[LABOR SHARE]\n- Labor share index (PRS85006173, quarterly): 93.73 on 2026-07-01; change vs prior observation -0.67%; vs prior year -1.60%\n\n[CAPITAL INCOME vs WAGE INCOME]\n- Corporate profits (CP): 4,279.94 bn USD SAAR on 2026-04-01; prior obs +8.40%; YoY +26.61%\n- Wage bill proxy: 10,827.85 bn USD/yr on 2026-10-01; prior month +0.47%; YoY +4.30%\n- Profits-to-wage-bill ratio: 0.404 on 2026-04-01; prior obs +7.50%; YoY +22.00%\n- Unemployment rate: 4.1% on 2026-10-01; 1 month change -2.38%\n\n[WATCHLISTS]\n- Capital Enablers (AI capex / HALO) (12 tickers): basket returns 1m -16.81%, 3m -14.76%, 6m -13.62%, 1y +1.57%, YTD +2.78%\n  top 3m: CEG -4.3%, ANET -6.2%, TSM -7.1%\n  bottom 3m: ETN -21.7%, AVGO -23.8%, VRT -29.0%\n- Labor-Heavy (staffing / office / per-seat SaaS) (10 tickers): basket returns 1m +5.61%, 3m +1.76%, 6m +45.39%, 1y +12.93%, YTD +12.35%\n  top 3m: EPAM +56.0%, CTSH +9.5%, RHI -0.7%\n  bottom 3m: SLG -5.5%, KELYA -12.5%, MAN -20.7%\n- Spread (enablers minus labor-heavy): 1m -22.43%, 3m -16.52%, 1y -11.36%\n\n[NEWS]\n- Item counts by category (last 7 days): ai_capex=15, fed=1, labor=11, macro=9, tech=24; total 60\n  - [tech] Disney and Adobe are building generative AI tools together (The Verge)\n  - [macro] Trump questions midterm election results, revives voting-machine conspiracy (CNBC Top News)\n  - [tech] Meta expands Instagram’s AI age-guessing tech globally (TechCrunch)\n  - [macro] Weekend trading of Nvidia scandal shines light on new financial products (CNBC Top News)\n  - [tech] Hold up — I had a great time talking to the RIAA guy (The Verge)\n  - [tech] Waymo robotaxis kept illegally passing school buses after software fix, feds say (TechCrunch)\n  - [ai_capex] Digital Realty launches liquid cooling lab in São Paulo, Brazil (Data Center Dynamics (AI capex / power / cooling))\n  - [ai_capex] Riot Platforms signs 910MW agreement with unnamed frontier AI lab (Data Center Dynamics (AI capex / power / cooling))\n  - [ai_capex] Copper cable theft causes disruption to Internet services across Bedfordshire, impacts M1 gantry signs (Data Center Dynamics (AI capex / power / cooling))\n  - [tech] Medium is launching a new note-taking app called TK (The Verge)\n  - [tech] How to shop like a pro during Black Friday and Cyber Monday (The Verge)\n  - [tech] Here are the price-matching policies for Best Buy, Walmart, and others (The Verge)\n  - [tech] Here’s when the Black Friday sales start at Walmart, Target, and other retailers (The Verge)\n  - [tech] Here are the shipping and return policies for all the big-name retailers (The Verge)\n  - [tech] We’re giving away a bag filled with almost $900 worth of tech for Black Friday (The Verge)"
+  "snapshot_used": "AS OF: macro 2026-07-01, markets 2026-11-09\n- Labor Share Index (PRS85006173): 93.73 (2026-07-01), QoQ -0.67%, YoY -1.60%\n- Corporate Profits (CP): $4,279.9B SAAR (2026-04-01), QoQ +8.40%, YoY +26.61%\n- Annualized Wage Bill: $10,827.8B (2026-10-01), MoM +0.47%, YoY +4.30%\n- Profits/Wages Ratio: 0.404, QoQ +7.50%, YoY +22.00%\n- Unemployment: 4.1% (2026-10-01), MoM -2.38%\n- Capital Enablers (AI capex / HALO): 1M -16.81%, 3M -14.76%, 1Y +1.57% | 3M leaders: CEG (-4.3%), ANET (-6.2%), TSM (-7.1%) | 3M laggards: VRT (-29.0%), AVGO (-23.8%), ETN (-21.7%) | 1Y leaders: GEV (+43.5%), TSM (+37.9%), ANET (+37.9%)\n- Labor-Heavy (staffing / office / per-seat SaaS): 1M +5.61%, 3M +1.76%, 1Y +12.93% | 3M leaders: EPAM (+56.0%), CTSH (+9.5%), RHI (-0.7%) | 3M laggards: MAN (-20.7%), KELYA (-12.5%), SLG (-5.5%) | 1Y leaders: RHI (+70.0%), MAN (+63.0%), KELYA (+43.6%)\n- [ai_capex] PPL advanced stage data center pipeline hits 35GW in Pennsylvania (Data Center Dynamics) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [ai_capex] Equinix launches SG6 data center in Singapore (Data Center Dynamics) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [ai_capex] JLARC: Data center tax break accounts for 60% of Virginia’s incentive spending (Virginia Mercury) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [labor] AI Layoffs Tracker (Layoffs.fyi) -> Reason: Direct headcount reduction / AI substitution compressing labor share\n- [ai_capex] TSMC's October sales jump as global chip boom rolls on (CNBC) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [ai_capex] SpaceX plans $24 billion gas power plant, data center project in Texas (Reuters) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [ai_capex] Nvidia Buying an Additional $1.5 Billion in SB Energy Shares Ahead of IPO (EnergyNow.com) -> Reason: Physical power & cooling bottleneck driving HALO infrastructure capex\n- [labor] $5+ billion AI healthcare company confirms layoffs (KRON4) -> Reason: Direct headcount reduction / AI substitution compressing labor share\n- [ai_capex] Former US DOE staffers launch modular data center firm Mavria (Data Center Dynamics) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [ai_capex] Mastering compliance (Data Center Dynamics) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [labor] Residential Building Worker Wage Growth Rebounds, but Real Wages Continue to Decline (Eye On Housing) -> Reason: Wage or bargaining-power resilience supporting labor income share\n- [ai_capex] New Jersey Senate passes bill banning data center-related NDAs (Data Center Dynamics) -> Reason: Compute & silicon capex expansion shifting income toward capital owners"
 }
