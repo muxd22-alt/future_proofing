@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:34:20Z",
+  "generated_at": "2026-11-11T13:49:25Z",
   "max_age_days": 7,
   "feeds": [
     {
@@ -15,7 +15,7 @@
       "category": "macro",
       "url": "https://www.bea.gov/news/rss",
       "status": "ok",
-      "items_returned": 1,
+      "items_returned": 0,
       "entries_seen": 10
     },
     {
@@ -23,7 +23,7 @@
       "category": "ai_capex",
       "url": "https://www.datacenterdynamics.com/en/rss/",
       "status": "ok",
-      "items_returned": 9,
+      "items_returned": 7,
       "entries_seen": 20
     },
     {
@@ -48,56 +48,206 @@
       "url": "https://news.google.com/rss/search?q=(%22labor%20share%22%20OR%20%22wage%20growth%22%20OR%20%22corporate%20profits%22%20OR%20%22worker%20productivity%22%20OR%20%22nonfarm%20payrolls%22)%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "items_returned": 10,
-      "entries_seen": 89
+      "entries_seen": 85
     }
   ],
   "feed_failures": 0,
   "carried_over": false,
   "counts": {
-    "ai_capex": 17,
-    "labor": 7
+    "labor": 8,
+    "ai_capex": 16
   },
   "total": 24,
   "items": [
     {
-      "title": "Nvidia shareholders file class action lawsuit against chip giant and its CEO Jensen Huang following fall-out from Chinese spy allegations",
-      "link": "https://www.datacenterdynamics.com/en/news/nvidia-shareholders-file-class-action-lawsuit-against-chip-giant-and-its-ceo-jensen-huang-following-fall-out-from-chinese-spy-allegations/",
+      "title": "US labor market remains resilient, though AI-driven layoffs continue",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeVJMbG4wVEw0SmJiemVpaGwxcDI2SkNtUHBjQW5tM0lFcmZzZUtBeVMwelZ5R080UUNuNTh6ZVhnZ0lNakJsNkZrazdWTVRydVROanRoR0V6UGlYU2FJWVhQUXZ5VzY4UTNSVGJkMlpTb2RweHZwTmNWcXV6ZHhIMy1MZndpY2RSUXdVSGJUbE1pN0tjR0xSNm9LLXdLZlNXSTMtb0pJRGl5Yy1nakE?oc=5",
+      "source": "Anadolu Ajansı",
+      "category": "labor",
+      "signal": "capital-positive",
+      "reason": "Direct headcount reduction / AI substitution compressing labor share",
+      "published": "2026-11-11T13:46:34Z",
+      "summary": "US labor market remains resilient, though AI-driven layoffs continue Anadolu Ajansı"
+    },
+    {
+      "title": "10-year data center moratorium approved in Ottawa, Kansas",
+      "link": "https://www.datacenterdynamics.com/en/news/10-year-data-center-moratorium-approved-in-ottawa-kansas/",
       "source": "Data Center Dynamics",
       "category": "ai_capex",
       "signal": "capital-positive",
       "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-10T13:23:52Z",
-      "summary": "Defendants claim the company and its chief exec misled shareholders by not disclosing Huang’s relationship with accused spy"
+      "published": "2026-11-11T13:35:34Z",
+      "summary": "... but the hyperscale project that sparked protests had already been canned"
     },
     {
-      "title": "Nvidia CEO's affair with alleged spy aided $7.5 billion in China chip shipments, Information reports",
+      "title": "Quantinuum upgrades quantum computer at Riken, partners with SoftBank for AI data center deployments",
+      "link": "https://www.datacenterdynamics.com/en/news/quantinuum-upgrades-quantum-computer-at-riken-partners-with-softbank-for-ai-data-center-deployments/",
+      "source": "Data Center Dynamics",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-11T12:36:10Z",
+      "summary": "Quantum firm upgrades Reimei system to H2 version"
+    },
+    {
+      "title": "Data center proposed within Cleveland's Union Trust Building, Ohio",
+      "link": "https://www.datacenterdynamics.com/en/news/data-center-proposed-within-clevelands-union-trust-building-ohio/",
+      "source": "Data Center Dynamics",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-11T11:42:34Z",
+      "summary": "Owner looks to partner with Hyperscape Digital despite looming foreclosure sale and a local moratorium"
+    },
+    {
+      "title": "Data center free cooling: running chillers only when needed",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/data-center-free-cooling-running-chillers-only-when-needed/",
+      "source": "Data Center Dynamics",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-11T10:23:31Z",
+      "summary": "A guide to trim chilling, and how CDU approach and supply temperature set your chiller hours"
+    },
+    {
+      "title": "Atomarine raises $19m for nuclear-powered floating data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/atomarine-raises-19m-for-nuclear-powered-floating-data-centers/",
+      "source": "Data Center Dynamics",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Physical power & cooling bottleneck driving HALO infrastructure capex",
+      "published": "2026-11-11T10:03:32Z",
+      "summary": "Company is touting 150MW nuclear ships to serve AI compute at sea"
+    },
+    {
+      "title": "TSMC Approves Up to $1 Billion Investment Plan in Anthropic, OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3ZlYXlWNllKZkZETDl2YUpGcXdKYnBpc01rZ2pMenZYcXJrcmVhbFdlUW5oQnFWeTZ1dlN2S2RwVFFUaVJIUWk0UVJsOHk4R25nSGt4NnlfYTZVNXZvTzlrcXU4V2ZGNUNQQTY1amMwcHZ3bC00aTFBMTRKcFExdThaQlY2Nmp4ek1qSXRDdVVuLUlOSWVPQWMtSHlqT0g3RmlCbQ?oc=5",
+      "source": "WSJ",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-11T05:29:00Z",
+      "summary": "TSMC Approves Up to $1 Billion Investment Plan in Anthropic, OpenAI WSJ"
+    },
+    {
+      "title": "AI trade could unwind further if hyperscaler spending slows: Strategist",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYTVzTFROcllqNUFRRFVkcTExUFZLRGdKd3Fma0tqb3FwYm9zQkptYU5oS2lWRWdpX0RXZ2pOUTBUYjVYd0RESXJuUkVtalB3MFlTTVNRdWI4d0JrcWpfSVdrQVdmYlRQN1FHSTllOHZCcVBTczBZZGVNeGotYjBxeW51eUQ1eDJXZTNhOG91bFh2dVhlY2cyU2FyQ1k0VC1vYTBOdjBOWk1fTFhFTmZz?oc=5",
+      "source": "CNBC",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-11T04:50:43Z",
+      "summary": "AI trade could unwind further if hyperscaler spending slows: Strategist CNBC"
+    },
+    {
+      "title": "Anthropic’s Giant IPO Will Tie It Closer to Nvidia",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40WWRMa0xmRm9vTGdfM2E0MXRhQUtaMmc1QnZzdm4tVG5zSlJsMWxnRzJsMXhxdlJHcC1hb0NTTF8tU25OODhVdjd4Z2JpYnpHQ3BnNktJbUZQcnFrbEJ4UW5EOXR4YVI2TXU5SnhWWXp1Y3AyeVpwVQ?oc=5",
+      "source": "The New York Times",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-10T20:32:37Z",
+      "summary": "Anthropic’s Giant IPO Will Tie It Closer to Nvidia The New York Times"
+    },
+    {
+      "title": "Nvidia Chinese Spy Story Is Getting Worse: Huang’s Affair Helped Move $7.5 Billion in Chips to China",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQmh1LVlIZnpuTWthNWxsMV95VnY4c2h2Z3F2UTNfV2ZoendQTkR2UkJoVE4wRFNSTW1fTi1OOEU4cG9aVUpmMGVmV2hxWUhMaDdLR2VLN2FQQk9CalpXSWVESGFHcFQ0czQycE1ZN2RNSUpqUUFwQTQ3OFJucTdYMVFLalFQcW9FejdxVFA0c2VDbnE1bDl4TUJnMXlNUQ?oc=5",
+      "source": "Yahoo Finance",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-10T17:10:22Z",
+      "summary": "Nvidia Chinese Spy Story Is Getting Worse: Huang’s Affair Helped Move $7.5 Billion in Chips to China Yahoo Finance"
+    },
+    {
+      "title": "Application filed for $8bn data center project in Quanah, Texas",
+      "link": "https://www.datacenterdynamics.com/en/news/application-filed-for-8bn-data-center-project-in-quanah-texas/",
+      "source": "Data Center Dynamics",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-10T17:07:00Z",
+      "summary": "Integra looks to build 756MW project near Childress"
+    },
+    {
+      "title": "Principal Asset Management acquires data center outside Amsterdam, the Netherlands",
+      "link": "https://www.datacenterdynamics.com/en/news/principal-asset-management-acquires-data-center-outside-amsterdam-the-netherlands/",
+      "source": "Data Center Dynamics",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-10T16:09:58Z",
+      "summary": "Switch gets a new landlord for AMS2"
+    },
+    {
+      "title": "Jensen Huang’s net worth drops $6.5 billion as Nvidia stock slides in the fallout of spy affair scandal investigation",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbk9hRXotckN0TndmSGZRS184RjVzMmdyc2pYZjd0cU5uMTQ3Rjc3UVBhSU9fcGxmWjNoUHVLNFJsMWJoMVVySjZqMWdtcDZvXzlFRGJDRzFCd3VPbmQxVFg3SV9vdGVSSi14NjJZbFY3VmNLOEcyQjZSdmp5U2xpc0h1VVRTYXY0VE1ydzg3VDVuWWV3NXkteWtDLUVSYzRDTXdxSGJMU05CeVFFTlhmX0FQSndRUGlaNmI0OWl5NFVSSFVIWTdDb2dzSmxfLWhMdEhv?oc=5",
+      "source": "Fortune",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-10T15:40:00Z",
+      "summary": "Jensen Huang’s net worth drops $6.5 billion as Nvidia stock slides in the fallout of spy affair scandal investigation Fortune"
+    },
+    {
+      "title": "Slower job, wage growth weighs on workers comp payrolls: NCCI",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlBhZHhkNWtOQUwzRjFFLU1oU3A0Uy1sTTE3Z080TEZocVJIYWV6R2RaTjFzQVFJMG9FdGVmTlRZT1BCNUNPdFBReUp0Nlh0eS1kamptdzZlX09vQXJmc2JfTVdnMWZvTUJKcHZjX0JOR282U0Y1S3ZUazV2TXFxVTVZMTVrRURaY2ZzTHE3QWpQUzA3UEdZYXR3?oc=5",
+      "source": "www.businessinsurance.com",
+      "category": "labor",
+      "signal": "labor-positive",
+      "reason": "Wage or bargaining-power resilience supporting labor income share",
+      "published": "2026-11-10T15:35:29Z",
+      "summary": "Slower job, wage growth weighs on workers comp payrolls: NCCI www.businessinsurance.com"
+    },
+    {
+      "title": "What to consider if a company that made AI-related job cuts wants you back",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvd3FRME9maUtoYkhlSGhBa2xhZ056ZEtXWUptYlROak1EbjhKZWNmZ1hrT1JMNlBBZHRqM25pZlhCblRxdVpGN2IzYV9BaDQzSzRuc3otd0FDdko4VVhSaHdaSlJGTk9jWjlNZWF5UFlyQU0?oc=5",
+      "source": "Orange County Register",
+      "category": "labor",
+      "signal": "capital-positive",
+      "reason": "Direct headcount reduction / AI substitution compressing labor share",
+      "published": "2026-11-10T15:00:40Z",
+      "summary": "What to consider if a company that made AI-related job cuts wants you back Orange County Register"
+    },
+    {
+      "title": "October Inflation Comes in Warm; Yearly Real Wage Growth Down for 7 Months Running",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ST3d1UVA0ZEQ1SlBnNW10TV9maXdVcGNZNnZHQ3E3c0JQN0hUN3V3V1pWNnFsdGhzeXJ5cXlmbWF2ZHpTbkkxdEpQd044Ry1uNnlDOEkzZUcxNzQ4ZlNRVlFqcnJyaU1YclFqLV9GbXpPbVRJWUJNLWpwZw?oc=5",
+      "source": "Jared Bernstein | Substack",
+      "category": "labor",
+      "signal": "labor-positive",
+      "reason": "Wage or bargaining-power resilience supporting labor income share",
+      "published": "2026-11-10T14:37:04Z",
+      "summary": "October Inflation Comes in Warm; Yearly Real Wage Growth Down for 7 Months Running Jared Bernstein | Substack"
+    },
+    {
+      "title": "Does anyone feel safe from layoffs right now?",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUhsRDBjWEtpekVKV3k5Y015cGRDT05BblRwLW1qbzlOWW1vcERDeG5YTENLdC1HMzlScmI3TXhzMElTQkNFWURBb0N3QWtRV05YOWRTTnhwaENnTUpMSzVCSXF2NmxQX2lWQkFLdTJScTdmY2p0MGpZbXlFNWlWV2lyYThEUzl1MTRRUjQ3UmEyYVA0VzB6OW1DejlRX1hrNVlGU1FKNVRwZFhBMG1kM0pTMA?oc=5",
+      "source": "CNBC",
+      "category": "labor",
+      "signal": "capital-positive",
+      "reason": "Direct headcount reduction / AI substitution compressing labor share",
+      "published": "2026-11-10T14:30:56Z",
+      "summary": "Does anyone feel safe from layoffs right now? CNBC"
+    },
+    {
+      "title": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
       "source": "Reuters",
       "category": "ai_capex",
       "signal": "capital-positive",
       "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-10T12:14:40Z",
-      "summary": "Nvidia CEO's affair with alleged spy aided $7.5 billion in China chip shipments, Information reports Reuters"
+      "published": "2026-11-10T11:11:00Z",
+      "summary": "Nvidia faces deepening scrutiny over China chip ties, CEO affair Reuters"
     },
     {
-      "title": "PPL advanced stage data center pipeline hits 35GW in Pennsylvania",
-      "link": "https://www.datacenterdynamics.com/en/news/ppl-advanced-stage-data-center-pipeline-hits-35gw-in-pennsylvania/",
-      "source": "Data Center Dynamics",
+      "title": "How Jensen Huang’s Yearslong Ties to Alice Huang Enabled $7 Billion-Plus Nvidia Chip Sales to China",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSnFMNEF5UjJUczd5eWdTQlQxOWRrMUQwSno4b2FETmM2bzVEckRLdVFqOWp1cGc5YlZVaFo0UG1FMFo2amRya1hGS2JsNVJsTnFCbDk2X3IydVhLTEJiX1VFN2tGdlQ4OGczNGpfSUZZcHRBVzFINU1VT2JRVVNteU16S01SRTZBdjdfTzNrT3p1Z0hOVk40UE9LTGlQSnVxUDRuMlRDT3ZjYjhEMzFTQlRR?oc=5",
+      "source": "The Information",
       "category": "ai_capex",
       "signal": "capital-positive",
       "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-10T10:49:00Z",
-      "summary": "Agrees terms for 2GW QTS project in Salem Township"
-    },
-    {
-      "title": "Equinix launches SG6 data center in Singapore",
-      "link": "https://www.datacenterdynamics.com/en/news/equinix-launches-sg6-data-center-in-singapore/",
-      "source": "Data Center Dynamics",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-10T10:38:59Z",
-      "summary": "Company launches new facility following relaxing of moratorium"
+      "published": "2026-11-10T10:41:00Z",
+      "summary": "How Jensen Huang’s Yearslong Ties to Alice Huang Enabled $7 Billion-Plus Nvidia Chip Sales to China The Information"
     },
     {
       "title": "JLARC: Data center tax break accounts for 60% of Virginia’s incentive spending",
@@ -110,74 +260,14 @@
       "summary": "JLARC: Data center tax break accounts for 60% of Virginia’s incentive spending Virginia Mercury"
     },
     {
-      "title": "AI Layoffs Tracker",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5SZnVlV3ZWcFBrLWJzQ3RjRDcwT3JBTlJLWlRLQ29rWmhtSjdnaHpWb1UzemJ2Z2NWbF8teUc5M1cyZmdtZ0E?oc=5",
-      "source": "Layoffs.fyi",
-      "category": "labor",
-      "signal": "capital-positive",
-      "reason": "Direct headcount reduction / AI substitution compressing labor share",
-      "published": "2026-11-10T08:23:51Z",
-      "summary": "AI Layoffs Tracker Layoffs.fyi"
-    },
-    {
-      "title": "TSMC's October sales jump as global chip boom rolls on",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53MEU3NHBqUUQ4NC1NLWctWUhvVzRaRHR5Y1VwcnFPY2h5eDZlUUR0cGxXd25QUDNKT1ZCaXpjenM0a1hFekRBWHk3M1I2OXBKV0NjZVlWYV9pZ2ZQdjNRcm5HM01YaTBM?oc=5",
-      "source": "CNBC",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-10T05:41:45Z",
-      "summary": "TSMC's October sales jump as global chip boom rolls on CNBC"
-    },
-    {
-      "title": "SpaceX plans $24 billion gas power plant, data center project in Texas",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZGhRNnpDTGdodFotZVZacFc5cC1NdnhETU5xb19iMFIxUUgySlJiOEYyX1RsdnFwY1h5VkM5RWpoVVVseFVJMFFFQ3ByaGxUOXZxY3R2M2RNSFJGaXhqU3VzSmhndWpmdklTd2RIekc1Nlg2b1FRVGdsdnN0YzVEQVVrZmpqT1JUVG9GamZ1U29EZjdaV0xFZEJTemZxdUZleGlLb055UEo0Slhod1VBU09kNWw0ajZmQnJmQUp3?oc=5",
-      "source": "Reuters",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-09T22:17:07Z",
-      "summary": "SpaceX plans $24 billion gas power plant, data center project in Texas Reuters"
-    },
-    {
-      "title": "Nvidia Buying an Additional $1.5 Billion in SB Energy Shares Ahead of IPO",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYjVaOUZDeENnM0JNTU1aOUxJY2lHMzdBOE5GUUZqc2VtOUxIWjVlRVdCa3JwY3dnWHBCS1FHWm1tVEd6NkdOTThCVTdmLXR1dEw1S0tSTWlHTzNaZDFsc3pqbktvTHBDRjJ6ZTV1NVJacWozUEhhTndCRmN5UDBod3N2YVBUNnl5T1JpSkFWQlNCcWpRbEdXSVZRc05JV3RUOU9HMTRR?oc=5",
-      "source": "EnergyNow.com",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Physical power & cooling bottleneck driving HALO infrastructure capex",
-      "published": "2026-11-09T20:30:40Z",
-      "summary": "Nvidia Buying an Additional $1.5 Billion in SB Energy Shares Ahead of IPO EnergyNow.com"
-    },
-    {
       "title": "$5+ billion AI healthcare company confirms layoffs",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVNHdkNyLVlUWGR0dmQ1Slh0cHNtZ0daOFV0dThMSzRnTkVHc3hoV2hVYWtJX3E2Z1JjOWlGNHR0UGhMd2xhRlBoamhxSjNjZUstRW1MdWVDV001N2hWS1Z0bkJlR0Zac29pTHl2WjFsYkt3NjJMNVFnWk5CcHhPcjFNVkRlQzZNV1ZlMUxMV2ZLbFVv0gGaAUFVX3lxTFAxQU5DSWVhZmxyZkpQM3Z0UHBMZVFBMWszZkozQXM4SnpqSGRrT19FVGNOVk0tLUF5bXZBMVphZGhPQ25OQTNjUHY5ajRqSE1Na1hXdFBKWHJiWXJiYmJpekI4ZG1CWkFHNElkclRtOUtzTTJmaDl0R1FXSmIxMkpfTW82dndOTmszOHBtWnUyMC1TMlF0OFlyOVE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVNHdkNyLVlUWGR0dmQ1Slh0cHNtZ0daOFV0dThMSzRnTkVHc3hoV2hVYWtJX3E2Z1JjOWlGNHR0UGhMd2xhRlBoamhxSjNjZUstRW1MdWVDV001N2hWS1Z0bkJlR0Zac29pTHl2WjFsYkt3NjJMNVFnWk5CcHhPcjFNVkRlQzZNV1ZlMUxMV2ZLbFVv?oc=5",
       "source": "KRON4",
       "category": "labor",
       "signal": "capital-positive",
       "reason": "Direct headcount reduction / AI substitution compressing labor share",
       "published": "2026-11-09T19:03:58Z",
       "summary": "$5+ billion AI healthcare company confirms layoffs KRON4"
-    },
-    {
-      "title": "Former US DOE staffers launch modular data center firm Mavria",
-      "link": "https://www.datacenterdynamics.com/en/news/former-us-doe-staffers-launch-modular-data-center-firm-mavria/",
-      "source": "Data Center Dynamics",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-09T16:56:57Z",
-      "summary": "Raises $130m to scale factory-built data center platform"
-    },
-    {
-      "title": "Mastering compliance",
-      "link": "https://www.datacenterdynamics.com/en/whitepapers/mastering-compliance/",
-      "source": "Data Center Dynamics",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-09T16:55:23Z",
-      "summary": "Reporting strategies for data center sustainability"
     },
     {
       "title": "Residential Building Worker Wage Growth Rebounds, but Real Wages Continue to Decline",
@@ -188,46 +278,6 @@
       "reason": "Wage or bargaining-power resilience supporting labor income share",
       "published": "2026-11-09T16:46:26Z",
       "summary": "Residential Building Worker Wage Growth Rebounds, but Real Wages Continue to Decline Eye On Housing"
-    },
-    {
-      "title": "New Jersey Senate passes bill banning data center-related NDAs",
-      "link": "https://www.datacenterdynamics.com/en/news/new-jersey-senate-passes-bill-banning-data-center-related-ndas/",
-      "source": "Data Center Dynamics",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-09T16:32:45Z",
-      "summary": "Bill now goes to NJ Assembly"
-    },
-    {
-      "title": "AirTrunk named as operator behind data center project in Melbourne, Australia",
-      "link": "https://www.datacenterdynamics.com/en/news/airtrunk-named-as-operator-behind-data-center-project-in-melbourne-australia/",
-      "source": "Data Center Dynamics",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-09T16:01:34Z",
-      "summary": "Also behind project to develop Kurri Kurri smelter into data center"
-    },
-    {
-      "title": "AI’s next infrastructure constraint",
-      "link": "https://www.datacenterdynamics.com/en/opinions/ais-next-infrastructure-constraint/",
-      "source": "Data Center Dynamics",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-09T15:45:15Z",
-      "summary": "Data center expansions have long been represented in gigawatts, but measurements of terabits-second and microseconds are now entering the constraint conversation"
-    },
-    {
-      "title": "Digital Realty launches liquid cooling lab in São Paulo, Brazil",
-      "link": "https://www.datacenterdynamics.com/en/news/digital-realty-launches-liquid-cooling-lab-in-s%C3%A3o-paulo-brazil/",
-      "source": "Data Center Dynamics",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Physical power & cooling bottleneck driving HALO infrastructure capex",
-      "published": "2026-11-09T15:13:16Z",
-      "summary": "Company's first DRIL lab in Latin America, follows launch of London lab earlier this year"
     },
     {
       "title": "‘AI rebounding’: Nearly 20% of U.S. workers replaced by AI are being asked back",
@@ -248,56 +298,6 @@
       "reason": "Compute & silicon capex expansion shifting income toward capital owners",
       "published": "2026-11-07T10:00:00Z",
       "summary": "An unexpected activist emerged to help block a $5 billion data center in Maryland NPR"
-    },
-    {
-      "title": "What to consider if a company that made AI-related job cuts wants you back",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWjBxcl84YjloeUg5eVltTmV0ZkMtUUFyLVJGNWxGV3JOdU53V1VFMUMxZndLcmtqZURLLU9IWk9kQUhHTEFOQVNvZGtmN3Z4Zmp5c21mMkhVQVE3R0JscUNqMGN4SVNUNmtnY3NkTWNuaHNXUERTVWJYWWZLZGVNRzhnNWdJVWtPQXREdHJ5V3gwSGg1VE9FOHB4ZG9uazlnTzBIT2tRdFktSE1tTEZOYWk4MjhMck9HZk1vVzkwN1k?oc=5",
-      "source": "Tribune Chronicle",
-      "category": "labor",
-      "signal": "capital-positive",
-      "reason": "Direct headcount reduction / AI substitution compressing labor share",
-      "published": "2026-11-07T05:19:45Z",
-      "summary": "What to consider if a company that made AI-related job cuts wants you back Tribune Chronicle"
-    },
-    {
-      "title": "How AI spending limits could help hyperscaler bonds but hurt stocks",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZnNLLUpGeG9xdl9yV29ZR3NLOHp6OHYzWVhMaFRNU3lHcnhZU0FWTkd1MGZsMXB4SHNhZ0VfWDNsYTQ2SVY4cmxMSE01OHM3Q3hRdVRLUXdDbG01UmVnREtSQk1ka3djVlJMckpkdmFLVUtBTHVtS2xQeXM3TDI3XzJwWjJ5U2VhSjlLMGVpb2gwMGVCREhZcm9n?oc=5",
-      "source": "Yahoo Finance",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-06T20:24:48Z",
-      "summary": "How AI spending limits could help hyperscaler bonds but hurt stocks Yahoo Finance"
-    },
-    {
-      "title": "TSMC Weighs Making Advanced Memory Chips to Capture More AI Spending",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDhRREo1cGVJbmxPMy1qbEl2cUM0aW1sbkpvc1l1YjVLUlgzWWV1cTh3Wi1wWHhZTkZ4em4wcVlkOXhxWVI4V1JYYWhnNFVlMFczS2xGQnFxQlJLYmVheEd5OC0tdEJfdHhobWt5NFBad1o1dWVSZHI1S0l4QkFMRDNKTkUtakd4b0F4cktCcWRxR2dEZnBDN0x0Z0tMRHNTWnc?oc=5",
-      "source": "The Information",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-06T14:01:00Z",
-      "summary": "TSMC Weighs Making Advanced Memory Chips to Capture More AI Spending The Information"
-    },
-    {
-      "title": "U.S. adds 165,000 jobs, but wage growth struggles to keep up with inflation",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWnRpQzZBeHJlT1J6eFFnV2xKel8zdEpGN3VTcW5PSGdyeFl4RG5LbHI5dFlDUk94bWJ1VXZyNDRxMGQtZC1rT0xwVFowYy1Wd056SnJKNmhxTlRScnZPN21kcXRma1VreU9sbkRndGZNdGtTb2xKNEMxbWJHTzJOVlFvUWZKTWE1bXMwYVFieGN4RGVocjlDekZJTjBfODhwYTZDa3JESUJ5Yk1PM0N2dnVXcHFTdEFMQUE?oc=5",
-      "source": "Scripps News",
-      "category": "labor",
-      "signal": "labor-positive",
-      "reason": "Wage or bargaining-power resilience supporting labor income share",
-      "published": "2026-11-06T13:51:30Z",
-      "summary": "U.S. adds 165,000 jobs, but wage growth struggles to keep up with inflation Scripps News"
-    },
-    {
-      "title": "Tech layoffs 2026: Tracking the job losses across Canva, Squarespace, Amazon, Microsoft, Apple, Meta and others",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNXzdUTzFhNUxQbXF4MzFPVUNkekFpYkpwdkhDRnNYaldpMGxQdHloUkRSREtfRDVEMzJtU25ISUozZFN2SF9DN3V1RHRSRUJMU1oxRlVPQlQzZE5sekpCWDlrd1U4NVA0eDE4eVNlRWJxUGM4d3BweUhDWnpHSTRzTHhGaU50bjhYYlkyWVZMOWRQTTFSU0dzMUs4NDg3ak1NOVJ3eFF5Mm41RU45cnhxcmRaNHFIN0N5ZGkwdUhKQVN4eE83cWZmUU5fQlU4cTU1NS1rOEFrRzJYYjAzVnhac0NjbVBHSktkdlQ4NnhfSnlmRHJEdTV2TEhpSTNtMXdSVUxN?oc=5",
-      "source": "Yahoo Tech",
-      "category": "labor",
-      "signal": "capital-positive",
-      "reason": "Direct headcount reduction / AI substitution compressing labor share",
-      "published": "2026-11-06T13:10:49Z",
-      "summary": "Tech layoffs 2026: Tracking the job losses across Canva, Squarespace, Amazon, Microsoft, Apple, Meta and others Yahoo Tech"
     }
   ]
 }
