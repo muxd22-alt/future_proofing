@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T13:13:15Z",
+  "generated_at": "2026-11-15T13:41:05Z",
   "max_age_days": 7,
   "feeds": [
     {
@@ -23,7 +23,7 @@
       "category": "ai_capex",
       "url": "https://www.datacenterdynamics.com/en/rss/",
       "status": "ok",
-      "items_returned": 10,
+      "items_returned": 8,
       "entries_seen": 20
     },
     {
@@ -39,7 +39,7 @@
       "category": "labor",
       "url": "https://news.google.com/rss/search?q=(AI%20OR%20automation)%20(layoffs%20OR%20%22job%20cuts%22%20OR%20headcount%20OR%20%22hiring%20freeze%22%20OR%20%22entry-level%22%20OR%20workforce)%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "items_returned": 9,
+      "items_returned": 10,
       "entries_seen": 100
     },
     {
@@ -48,14 +48,14 @@
       "url": "https://news.google.com/rss/search?q=(%22labor%20share%22%20OR%20%22wage%20growth%22%20OR%20%22corporate%20profits%22%20OR%20%22worker%20productivity%22%20OR%20%22nonfarm%20payrolls%22)%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "items_returned": 10,
-      "entries_seen": 48
+      "entries_seen": 47
     }
   ],
   "feed_failures": 0,
   "carried_over": false,
   "counts": {
-    "ai_capex": 15,
-    "labor": 8,
+    "ai_capex": 14,
+    "labor": 9,
     "fed": 1
   },
   "total": 24,
@@ -131,6 +131,16 @@
       "summary": "A unified lifecycle framework for cooling, critical power, power generation and building management systems"
     },
     {
+      "title": "Tech layoffs tracker 2026: All the job losses across Disney, Amazon, Microsoft, Apple, Meta and more",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZktvdXZ1WTZ4NWR3NnJxeUxwbzdyXzZYMTd4NlFrOGlGdTNqcnJhbnAyN18tYUFJSGlTOWxSSHRRWkVmYzFrVFExcVozWktlQWkzaFkzMTlSTjhfVmlJLWhKcDdocVhjUzRCUk9hVm9BZnJzVjhEZWx6X0hBX01UNnktblNuQktQSEhHNDhKM3dESVlDd1NPaHNad3V6RDF4OGlESjVWeW1sZ1JQNmR4YnpYbDZycEpVVWJDRW51MmJ4cXdZbXRqR21Tckh0NGZGZXZ3SzUyYW5lOUo0RC1IbWdINkJubEtkVXoteDdMZUJmdURscUE?oc=5",
+      "source": "Yahoo Tech",
+      "category": "labor",
+      "signal": "capital-positive",
+      "reason": "Direct headcount reduction / AI substitution compressing labor share",
+      "published": "2026-11-13T17:02:05Z",
+      "summary": "Tech layoffs tracker 2026: All the job losses across Disney, Amazon, Microsoft, Apple, Meta and more Yahoo Tech"
+    },
+    {
       "title": "Samsung in talks to acquire data center cooling company Modine Manufacturing",
       "link": "https://www.datacenterdynamics.com/en/news/samsung-in-talks-to-acquire-data-center-cooling-company-modine-manufacturing-report/",
       "source": "report",
@@ -201,26 +211,6 @@
       "summary": "Wafer-scale chip and AI cloud company now has three hyperscalers in its books"
     },
     {
-      "title": "Poste Italiane establishes €600m co-investment fund to support data center projects",
-      "link": "https://www.datacenterdynamics.com/en/news/poste-italiane-establishes-600m-co-investment-fund-to-support-data-center-projects/",
-      "source": "Data Center Dynamics",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-13T12:26:27Z",
-      "summary": "As company seeks to bolster data center infrastructure"
-    },
-    {
-      "title": "Three data center developments in Australia change course after community backlash",
-      "link": "https://www.datacenterdynamics.com/en/news/three-data-center-developments-in-australia-change-course-after-community-backlash/",
-      "source": "Data Center Dynamics",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-13T12:25:08Z",
-      "summary": "Developments in Lane Cove, Cooks River, and Tungkillo"
-    },
-    {
       "title": "An inflation scare, workers get their fair share, and Nvidia’s billion-dollar affairs : The Indicator from Planet Money",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaGNvV2Vwcl9LY25hVTJRbnVWMzhtM2Z5V3pGcENMVUU1cEZCeEk1TjRNMjJBRkF5aTVHcDd5b3l3X0VKd3BsYnlxWXVkamJ2WDhaSUF3WVNRTnhVNWxSTGJOaVRkb3dscDlsWTg2VmdfMWsyYlFnYUdzaWNHYWdON3AyVHNXRDdPMDcwV2l4d2Y2V2Y5U1Zta2ZhdVlleHRlWGxTNHV0S24wWklZbFhJeFRVRVVHWFNqVFlOQ0NHY1IxbkYxbXc?oc=5",
       "source": "NPR",
@@ -229,6 +219,16 @@
       "reason": "Compute & silicon capex expansion shifting income toward capital owners",
       "published": "2026-11-13T08:00:00Z",
       "summary": "An inflation scare, workers get their fair share, and Nvidia’s billion-dollar affairs : The Indicator from Planet Money NPR"
+    },
+    {
+      "title": "Nvidia market cap plunges $490 billion following former CEO Huang's affair scandals",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYW00QXU1X0N2NDd1VS1LWWxSSmFVTVpFeXFBbFZublk0NlZqVnIwbHlVb184WWJ5TWNZdC16YjR0bWozdEIyN1VYMVgweUVhdDBRYXlZaUVzYktfUkVuRkVCQW1qYWo5cGUwQnY2RTRMZ2lKZklFcWxoVzZLVWY0VFhEZTFQYzFLamt5bzViQkU0ZEtaaU9TaHRzVEYzaDlCY2ppaDB2bGlzdVpQTjFYNE93T0wtRWh0ZW50Y1FENE5MQ0tHVms0LTkwSkhRS2JTbDVzWlZYTkI?oc=5",
+      "source": "Yahoo Finance",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-12T22:44:12Z",
+      "summary": "Nvidia market cap plunges $490 billion following former CEO Huang's affair scandals Yahoo Finance"
     },
     {
       "title": "AI Layoffs Risk Triggering 1.6 Million More US Job Losses",
