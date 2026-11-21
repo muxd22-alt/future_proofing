@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:04:52Z",
+  "generated_at": "2026-11-21T14:25:26Z",
   "max_age_days": 7,
   "feeds": [
     {
@@ -23,7 +23,7 @@
       "category": "ai_capex",
       "url": "https://www.datacenterdynamics.com/en/rss/",
       "status": "ok",
-      "items_returned": 9,
+      "items_returned": 10,
       "entries_seen": 20
     },
     {
@@ -39,7 +39,7 @@
       "category": "labor",
       "url": "https://news.google.com/rss/search?q=(AI%20OR%20automation)%20(layoffs%20OR%20%22job%20cuts%22%20OR%20headcount%20OR%20%22hiring%20freeze%22%20OR%20%22entry-level%22%20OR%20workforce)%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "items_returned": 10,
+      "items_returned": 9,
       "entries_seen": 100
     },
     {
@@ -48,28 +48,147 @@
       "url": "https://news.google.com/rss/search?q=(%22labor%20share%22%20OR%20%22wage%20growth%22%20OR%20%22corporate%20profits%22%20OR%20%22worker%20productivity%22%20OR%20%22nonfarm%20payrolls%22)%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "items_returned": 10,
-      "entries_seen": 68
+      "entries_seen": 72
     }
   ],
   "feed_failures": 0,
   "carried_over": false,
   "counts": {
     "ai_capex": 15,
-    "macro": 2,
-    "labor": 5,
-    "fed": 2
+    "labor": 7,
+    "macro": 2
   },
   "total": 24,
   "items": [
     {
-      "title": "Exclusive | Wall Street Pledged to Mobilize $500 Billion for Nvidia—but Hasn’t Put Up a Dime",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWjdzR25CWl9WWlp1SVp4cVl0OE1TUWhmVXBKZVJ1RFNudjFKOEtabjJCX1o0bTRteGZPbVZmRURDazJ3a2UtajRYQ3d2eENyUFpCNHoxZzlSWFRHYnlITVNoSWx4V0g5bjN0S2o0MWVsMm9XSzN3Znd2Zk9CbVkxc2VKa0xJUDRWRGh0aVdEcU4tNTVNVkw3cV9SQUc0d3Nya1dCNkFLTlc0VWdqTWh6M0VwZlQ?oc=5",
-      "source": "WSJ",
+      "title": "Securing the turbine is only half the battle: the emissions monitoring path to data center power",
+      "link": "https://www.datacenterdynamics.com/en/opinions/securing-the-turbine-is-only-half-the-battle-the-emissions-monitoring-path-to-data-center-power/",
+      "source": "Data Center Dynamics",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Physical power & cooling bottleneck driving HALO infrastructure capex",
+      "published": "2026-11-21T11:00:28Z",
+      "summary": "Demonstrating compliance is what turns it into power"
+    },
+    {
+      "title": "Nvidia and SanDisk Bets Joined Bitcoin in a $1.76 Billion Liquidation Wave",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3Y3hVaUJUeV9YZUYyU3A3bnVKNlNVSi1wZ0NZZTctMG96WkptWW9CQ0ltNl9FbV94Q3k4X0xkMjF5RDlnZGp1ZFhfbDI3dTVpeTFSZjFTTGZVY0dOOGUzc191U09EelhwbVJFcWtSTG9WN0ZXcmRiSA?oc=5",
+      "source": "BeInCrypto",
       "category": "ai_capex",
       "signal": "capital-positive",
       "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-20T14:02:03Z",
-      "summary": "Exclusive | Wall Street Pledged to Mobilize $500 Billion for Nvidia—but Hasn’t Put Up a Dime WSJ"
+      "published": "2026-11-21T07:00:12Z",
+      "summary": "Nvidia and SanDisk Bets Joined Bitcoin in a $1.76 Billion Liquidation Wave BeInCrypto"
+    },
+    {
+      "title": "UK competition body probes hyperscaler security and cloud lock-in",
+      "link": "https://www.datacenterdynamics.com/en/news/uk-competition-body-probes-hyperscaler-security-and-cloud-lock-in/",
+      "source": "Data Center Dynamics",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-20T17:09:15Z",
+      "summary": "CMA continues digital sovereignty investigation with consultation into IAM and Kubernetes"
+    },
+    {
+      "title": "Microsoft files for 316.7-acre data center campus in Mecklenburg County, Virginia",
+      "link": "https://www.datacenterdynamics.com/en/news/microsoft-files-for-3167-acre-data-center-campus-in-mecklenburg-county-virginia/",
+      "source": "Data Center Dynamics",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-20T17:06:21Z",
+      "summary": "Aims to build five data center buildings on site"
+    },
+    {
+      "title": "CyrusOne and KEP top out 48MW data center in Osaka, Japan",
+      "link": "https://www.datacenterdynamics.com/en/news/cyrusone-and-kep-top-out-48mw-data-center-in-osaka-japan/",
+      "source": "Data Center Dynamics",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-20T17:03:49Z",
+      "summary": "First facility under the pair's Japanese joint venture"
+    },
+    {
+      "title": "Apollo, Ardian, Macquarie, and Rai line up to acquire Retelit data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/apollo-ardian-macquarie-and-rai-line-up-to-acquire-retelit-data-centers-report/",
+      "source": "report",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-20T17:01:43Z",
+      "summary": "Telco looks to offload data center biz as it acquires subsea cable company Sparkle"
+    },
+    {
+      "title": "Euro-Area Wage Growth Edges up, Keeping ECB Options Open",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYUNpRm1weU1IaHJfcFVjOVlOLXItNTJCcjNBRXgzTTB1cTIyakdUSjcxVmh2Nlc1bDIwTFhxOFk5OEk5UkJTQVBPN2VKcm13SnlLTk5XWHg2SEkySTl6bG5EbGhHTXBiQmVDVEdsbVJSdlFVbFM0TWp6M0JDbko3UVNHU1NrQW04VWxn?oc=5",
+      "source": "Briefs Finance",
+      "category": "labor",
+      "signal": "labor-positive",
+      "reason": "Wage or bargaining-power resilience supporting labor income share",
+      "published": "2026-11-20T16:15:00Z",
+      "summary": "Euro-Area Wage Growth Edges up, Keeping ECB Options Open Briefs Finance"
+    },
+    {
+      "title": "Lambda deploys Nvidia Photonics switches at QScale data center",
+      "link": "https://www.datacenterdynamics.com/en/news/lambda-deploys-nvidia-photonics-switches-at-qscale-data-center/",
+      "source": "Data Center Dynamics",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-20T16:00:00Z",
+      "summary": "Deployment in Quebec, Canada, now sports co-packaged optics switches"
+    },
+    {
+      "title": "Regulation ready",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/regulation-ready/",
+      "source": "Data Center Dynamics",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-20T15:48:59Z",
+      "summary": "How early design and development decisions shape data center approval and delivery"
+    },
+    {
+      "title": "Eurozone Wage Growth Accelerates, But Remains Modest",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZHNueHVpdmp1RVJDbXVtdmNxSVM2cWQ4SnhKRklDemVfbkdscHNnTU5qZV9JUzQxWXlSSFh4TnlpcDY4WnZqRFJqYmxad3pFT3lSYjZqX3J1aklhVVJHczR1eGdLT0dmZDg2ZDFsRXJtS1VMT2EzTGEwMVNqaXFxNzduU0JEMWh0N0pDTE1SVWh0cG5Qb2lzSmdXaw?oc=5",
+      "source": "WSJ",
+      "category": "labor",
+      "signal": "labor-positive",
+      "reason": "Wage or bargaining-power resilience supporting labor income share",
+      "published": "2026-11-20T15:28:00Z",
+      "summary": "Eurozone Wage Growth Accelerates, But Remains Modest WSJ"
+    },
+    {
+      "title": "AMD set to lease planned 5C data center in Pennsylvania",
+      "link": "https://www.datacenterdynamics.com/en/news/amd-set-to-lease-planned-5c-data-center-in-pennsylvania/",
+      "source": "Data Center Dynamics",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Physical power & cooling bottleneck driving HALO infrastructure capex",
+      "published": "2026-11-20T15:19:41Z",
+      "summary": "5C looking to buy site in Mount Carmel from FIT Energy"
+    },
+    {
+      "title": "Egypt’s Forbes International Tower to house a data center",
+      "link": "https://www.datacenterdynamics.com/en/news/egypts-forbes-international-tower-to-house-a-data-center/",
+      "source": "Data Center Dynamics",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-20T15:17:40Z",
+      "summary": "US government contractor Aedan Looking Glass ALG will lead technology and infrastructure delivery"
+    },
+    {
+      "title": "Boardroom AI talks turn from job cuts to cyber threats",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYjlscEdmem14aTNhVHZEYlIwQ204RWR3OS1KT1NNd1NaQnpqS2Rnd0d1T3pkdXhTQ3d2ZU1hUVRLVzViNmpuazVLNjdpbWxmQnRnMTZSbEtOa3RDdW5RQUpGNXRDN3J1eWMyeUF4djJiM29VWGdmbVRYblc5SnE2dkxxbUd0MTY2aDVyRFhIdDnSAZYBQVVfeXFMUGJMaTE5TUhRY01TVzlFbWswR2c0blNEYkhhR1JRSHFpTXBmOG1TSE1qbGpvWjJHa0x0V2liT2tOQTA0eFJLN0pPNzNXT0twc1Ayc2FycnZpX2Y3amNIQ2tQZ2M3dkxzV05WVjAycndvc3dza1hFaVhQQzU5MzR2NFh0RGNVbjl0V3FjRzloVkVOUUs1azVR?oc=5",
+      "source": "Fox Business",
+      "category": "labor",
+      "signal": "capital-positive",
+      "reason": "Direct headcount reduction / AI substitution compressing labor share",
+      "published": "2026-11-20T15:05:00Z",
+      "summary": "Boardroom AI talks turn from job cuts to cyber threats Fox Business"
     },
     {
       "title": "Activities of U.S. Multinational Enterprises, 2024",
@@ -90,96 +209,6 @@
       "reason": "Compute & silicon capex expansion shifting income toward capital owners",
       "published": "2026-11-20T13:07:03Z",
       "summary": "Facilities set to be completed by Q2 2028"
-    },
-    {
-      "title": "L&G-led 90MW data center site in East London sold to unnamed buyer",
-      "link": "https://www.datacenterdynamics.com/en/news/lg-led-90mw-data-center-site-in-east-london-sold-to-unnamed-buyer/",
-      "source": "Data Center Dynamics",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-20T12:49:54Z",
-      "summary": "Site has planning permission and 130MVA of reserved grid power"
-    },
-    {
-      "title": "PJM plan could cut data center and power plant grid connection times to 12 months",
-      "link": "https://www.datacenterdynamics.com/en/news/pjm-plan-could-cut-data-center-and-power-plant-grid-connection-times-to-12-months/",
-      "source": "Data Center Dynamics",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-20T12:47:18Z",
-      "summary": "Submits proposal to FERC, regulator may have to foot the bill"
-    },
-    {
-      "title": "EdgeCore launches Reno data center, tops out second building on campus",
-      "link": "https://www.datacenterdynamics.com/en/news/edgecore-launches-reno-data-center-tops-out-second-building-on-campus/",
-      "source": "Data Center Dynamics",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-20T12:42:36Z",
-      "summary": "Three-building campus to support 216MW at full build-out"
-    },
-    {
-      "title": "California AG issues Nvidia with subpoena as part of probe into Chinese chip exports",
-      "link": "https://www.datacenterdynamics.com/en/news/california-ag-issues-nvidia-with-subpoena-as-part-of-probe-into-chinese-chip-exports/",
-      "source": "Data Center Dynamics",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-20T12:39:26Z",
-      "summary": "AG Rob Bonta will also investigate if confidential information was passed to China or investors were misled"
-    },
-    {
-      "title": "TeraWulf starts construction at Kentucky data center campus",
-      "link": "https://www.datacenterdynamics.com/en/news/terawulf-starts-construction-at-kentucky-data-center-campus/",
-      "source": "Data Center Dynamics",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-20T11:59:57Z",
-      "summary": "Justified Data campus set to be leased to Anthropic"
-    },
-    {
-      "title": "Hochtief's Yexio launches Edge data center in Paderborn, Germany",
-      "link": "https://www.datacenterdynamics.com/en/news/hochtiefs-yexio-launches-edge-data-center-in-paderborn-germany/",
-      "source": "Data Center Dynamics",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-20T10:55:52Z",
-      "summary": "Second facility under the Yexio name, more planned across DACH"
-    },
-    {
-      "title": "Nexalus and Renda launch liquid-cooled AI server for data center retrofit market",
-      "link": "https://www.datacenterdynamics.com/en/news/nexalus-and-renda-launch-liquid-cooled-ai-server-for-data-center-retrofit-market/",
-      "source": "Data Center Dynamics",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-20T10:54:16Z",
-      "summary": "Features eight Nvidia Blackwell GPUs"
-    },
-    {
-      "title": "Alibaba Cloud launches sixth data center in Malaysia",
-      "link": "https://www.datacenterdynamics.com/en/news/alibaba-cloud-launches-sixth-data-center-in-malaysia/",
-      "source": "Data Center Dynamics",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-20T10:39:00Z",
-      "summary": "Company also posts Q2 2027 earnings"
-    },
-    {
-      "title": "Eurozone Wage Growth Accelerates, But Remains Modest",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZHNueHVpdmp1RVJDbXVtdmNxSVM2cWQ4SnhKRklDemVfbkdscHNnTU5qZV9JUzQxWXlSSFh4TnlpcDY4WnZqRFJqYmxad3pFT3lSYjZqX3J1aklhVVJHczR1eGdLT0dmZDg2ZDFsRXJtS1VMT2EzTGEwMVNqaXFxNzduU0JEMWh0N0pDTE1SVWh0cG5Qb2lzSmdXaw?oc=5",
-      "source": "WSJ",
-      "category": "labor",
-      "signal": "labor-positive",
-      "reason": "Wage or bargaining-power resilience supporting labor income share",
-      "published": "2026-11-20T10:38:00Z",
-      "summary": "Eurozone Wage Growth Accelerates, But Remains Modest WSJ"
     },
     {
       "title": "Nvidia’s $228 Billion Data Center Bet: Three Things to Know",
@@ -242,6 +271,16 @@
       "summary": "Australia records strongest quarterly wage growth since 2023 Staffing Industry Analysts"
     },
     {
+      "title": "Nvidia Is Financing Its Own Demand, And The Fed Noticed (NASDAQ:NVDA)",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWY1d2ItZkhENElDOVhFeHBYYXpQcU0zdjZTbG4yV0Z2RHM1eGF5ZG5FTFo4YklUTUItMnNJZVd4b1gzMGZoeE9PRzhnZ3pwREQxYVBMVDNFRVo4bWNhcktfZUlBZkRacldEQUZRSG84eEJGM3Y0YWc0eEU2VUV3MVREMHJBWE1UaUk2d0tpaEY0SDFxZXN5bkZTVQ?oc=5",
+      "source": "Seeking Alpha",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-19T22:33:52Z",
+      "summary": "Nvidia Is Financing Its Own Demand, And The Fed Noticed (NASDAQ:NVDA) Seeking Alpha"
+    },
+    {
       "title": "Unless you’re building a data center or have a side hustle, you’re significantly worse off than last year, according to the Fed",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUXY2VWdlS1F1amhzdkVlSUlNeUJiS3FhQUdwNHJOMEtzNGxSaHItY2Z5SzVYOGJNNUJwdWNpUkxQYnJ6WVBYcWlJZTVTLUVVZUVfZkVlVWNFYU40djNrZ0d3YzdCMHJ4WGNiMmtQQk54X1JpM1V2bHRHMUFZVUFxMEdVdHZ0V2JVcEdsVWZJbDZKTmpBbFk1cWhWeng?oc=5",
       "source": "Fortune",
@@ -260,46 +299,6 @@
       "reason": "Direct headcount reduction / AI substitution compressing labor share",
       "published": "2026-11-19T11:02:20Z",
       "summary": "AI Was Blamed for More Than 120,000 Layoffs in 2026. These 10 Jobs Are Still Growing Fast Money Talks News"
-    },
-    {
-      "title": "Nvidia’s Cash Machine Fuels Buybacks, Investments — and Debt",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1NGZFlXZ2hiaVB3a2JfblRsb0w2NUtwSERiYjNzMGkyM2RFdEpfZmU4NFNNLTI4NnQ1a2JHVXd3ODJUMFFrYXl3cHpnYURSTHBXTFloTzJWTmJBOV9Xc2l6OVlyencxdmxwUHN5eTJFR2FpRVB0QmxrLVpXa1YxREVBRHg5WHJ3U3E4TVdTc3RwZjItTkF0VjROVkNGNHRWdEo0UWdJbHhjeW9BSUE?oc=5",
-      "source": "Global Finance Magazine",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-18T21:10:03Z",
-      "summary": "Nvidia’s Cash Machine Fuels Buybacks, Investments — and Debt Global Finance Magazine"
-    },
-    {
-      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
-      "source": "Federal Reserve",
-      "category": "fed",
-      "signal": "neutral",
-      "reason": "Official macro / monetary release impacting capital & labor",
-      "published": "2026-11-18T19:00:00Z",
-      "summary": "Minutes of the Federal Open Market Committee, October 27-28, 2026"
-    },
-    {
-      "title": "Outdoor Recreation Economic Statistics, U.S. and States, 2025",
-      "link": "http://www.bea.gov/news/2026/outdoor-recreation-economic-statistics-us-and-states-2025",
-      "source": "BEA Macro Releases",
-      "category": "fed",
-      "signal": "neutral",
-      "reason": "Macro / cost-of-capital policy shift affecting capex vs. hiring",
-      "published": "2026-11-18T13:30:00Z",
-      "summary": "The value added of the outdoor recreation economy accounted for 2.3 percent ($704.2 billion) of current-dollar gross domestic product (GDP) for the nation in 2025. Across states and the District of Columbia, value added…"
-    },
-    {
-      "title": "The Bank of Nvidia Under New Management",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLWhmRzZ2QTR3bTBCSTFFdXdDbVlmR3BwY2stQjg3bUJvdmVBVl9DTXA0YW9NOGtURHlkU1RRdUJDMEpHWnVTempvMldSLTdmRkZPWDhrVXowWXBTZ2RyblFTODE5cXJ1QTlwTnk4N3JkbHZSNkxBVzFQeF9RNjVBcFdscUVHaHdRVjdEV0h3VXBkcjRrQTdSZDZ5ZjZVT0JPRHhJRFJ5Tzhma0ZEMHhhN0laU09sLVhXM1d1SjlvdExxSS1xdnBoZjRB?oc=5",
-      "source": "Bloomberg.com",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-18T11:28:01Z",
-      "summary": "The Bank of Nvidia Under New Management Bloomberg.com"
     }
   ]
 }
