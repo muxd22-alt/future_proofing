@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T14:25:26Z",
+  "generated_at": "2026-11-22T14:18:50Z",
   "max_age_days": 7,
   "feeds": [
     {
@@ -39,7 +39,7 @@
       "category": "labor",
       "url": "https://news.google.com/rss/search?q=(AI%20OR%20automation)%20(layoffs%20OR%20%22job%20cuts%22%20OR%20headcount%20OR%20%22hiring%20freeze%22%20OR%20%22entry-level%22%20OR%20workforce)%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "items_returned": 9,
+      "items_returned": 8,
       "entries_seen": 100
     },
     {
@@ -48,18 +48,38 @@
       "url": "https://news.google.com/rss/search?q=(%22labor%20share%22%20OR%20%22wage%20growth%22%20OR%20%22corporate%20profits%22%20OR%20%22worker%20productivity%22%20OR%20%22nonfarm%20payrolls%22)%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "items_returned": 10,
-      "entries_seen": 72
+      "entries_seen": 71
     }
   ],
   "feed_failures": 0,
   "carried_over": false,
   "counts": {
-    "ai_capex": 15,
-    "labor": 7,
+    "ai_capex": 16,
+    "labor": 6,
     "macro": 2
   },
   "total": 24,
   "items": [
+    {
+      "title": "Inside the federal push for a $6 billion data center",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa2V2YmpWSW10c3hBS1VTMTNLMXJNYU1ReHRSVnZwWFpLOHd1MTBGR0cwSWdhZXU1VDl3WXVtcmxtN2NqNk5VZnl3MWYtam8yS1gxUDJ0SmhVUkV2VExtTy1GYmw0YlRybzByY2hIaHJPYUlJa0VienF4Y25aRzZOSjNzdnBLMkppTjRCSXVFbDZQamxyaVV6V0JTb2VVZw?oc=5",
+      "source": "Arkansas Times",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-21T22:07:07Z",
+      "summary": "Inside the federal push for a $6 billion data center Arkansas Times"
+    },
+    {
+      "title": "Nvidia and SanDisk Bets Joined Bitcoin in a $1.76 Billion Liquidation Wave",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3Y3hVaUJUeV9YZUYyU3A3bnVKNlNVSi1wZ0NZZTctMG96WkptWW9CQ0ltNl9FbV94Q3k4X0xkMjF5RDlnZGp1ZFhfbDI3dTVpeTFSZjFTTGZVY0dOOGUzc191U09EelhwbVJFcWtSTG9WN0ZXcmRiSA?oc=5",
+      "source": "BeInCrypto",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-21T13:37:58Z",
+      "summary": "Nvidia and SanDisk Bets Joined Bitcoin in a $1.76 Billion Liquidation Wave BeInCrypto"
+    },
     {
       "title": "Securing the turbine is only half the battle: the emissions monitoring path to data center power",
       "link": "https://www.datacenterdynamics.com/en/opinions/securing-the-turbine-is-only-half-the-battle-the-emissions-monitoring-path-to-data-center-power/",
@@ -71,14 +91,24 @@
       "summary": "Demonstrating compliance is what turns it into power"
     },
     {
-      "title": "Nvidia and SanDisk Bets Joined Bitcoin in a $1.76 Billion Liquidation Wave",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3Y3hVaUJUeV9YZUYyU3A3bnVKNlNVSi1wZ0NZZTctMG96WkptWW9CQ0ltNl9FbV94Q3k4X0xkMjF5RDlnZGp1ZFhfbDI3dTVpeTFSZjFTTGZVY0dOOGUzc191U09EelhwbVJFcWtSTG9WN0ZXcmRiSA?oc=5",
-      "source": "BeInCrypto",
+      "title": "Cochise County chair reveals what SpaceX promised for $50 billion data center",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjRTOFYwZlNDQ0lNQzgyeFA0dTFHRGtYcGNfRE1uVnRxYUlLRDRqWUdfbTNjMS1hbWVTSC1Ldm1YTGFMNmttMjdhNE1XOHJTY2tCclU0UkNsV1pzTUFmcFNCNTZ5T0J6Sm9qUm5EdzBIZFZsd3NSdGFOeDFwS1ItanBSVFRCdlZ5MTJRal9wU1gxUGZ6Vy1fbmJHaUQ1UGVGdnlMWTFHSk0zci1NWXfSAcIBQVVfeXFMTUhOTE1FVjBfb0hVWVF4YUlPbTRsUmg2RVJxSnFiUDA0ZWp3WVo0WDlHQXh2bkpkM3JKejVNb1J3dHJzWVlnaElwTG9pOXk1UEFZUnI3MThnVmJRR2pPX0ZLYnZDZ281SzVqZ3o1VEZhd0dxX0VkU3B1MGhPR1RNNWw2MTVSeWs1VDQ4aEVWeGlLNVdTWDJEdGhUX3RXbVhuYVJiaTZNci1zRWY4WWRJbTd5UFpuUzFNeVRsYXl1Zy1makE?oc=5",
+      "source": "AZ Family",
       "category": "ai_capex",
       "signal": "capital-positive",
       "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-21T07:00:12Z",
-      "summary": "Nvidia and SanDisk Bets Joined Bitcoin in a $1.76 Billion Liquidation Wave BeInCrypto"
+      "published": "2026-11-21T01:35:00Z",
+      "summary": "Cochise County chair reveals what SpaceX promised for $50 billion data center AZ Family"
+    },
+    {
+      "title": "Tech layoffs tracker 2026: All the job losses across Disney, Intel, Amazon, Microsoft, Apple, Meta and others",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOc1VXdUV4VHNsYl9ueVBBN0xDWUo4RG1KYXFGNXlWNTlFOVZ5VUdfNnBUVlkxXzFWNV9tZDhrTzdWTW9FVTl3Y2ppWTJXbFhWSzVHeG5JSm9pRjQxZ3ZnMXpCY3FTYVBKcHhOV0hCZjBiZEU4dl9wRHNBQlFMbHVNWkFsbkQzOHBkQ2FadzF2UnZyUWZJeEtseFhLQ1ZQcVBSUmR2dEpwd0J1Zjd1QThyYzJxN2gxUi0xbFhVamVuYUdFaldBQXRUMFRHRTJDa1JiY0VvUmJEZW5WT2ZHdWVsSzdFOXBld1dOTFNNTWtoZ1lQOVp2T2xmUkNPZy1ibXdy?oc=5",
+      "source": "Yahoo Tech",
+      "category": "labor",
+      "signal": "capital-positive",
+      "reason": "Direct headcount reduction / AI substitution compressing labor share",
+      "published": "2026-11-20T18:25:29Z",
+      "summary": "Tech layoffs tracker 2026: All the job losses across Disney, Intel, Amazon, Microsoft, Apple, Meta and others Yahoo Tech"
     },
     {
       "title": "UK competition body probes hyperscaler security and cloud lock-in",
@@ -261,26 +291,6 @@
       "summary": "What Is AI Washing? How To Spot It In Layoff Announcements Forbes"
     },
     {
-      "title": "Australia records strongest quarterly wage growth since 2023",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNzlQZS1DV0FLdTNhcU1KbFZnemJUbUEtNng4UWVUQ00tY2RGUXQ2X2tpNEcyRTRDTFZxczJIRTJzTEs5MG5hU1prNzFIYmNlaWR4MDNTd3NsenZ4YnVoZ2JpZ3M1cjFfSGNDNzJJcjhkTGxiWlpNVlJzdjR6Qi15MWM2ODlMbXpXb2xCU18zVF9ENy1UTnhHTHhXNUZhSllTcUR0RTB2TjRFM2dhX3BXTkU0clRrbTA?oc=5",
-      "source": "Staffing Industry Analysts",
-      "category": "labor",
-      "signal": "labor-positive",
-      "reason": "Wage or bargaining-power resilience supporting labor income share",
-      "published": "2026-11-19T22:59:01Z",
-      "summary": "Australia records strongest quarterly wage growth since 2023 Staffing Industry Analysts"
-    },
-    {
-      "title": "Nvidia Is Financing Its Own Demand, And The Fed Noticed (NASDAQ:NVDA)",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWY1d2ItZkhENElDOVhFeHBYYXpQcU0zdjZTbG4yV0Z2RHM1eGF5ZG5FTFo4YklUTUItMnNJZVd4b1gzMGZoeE9PRzhnZ3pwREQxYVBMVDNFRVo4bWNhcktfZUlBZkRacldEQUZRSG84eEJGM3Y0YWc0eEU2VUV3MVREMHJBWE1UaUk2d0tpaEY0SDFxZXN5bkZTVQ?oc=5",
-      "source": "Seeking Alpha",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-19T22:33:52Z",
-      "summary": "Nvidia Is Financing Its Own Demand, And The Fed Noticed (NASDAQ:NVDA) Seeking Alpha"
-    },
-    {
       "title": "Unless you’re building a data center or have a side hustle, you’re significantly worse off than last year, according to the Fed",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUXY2VWdlS1F1amhzdkVlSUlNeUJiS3FhQUdwNHJOMEtzNGxSaHItY2Z5SzVYOGJNNUJwdWNpUkxQYnJ6WVBYcWlJZTVTLUVVZUVfZkVlVWNFYU40djNrZ0d3YzdCMHJ4WGNiMmtQQk54X1JpM1V2bHRHMUFZVUFxMEdVdHZ0V2JVcEdsVWZJbDZKTmpBbFk1cWhWeng?oc=5",
       "source": "Fortune",
@@ -289,16 +299,6 @@
       "reason": "Compute & silicon capex expansion shifting income toward capital owners",
       "published": "2026-11-19T13:40:00Z",
       "summary": "Unless you’re building a data center or have a side hustle, you’re significantly worse off than last year, according to the Fed Fortune"
-    },
-    {
-      "title": "AI Was Blamed for More Than 120,000 Layoffs in 2026. These 10 Jobs Are Still Growing Fast",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54YXZMZnJsVUQzRVRYTHFXakRNSDU3ZjJMbVFWUW5yQnZpYk5GazRBZHI2YVZnOHY1a3B4Ri1uUTNNQ1V2M192dmgzemlnaDlDcHBiTHdDem1DS0F4OExSd2o5cTBjcXA4cVNYTkJhWjg?oc=5",
-      "source": "Money Talks News",
-      "category": "labor",
-      "signal": "capital-positive",
-      "reason": "Direct headcount reduction / AI substitution compressing labor share",
-      "published": "2026-11-19T11:02:20Z",
-      "summary": "AI Was Blamed for More Than 120,000 Layoffs in 2026. These 10 Jobs Are Still Growing Fast Money Talks News"
     }
   ]
 }
