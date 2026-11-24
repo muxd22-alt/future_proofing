@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T17:41:48Z",
+  "generated_at": "2026-11-24T17:13:27Z",
   "max_age_days": 7,
   "feeds": [
     {
@@ -23,7 +23,7 @@
       "category": "ai_capex",
       "url": "https://www.datacenterdynamics.com/en/rss/",
       "status": "ok",
-      "items_returned": 8,
+      "items_returned": 10,
       "entries_seen": 20
     },
     {
@@ -48,117 +48,176 @@
       "url": "https://news.google.com/rss/search?q=(%22labor%20share%22%20OR%20%22wage%20growth%22%20OR%20%22corporate%20profits%22%20OR%20%22worker%20productivity%22%20OR%20%22nonfarm%20payrolls%22)%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "items_returned": 10,
-      "entries_seen": 79
+      "entries_seen": 60
     }
   ],
   "feed_failures": 0,
   "carried_over": false,
   "counts": {
-    "ai_capex": 13,
-    "labor": 9,
-    "macro": 2
+    "ai_capex": 15,
+    "labor": 9
   },
   "total": 24,
   "items": [
     {
-      "title": "Apollo and Goldman Sachs lead $44bn SpaceX GPU financing deal",
-      "link": "https://www.datacenterdynamics.com/en/news/apollo-and-goldman-sachs-lead-44bn-spacex-gpu-financing-deal/",
+      "title": "Vantage drops plans for Trident data center after Colorado's Aurora City passes moratorium",
+      "link": "https://www.datacenterdynamics.com/en/news/vantage-drops-plans-for-trident-data-center-after-colorados-aurora-city-passes-moratorium/",
       "source": "Data Center Dynamics",
       "category": "ai_capex",
       "signal": "capital-positive",
       "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-23T17:14:29Z",
-      "summary": "Funds will be used to purchase Nvidia Vera Rubin chips"
+      "published": "2026-11-24T16:57:00Z",
+      "summary": "Would have been the largest data center in Colorado"
     },
     {
-      "title": "AI server OEMs hiking prices by 45% as memory shortage bites",
-      "link": "https://www.datacenterdynamics.com/en/news/ai-server-oems-hiking-prices-by-45-as-memory-shortage-bites-report/",
-      "source": "report",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-23T17:08:00Z",
-      "summary": "Hardware supply constraint pain passed onto customers"
-    },
-    {
-      "title": "CtrlS moves forward with 150MW data center project in Bihar, India",
-      "link": "https://www.datacenterdynamics.com/en/news/ctrls-moves-forward-with-150mw-data-center-project-in-bihar-india/",
+      "title": "US gov’t adds Singapore’s Megaspeed and subsidiaries to export block list",
+      "link": "https://www.datacenterdynamics.com/en/news/us-govt-adds-singapores-megaspeed-and-subsidiaries-to-export-block-list/",
       "source": "Data Center Dynamics",
       "category": "ai_capex",
       "signal": "capital-positive",
       "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-23T15:49:53Z",
-      "summary": "Company signs MoU for $1 billion project"
+      "published": "2026-11-24T16:00:41Z",
+      "summary": "Follows reinstatement of Nvidia CEO who admitted earlier this month to an affair with former Megaspeed exec"
     },
     {
-      "title": "Jensen Huang Gains Over $36 Billion As Nvidia Stock Soars",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZzA3d2tBUmROb2hSVURDRk9DeVhWZnVVTW9KNllaaGpVZ0hLTHpBQ0NVMHp5MEhCbHNwN0JkdUJ2ekx3Z2t6VXB4SkQtUjhRdTNvN2ppTWVGaHExcnVyczduUHJBNTU5X1hieHZ2VTJzenZRazRuamhSRmVmRExwVVFrV2xoWWZTMDNsbU51YlNGNldwSXBGZHFUaXJ2cjB6R2ZDb2JpUUdnaE5IS3c?oc=5",
-      "source": "Forbes",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-23T15:22:36Z",
-      "summary": "Jensen Huang Gains Over $36 Billion As Nvidia Stock Soars Forbes"
-    },
-    {
-      "title": "Swiss data center firm Green hooks up data center to heating network in Dielsdorf, Switzerland",
-      "link": "https://www.datacenterdynamics.com/en/news/swiss-data-center-firm-green-hooks-up-data-center-to-heating-network-in-dielsdorf-switzerland/",
+      "title": "Massed Compute deploys GPUs at American Tower data center in Raleigh, North Carolina",
+      "link": "https://www.datacenterdynamics.com/en/news/massed-compute-deploys-gpus-at-american-tower-data-center-in-raleigh-north-carolina/",
       "source": "Data Center Dynamics",
       "category": "ai_capex",
       "signal": "capital-positive",
       "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-23T14:22:33Z",
-      "summary": "In partnership with Energie 360°"
+      "published": "2026-11-24T15:49:26Z",
+      "summary": "Scale of deployment not shared"
     },
     {
-      "title": "Nvidia board reinstates Jensen Huang as CEO",
-      "link": "https://www.datacenterdynamics.com/en/news/nvidia-board-reinstates-jensen-huang-as-ceo/",
+      "title": "Applied Digital signs $5.4bn 18-year lease with unnamed hyperscaler",
+      "link": "https://www.datacenterdynamics.com/en/news/applied-digital-signs-54bn-18-year-lease-with-unnamed-hyperscaler/",
       "source": "Data Center Dynamics",
       "category": "ai_capex",
       "signal": "capital-positive",
       "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-23T14:11:00Z",
-      "summary": "Board said it received input from \"senior levels of United States government\" in process of reaching its decision"
+      "published": "2026-11-24T14:53:30Z",
+      "summary": "Will provide hyperscaler with 150MW of capacity"
     },
     {
-      "title": "Northern Europe Energy eyes 200MW data center project outside Riga, Latvia",
-      "link": "https://www.datacenterdynamics.com/en/news/northern-europe-energy-eyes-200mw-data-center-project-outside-riga-latvia/",
+      "title": "TSMC files application for proposed 2nm chip fab in Brazos County, Texas",
+      "link": "https://www.datacenterdynamics.com/en/news/tsmc-files-application-for-proposed-2nm-chip-fab-in-brazos-county-texas/",
+      "source": "Data Center Dynamics",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-24T14:10:27Z",
+      "summary": "Chipmaker said no final decision had been made about building a fab in county that neighbors SpaceX’s TeraFab project"
+    },
+    {
+      "title": "Taiwanese AI infrastructure firm Nocera takes $22m stake in Canadian AI data center developer BitRock",
+      "link": "https://www.datacenterdynamics.com/en/news/taiwanese-ai-infrastructure-firm-nocera-takes-22m-stake-in-canadian-ai-data-center-developer-bitrock/",
+      "source": "Data Center Dynamics",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-24T13:53:02Z",
+      "summary": "Transaction will fund 10MW self-powered data center campus"
+    },
+    {
+      "title": "Nvidia stock: $952 billion one-day gain sets a record",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFdGaHhfYzNzcXRVZHpCdGtFQkdzdUNRUjZFbmZlSkpQUndxMjBQMFJRZnpBNUVTMHM3ZkZETS1VbWdORFF0d1ppWFBKQVY4cTB4VjQ2Z3d3NXBRNTNvYV9KNWZ1elk3S3dxNGJVWmRZWVR3U2lncm1IX0ladzZCUVJOTTZram45MzB2Z0Y3SFJqc28w?oc=5",
+      "source": "Opening Bell Daily",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-24T13:52:03Z",
+      "summary": "Nvidia stock: $952 billion one-day gain sets a record Opening Bell Daily"
+    },
+    {
+      "title": "NewYork GreenCloud submits application to build 14.4MW biomass powered data center in Ione, California",
+      "link": "https://www.datacenterdynamics.com/en/news/newyork-greencloud-submits-application-to-build-144mw-biomass-powered-data-center-in-ione-california/",
+      "source": "Data Center Dynamics",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-24T13:20:40Z",
+      "summary": "Company acquired the biomass site in January"
+    },
+    {
+      "title": "Google launches $10m Energy Impact Fund in Oregon",
+      "link": "https://www.datacenterdynamics.com/en/news/google-launches-10m-energy-impact-fund-in-oregon/",
       "source": "Data Center Dynamics",
       "category": "ai_capex",
       "signal": "capital-positive",
       "reason": "Physical power & cooling bottleneck driving HALO infrastructure capex",
-      "published": "2026-11-23T13:43:12Z",
-      "summary": "Renewable energy firm secures 16 hectares of land in Salaspils"
+      "published": "2026-11-24T12:50:38Z",
+      "summary": "Will support energy efficiency improvements for residential households and schools in The Dalles"
     },
     {
-      "title": "Frux Capital to provide €20m funding for Proxity data center campus in Lisbon",
-      "link": "https://www.datacenterdynamics.com/en/news/frux-provides-20-million-euros-in-financing-for-the-proxity-campus-in-lisbon/",
+      "title": "LTN Compute to deploy 10,000-GPU cluster at Chennai Data Center",
+      "link": "https://www.datacenterdynamics.com/en/news/ltn-compute-to-deploy-10000-gpu-cluster-at-chennai-data-center/",
       "source": "Data Center Dynamics",
       "category": "ai_capex",
       "signal": "capital-positive",
       "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-23T13:41:21Z",
-      "summary": "Facility will be located in Loures"
+      "published": "2026-11-24T12:30:34Z",
+      "summary": "Cluster deployed for unnamed inference infrastructure provider"
     },
     {
-      "title": "After the AI layoffs: Three basics that keep your best people",
+      "title": "Proper Voltage launches sodium-ion battery cabinet for data center UPS systems",
+      "link": "https://www.datacenterdynamics.com/en/news/proper-voltage-launches-sodium-ion-battery-cabinet-for-data-center-ups-systems/",
+      "source": "Data Center Dynamics",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-24T12:30:34Z",
+      "summary": "Partners with Unigrid on the battery system"
+    },
+    {
+      "title": "Allstate silent amid reports of 5,000 job cuts as AI push accelerates",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYXA4X3pzOFZiZGRBRWRDRl84V040eUdDX0otVko3VHRycWx2WUFKX2NrcUdCQ204dl9Tc0dHYmJJV0JtMDJ2d3JkeFlkUlNFOXRqcXg1Mng1VDdUOTdWc0dlMHFrS0tOOHpQR09BYTZKNHJBM2xwdHNOMXBBbnotc0xB?oc=5",
+      "source": "Crain's Chicago Business",
+      "category": "labor",
+      "signal": "capital-positive",
+      "reason": "Direct headcount reduction / AI substitution compressing labor share",
+      "published": "2026-11-24T02:11:49Z",
+      "summary": "Allstate silent amid reports of 5,000 job cuts as AI push accelerates Crain's Chicago Business"
+    },
+    {
+      "title": "TSMC files application for proposed $22.6 billion chip plant in Brazos County",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc2hiZVdfcU1OcmswdVZHRy1XRDVnQ2laWmEwUXBNWHlJUDhHTW5CcThNSkp3SnA2YzJXSEduTkdOZGVsLXlUeV9UYXctYzc0MnlYZEVXWmpBMEVpT1VBdlhwLTVaRXdENVVkRzJjdHZGTGl0b3ZnQWxBZUM3ejBjbVBnekc0NWdlZVdDdkZSRlJBS2hvOXV4amRtLWt1OWtyU3l4T0lraGdtaW9zQVVSeG5lSUJjU1ZWYmVXazBHNkdVdUd5WUtaUTM1S1FLTUhi?oc=5",
+      "source": "kcentv.com",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-23T22:51:30Z",
+      "summary": "TSMC files application for proposed $22.6 billion chip plant in Brazos County kcentv.com"
+    },
+    {
+      "title": "How Much Nvidia Short Sellers Lost $11.3 When Jensen Huang Returned",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HX1JJUGdfTEQxWnd0Nmw0U2l0T1BCVTljd3N5NWs1Slc1Wlc1b2tPemFfWXVpNHg4XzA1S050OThlZktCVzJscXlVZGRFSV85cmI5SnNpZEtlSHRLcE53Ymx2NDRsai1Pd09vcU1aR25Wd0hFNXVN?oc=5",
+      "source": "Barron's",
+      "category": "ai_capex",
+      "signal": "capital-positive",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
+      "published": "2026-11-23T21:55:00Z",
+      "summary": "How Much Nvidia Short Sellers Lost $11.3 When Jensen Huang Returned Barron's"
+    },
+    {
+      "title": "AI productivity gains to slow headcount, SAP CFO predicts",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR0daeXFxLWlHSnpDQ3N0RU5MUm9VaXNpVXU2YW5PSjJUZWFMaFl5VTlzNGgzZklCRDhNZnNzYTcweTRGaUR2UFh5RzNIczV2TzJrdWFhekxhbWRTcTgzdWttcUt5QjlrN1VEYmhSczJXcDZMbzFReGg2UTNDbm9DcDBlZXV4akNSVkIzbnJDSUVsUXVU?oc=5",
+      "source": "CFO Dive",
+      "category": "labor",
+      "signal": "capital-positive",
+      "reason": "Direct headcount reduction / AI substitution compressing labor share",
+      "published": "2026-11-23T21:38:12Z",
+      "summary": "AI productivity gains to slow headcount, SAP CFO predicts CFO Dive"
+    },
+    {
+      "title": "After the AI layoffs: 3 basics that keep your best people",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjJnOERaLTZRRmZmOHlzQ3VVYlpvQXVOejdqU0dra2dzYkQ5SkFHMkxHdS1oY0VkR1JIb1FxOW1qVG5FYU9lcF9ZZWFwdFRwRVc1a04xVFBWajBFYnNiVDlOMGluZmNVUk80ZnlWbjhjLWFzTVB4YnQ5bHFjT2RqdHhXTmpPT3lMcEFXdWV3?oc=5",
       "source": "HR Executive",
       "category": "labor",
       "signal": "capital-positive",
       "reason": "Direct headcount reduction / AI substitution compressing labor share",
       "published": "2026-11-23T13:16:08Z",
-      "summary": "After the AI layoffs: Three basics that keep your best people HR Executive"
-    },
-    {
-      "title": "Arm CEO extends contract to 2033 amid reports Nvidia had approached him for vacant CEO role",
-      "link": "https://www.datacenterdynamics.com/en/news/arm-ceo-extends-contract-to-2033-amid-reports-nvidia-had-approached-him-for-vacant-ceo-role/",
-      "source": "Data Center Dynamics",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-23T13:01:00Z",
-      "summary": "Haas will also assume role of vice chairman at SoftBank on December 1"
+      "summary": "After the AI layoffs: 3 basics that keep your best people HR Executive"
     },
     {
       "title": "How Nvidia’s billion-dollar turnaround in China is threatened by Huang’s exit",
@@ -181,14 +240,14 @@
       "summary": "Exclusive / AI is disrupting entry-level work, report finds Semafor"
     },
     {
-      "title": "New York firm seeks to build a 14-megawatt data center southeast of Sacramento",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZaWprdTNjQ0Q0U0QxTWsxTG16blJ5aHYtc1ZJUDZuSXZZVjBlYkljWHROb2ZxWWJOcFRnaXVmLTJKd2RVZDFUTEFpdUpFNjE0cWdQSlNURnVCNW9RV0MweGNTQzA2MzdhY3fSAWpBVV95cUxOc2FyTmxyUXpVNV8wMUZuQ1Vsc3hwajdSdWE2RmtiS3JPendWWXFfQ2NfSEVEZ28tOWY1d2R1UElTNmNRdVROdEl6ZEtTdGFZQWx1Q19zODhaVUVDdVp6V1NDTWZOcHVzLUZ3?oc=5",
-      "source": "Sacramento Bee",
-      "category": "ai_capex",
+      "title": "Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VbTFXV1dMc09wNkJwVEdUc0N6aHBSQXhxeW90M18xOVRaRGRLTks2VFFwcXlhMGFhb3BIWkZSSlRWcTIweFptWnlBZlB3VW85SmFPUGcxYWx0b0dIZVVpUy1idG9JSE0xbTNSYXExdzl4MkpvR1Y3M0Q5Mm5sLWs?oc=5",
+      "source": "MacRumors",
+      "category": "labor",
       "signal": "capital-positive",
-      "reason": "Physical power & cooling bottleneck driving HALO infrastructure capex",
-      "published": "2026-11-22T22:30:00Z",
-      "summary": "New York firm seeks to build a 14-megawatt data center southeast of Sacramento Sacramento Bee"
+      "reason": "Direct headcount reduction / AI substitution compressing labor share",
+      "published": "2026-11-22T20:29:43Z",
+      "summary": "Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist MacRumors"
     },
     {
       "title": "Inside the federal push for a $6 billion data center",
@@ -239,66 +298,6 @@
       "reason": "Wage or bargaining-power resilience supporting labor income share",
       "published": "2026-11-20T15:28:00Z",
       "summary": "Eurozone Wage Growth Accelerates, But Remains Modest WSJ"
-    },
-    {
-      "title": "Boardroom AI talks turn from job cuts to cyber threats",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYjlscEdmem14aTNhVHZEYlIwQ204RWR3OS1KT1NNd1NaQnpqS2Rnd0d1T3pkdXhTQ3d2ZU1hUVRLVzViNmpuazVLNjdpbWxmQnRnMTZSbEtOa3RDdW5RQUpGNXRDN3J1eWMyeUF4djJiM29VWGdmbVRYblc5SnE2dkxxbUd0MTY2aDVyRFhIdDnSAZYBQVVfeXFMUGJMaTE5TUhRY01TVzlFbWswR2c0blNEYkhhR1JRSHFpTXBmOG1TSE1qbGpvWjJHa0x0V2liT2tOQTA0eFJLN0pPNzNXT0twc1Ayc2FycnZpX2Y3amNIQ2tQZ2M3dkxzV05WVjAycndvc3dza1hFaVhQQzU5MzR2NFh0RGNVbjl0V3FjRzloVkVOUUs1azVR?oc=5",
-      "source": "Fox Business",
-      "category": "labor",
-      "signal": "capital-positive",
-      "reason": "Direct headcount reduction / AI substitution compressing labor share",
-      "published": "2026-11-20T15:05:00Z",
-      "summary": "Boardroom AI talks turn from job cuts to cyber threats Fox Business"
-    },
-    {
-      "title": "Activities of U.S. Multinational Enterprises, 2024",
-      "link": "http://www.bea.gov/news/2026/activities-us-multinational-enterprises-2024",
-      "source": "BEA Macro Releases",
-      "category": "macro",
-      "signal": "neutral",
-      "reason": "Official macro / monetary release impacting capital & labor",
-      "published": "2026-11-20T13:30:00Z",
-      "summary": "Worldwide employment by U.S. multinational enterprises increased 0.9 percent to 44.2 million workers in 2024 (preliminary) from 43.8 million workers in 2023 (revised), according to statistics released today by the U.S.…"
-    },
-    {
-      "title": "Nvidia’s $228 Billion Data Center Bet: Three Things to Know",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTVdHd1V2a3IybElrbTBrZlBhX0Z4ODlON2MwWmdFQ2tfNmhnMU83UnFCN3p4UGdyUmRxQjN4WnAzZDdoWTd4SmJHOGhoTjFKdzAxUVdiM3d0aUJORHFVUkR1b3FRUmdoUEN4S2UwNEUxTG5rNGFSRXc4MmNzdlR5REx0UU05SXBXaVkxUEp5VkpWdHEzQ0JMYjJJal9UbE5HRlp4WA?oc=5",
-      "source": "BloombergNEF",
-      "category": "ai_capex",
-      "signal": "capital-positive",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners",
-      "published": "2026-11-20T09:11:46Z",
-      "summary": "Nvidia’s $228 Billion Data Center Bet: Three Things to Know BloombergNEF"
-    },
-    {
-      "title": "Wage growth slows for home health employees this year, new survey finds",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSDZ0TUdZcEN5bEJBcjFxc0VWQXpxYTVrekc5TS1KNDlRcVZtM3V1NmdjZng2VmVycGVJZjcydlptSVRWVUZuRkN5WnlQSWVldlJ1VGR5MmY4YUFjRXN4TmdBbEt3d1dBNjMxaGRDODZnckpPWllJSEVkck05Q3RjMDhjUlJUenU5UTcxZjVJdERZWUFjS3k2czQxc1ZHWkRQUXBiS08wQW51LXJLcVFF?oc=5",
-      "source": "McKnights Home Care",
-      "category": "labor",
-      "signal": "labor-positive",
-      "reason": "Wage or bargaining-power resilience supporting labor income share",
-      "published": "2026-11-20T07:01:01Z",
-      "summary": "Wage growth slows for home health employees this year, new survey finds McKnights Home Care"
-    },
-    {
-      "title": "Japan's record corporate profits could bring Nikkei back toward 60,000: Japan Exchange Group CEO",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS2N3UzcxSGc4ZU1ESi1qT0hGVnc4Rm5HeVB1dlhCMFlvNWlZb0ZuSnA4NmRYY2lPU25wMHBlWFdEX3luYkU3eklUdFBSZXZuc2ZlVGN3VmplVVhZVkxVazF2ZUUtNUE5aDhzcGpYRThyTDRERE54bzJkdDdNeTdvNnV5OWExWHYyeW5YTXhDcWlCZHBfcVRXeWczZ094SHVRZ1E?oc=5",
-      "source": "CNBC",
-      "category": "macro",
-      "signal": "capital-positive",
-      "reason": "Output & margin expansion decoupling from payroll growth",
-      "published": "2026-11-20T04:12:00Z",
-      "summary": "Japan's record corporate profits could bring Nikkei back toward 60,000: Japan Exchange Group CEO CNBC"
-    },
-    {
-      "title": "What Should Qualcomm (QCOM) Investors Watch After 500 California Layoffs And New AI Moves?",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUnBxNG5ZS0g2QlBWcldacnhOb0lXanZIaXROM2pMdG1UaWx5LXlJT2EtV2Y1QmR5OTlXMVJmc05wNkhWWHZwSEdrUXVlRmIzWDlfdmZFdE03OVJPZjBPbFlWZ2hMV3BWdUV5YVRXODFnYTkzS0Vub0huZUpHV1RWYkEyNVJtT1JtelVidjRYa3dMOG1YeUttVDI4NEI4QQ?oc=5",
-      "source": "Yahoo Finance",
-      "category": "labor",
-      "signal": "capital-positive",
-      "reason": "Direct headcount reduction / AI substitution compressing labor share",
-      "published": "2026-11-20T02:16:00Z",
-      "summary": "What Should Qualcomm (QCOM) Investors Watch After 500 California Layoffs And New AI Moves? Yahoo Finance"
     }
   ]
 }
