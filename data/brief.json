@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T17:13:27Z",
-  "headline": "Macro favors Capital (Labor Share 93.7, Profits/Wages +7.5%); Equities show 3M pullback in AI hardware (-20.67%) vs. IT/Staffing bounce (-12.04%)",
+  "generated_at": "2026-11-25T16:58:11Z",
+  "headline": "Macro favors Capital (Labor Share 93.7, Profits/Wages +7.5%); Equities show 3M pullback in AI hardware (-27.25%) vs. IT/Staffing bounce (-4.74%)",
   "bullets": [
     {
       "tag": "capital-positive",
@@ -11,32 +11,32 @@
     {
       "tag": "capital-positive",
       "title": "Profits Outpacing Wages",
-      "text": "Corporate Profits-to-Wage-Bill ratio hit 0.404 (+7.50% QoQ, +22.00% YoY).",
-      "reason": "BEA Corporate Profits expanded to $4,279.9B SAAR (+8.40% QoQ, +26.61% YoY) while the annualized private wage bill grew only +0.47% MoM (+4.30% YoY) to $10,827.8B."
+      "text": "Corporate Profits-to-Wage-Bill ratio hit 0.414 (+2.56% QoQ, +18.65% YoY).",
+      "reason": "BEA Corporate Profits expanded to $4,419.0B SAAR (+3.25% QoQ, +23.08% YoY) while the annualized private wage bill grew only +0.47% MoM (+4.30% YoY) to $10,827.8B."
     },
     {
       "tag": "labor-positive",
       "title": "Watchlist Spread Drivers",
-      "text": "3M Watchlist Spread is -8.63pp (Capital Enablers -20.67% vs. Labor-Heavy -12.04%).",
-      "reason": "Short-term multiple compression hit AI hardware/power names (SMCI (-39.6%), VRT (-34.6%), NVDA (-26.8%)), while oversold IT outsourcers & staffing rebounded (INFY (+7.8%), CTSH (-0.9%), RHI (-9.8%)). Over 1Y, hardware/grid winners (ANET (+36.8%), PWR (+32.2%), GEV (+24.3%)) still anchor the capex cycle."
+      "text": "3M Watchlist Spread is -22.51pp (Capital Enablers -27.25% vs. Labor-Heavy -4.74%).",
+      "reason": "Short-term multiple compression hit AI hardware/power names (SMCI (-44.0%), VRT (-39.2%), NVDA (-37.6%)), while oversold IT outsourcers & staffing rebounded (EPAM (+45.6%), INFY (+9.2%), CTSH (-0.3%)). Over 1Y, hardware/grid winners (ANET (+24.5%), PWR (+20.8%), GEV (+18.7%)) still anchor the capex cycle."
     },
     {
       "tag": "capital-positive",
       "title": "AI & Power Capex Catalyst",
-      "text": "\"Vantage drops plans for Trident data center after Colorado's Aurora City passes moratorium\" (Data Center Dynamics).",
-      "reason": "Compute & silicon capex expansion shifting income toward capital owners. Also tracked: \"US gov’t adds Singapore’s Megaspeed and subsidiaries to export block list\" (Data Center Dynamics)."
+      "text": "\"Trio of Japanese real estate developers invest in 15MW Hokkaido data center development\" (Data Center Dynamics).",
+      "reason": "Compute & silicon capex expansion shifting income toward capital owners. Also tracked: \"Ohio regulators approve up to 800MW gas plant set to power EdgeConneX data center in Pickaway County\" (Data Center Dynamics)."
     },
     {
       "tag": "capital-positive",
       "title": "Workforce & Macro Signal",
-      "text": "\"Allstate silent amid reports of 5,000 job cuts as AI push accelerates\" (Crain's Chicago Business) — with U.S. unemployment at 4.1% (2026-10-01).",
-      "reason": "Direct headcount reduction / AI substitution compressing labor share."
+      "text": "\"U.S. GDP Growth in Q3 Revised Up Markedly; Corporate Profits Solid\" (Haver Analytics) — with U.S. unemployment at 4.1% (2026-10-01).",
+      "reason": "Output & margin expansion decoupling from payroll growth."
     }
   ],
   "model": "causal-quant-engine",
   "status": "quant",
   "news_items_considered": 24,
   "macro_as_of": "2026-07-01",
-  "markets_as_of": "2026-11-24",
-  "snapshot_used": "AS OF: macro 2026-07-01, markets 2026-11-24\n- Labor Share Index (PRS85006173): 93.73 (2026-07-01), QoQ -0.67%, YoY -1.60%\n- Corporate Profits (CP): $4,279.9B SAAR (2026-04-01), QoQ +8.40%, YoY +26.61%\n- Annualized Wage Bill: $10,827.8B (2026-10-01), MoM +0.47%, YoY +4.30%\n- Profits/Wages Ratio: 0.404, QoQ +7.50%, YoY +22.00%\n- Unemployment: 4.1% (2026-10-01), MoM -2.38%\n- Capital Enablers (AI capex / HALO): 1M -10.72%, 3M -20.67%, 1Y -4.56% | 3M leaders: PWR (-5.2%), CEG (-11.8%), VST (-13.9%) | 3M laggards: SMCI (-39.6%), VRT (-34.6%), NVDA (-26.8%) | 1Y leaders: ANET (+36.8%), PWR (+32.2%), GEV (+24.3%)\n- Labor-Heavy (staffing / office / per-seat SaaS): 1M -10.40%, 3M -12.04%, 1Y +17.22% | 3M leaders: INFY (+7.8%), CTSH (-0.9%), RHI (-9.8%) | 3M laggards: MAN (-24.4%), KELYA (-21.6%), SLG (-19.4%) | 1Y leaders: MAN (+79.1%), KELYA (+61.6%), RHI (+59.6%)\n- [ai_capex] Vantage drops plans for Trident data center after Colorado's Aurora City passes moratorium (Data Center Dynamics) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [ai_capex] US gov’t adds Singapore’s Megaspeed and subsidiaries to export block list (Data Center Dynamics) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [ai_capex] Massed Compute deploys GPUs at American Tower data center in Raleigh, North Carolina (Data Center Dynamics) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [ai_capex] Applied Digital signs $5.4bn 18-year lease with unnamed hyperscaler (Data Center Dynamics) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [ai_capex] TSMC files application for proposed 2nm chip fab in Brazos County, Texas (Data Center Dynamics) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [ai_capex] Taiwanese AI infrastructure firm Nocera takes $22m stake in Canadian AI data center developer BitRock (Data Center Dynamics) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [ai_capex] Nvidia stock: $952 billion one-day gain sets a record (Opening Bell Daily) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [ai_capex] NewYork GreenCloud submits application to build 14.4MW biomass powered data center in Ione, California (Data Center Dynamics) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [ai_capex] Google launches $10m Energy Impact Fund in Oregon (Data Center Dynamics) -> Reason: Physical power & cooling bottleneck driving HALO infrastructure capex\n- [ai_capex] LTN Compute to deploy 10,000-GPU cluster at Chennai Data Center (Data Center Dynamics) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [ai_capex] Proper Voltage launches sodium-ion battery cabinet for data center UPS systems (Data Center Dynamics) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [labor] Allstate silent amid reports of 5,000 job cuts as AI push accelerates (Crain's Chicago Business) -> Reason: Direct headcount reduction / AI substitution compressing labor share"
+  "markets_as_of": "2026-11-25",
+  "snapshot_used": "AS OF: macro 2026-07-01, markets 2026-11-25\n- Labor Share Index (PRS85006173): 93.73 (2026-07-01), QoQ -0.67%, YoY -1.60%\n- Corporate Profits (CP): $4,419.0B SAAR (2026-07-01), QoQ +3.25%, YoY +23.08%\n- Annualized Wage Bill: $10,827.8B (2026-10-01), MoM +0.47%, YoY +4.30%\n- Profits/Wages Ratio: 0.414, QoQ +2.56%, YoY +18.65%\n- Unemployment: 4.1% (2026-10-01), MoM -2.38%\n- Capital Enablers (AI capex / HALO): 1M -17.47%, 3M -27.25%, 1Y -8.32% | 3M leaders: PWR (-12.6%), CEG (-17.6%), ANET (-22.6%) | 3M laggards: SMCI (-44.0%), VRT (-39.2%), NVDA (-37.6%) | 1Y leaders: ANET (+24.5%), PWR (+20.8%), GEV (+18.7%)\n- Labor-Heavy (staffing / office / per-seat SaaS): 1M -2.44%, 3M -4.74%, 1Y +14.20% | 3M leaders: EPAM (+45.6%), INFY (+9.2%), CTSH (-0.3%) | 3M laggards: MAN (-24.2%), KELYA (-22.4%), SLG (-17.1%) | 1Y leaders: MAN (+74.8%), KELYA (+58.6%), RHI (+54.9%)\n- [ai_capex] Trio of Japanese real estate developers invest in 15MW Hokkaido data center development (Data Center Dynamics) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [ai_capex] Ohio regulators approve up to 800MW gas plant set to power EdgeConneX data center in Pickaway County (Data Center Dynamics) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [macro] U.S. GDP Growth in Q3 Revised Up Markedly; Corporate Profits Solid (Haver Analytics) -> Reason: Output & margin expansion decoupling from payroll growth\n- [ai_capex] Nexent Capital launches $1 billion AI and energy infrastructure fund (Data Center Dynamics) -> Reason: Physical power & cooling bottleneck driving HALO infrastructure capex\n- [ai_capex] Promera acquires Irish electrical contractor B&G to expand data center offering (Data Center Dynamics) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [macro] Canadian corporate profits drop 2% in Q3: report (Human Resources Director) -> Reason: Output & margin expansion decoupling from payroll growth\n- [ai_capex] US Army offers more land to private AI data centers, across nine sites (must include power generation) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [macro] GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 (BEA Macro Releases) -> Reason: Output & margin expansion decoupling from payroll growth\n- [fed] Personal Income and Outlays, October 2026 (BEA Macro Releases) -> Reason: Macro / cost-of-capital policy shift affecting capex vs. hiring\n- [ai_capex] Three data center projects planned around Phoenix, Arizona (Data Center Dynamics) -> Reason: Compute & silicon capex expansion shifting income toward capital owners\n- [ai_capex] Stratum Holdings and Ocean Power Technologies partner on offshore data centers (Data Center Dynamics) -> Reason: Physical power & cooling bottleneck driving HALO infrastructure capex\n- [ai_capex] Man charged over explosion at electrical substation serving Apple data center in Mesa, Arizona (Data Center Dynamics) -> Reason: Physical power & cooling bottleneck driving HALO infrastructure capex"
 }

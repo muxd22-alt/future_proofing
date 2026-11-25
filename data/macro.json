@@ -1,6 +1,6 @@
 {
   "as_of": "2026-07-01",
-  "generated_at": "2026-11-24T17:13:23Z",
+  "generated_at": "2026-11-25T16:57:51Z",
   "stale": false,
   "source": "FRED (fredgraph CSV / FRED API)",
   "fred_api_used": true,
@@ -1320,20 +1320,20 @@
       "via": "api",
       "stats": {
         "latest": {
+          "date": "2026-07-01",
+          "value": 4419.035
+        },
+        "prev_month": {
           "date": "2026-04-01",
           "value": 4279.937
         },
-        "prev_month": {
-          "date": "2026-01-01",
-          "value": 3948.352
-        },
         "prev_year": {
-          "date": "2025-04-01",
-          "value": 3380.441
+          "date": "2025-07-01",
+          "value": 3590.334
         },
-        "delta_1m_pct": 8.398,
-        "delta_12m_pct": 26.609,
-        "observations": 318,
+        "delta_1m_pct": 3.25,
+        "delta_12m_pct": 23.081,
+        "observations": 319,
         "frequency": "quarterly"
       },
       "points": [
@@ -2608,6 +2608,10 @@
         {
           "date": "2026-04-01",
           "value": 4279.937
+        },
+        {
+          "date": "2026-07-01",
+          "value": 4419.035
         }
       ]
     },
@@ -13791,20 +13795,20 @@
       "title": "Corporate Profits / Wage Bill",
       "stats": {
         "latest": {
+          "date": "2026-07-01",
+          "value": 0.4143
+        },
+        "prev_month": {
           "date": "2026-04-01",
           "value": 0.4039
         },
-        "prev_month": {
-          "date": "2026-01-01",
-          "value": 0.3757
-        },
         "prev_year": {
-          "date": "2025-04-01",
-          "value": 0.3311
+          "date": "2025-07-01",
+          "value": 0.3492
         },
-        "delta_1m_pct": 7.505,
-        "delta_12m_pct": 22.002,
-        "observations": 81,
+        "delta_1m_pct": 2.565,
+        "delta_12m_pct": 18.653,
+        "observations": 82,
         "frequency": "quarterly"
       },
       "points": [
@@ -14131,6 +14135,10 @@
         {
           "date": "2026-04-01",
           "value": 0.4039
+        },
+        {
+          "date": "2026-07-01",
+          "value": 0.4143
         }
       ]
     },
@@ -14173,7 +14181,8 @@
         "2025-07-01",
         "2025-10-01",
         "2026-01-01",
-        "2026-04-01"
+        "2026-04-01",
+        "2026-07-01"
       ],
       "corporate_profits": [
         100.0,
@@ -14213,7 +14222,8 @@
         175.51,
         184.96,
         193.01,
-        209.22
+        209.22,
+        216.02
       ],
       "wage_bill": [
         100.0,
@@ -14253,7 +14263,8 @@
         151.82,
         153.27,
         155.15,
-        156.44
+        156.44,
+        157.49
       ]
     }
   },
@@ -14266,9 +14277,9 @@
     "labor_share_change_1m_pct": -0.671,
     "labor_share_change_12m_pct": -1.601,
     "profits_vs_wages_ratio_latest": {
-      "date": "2026-04-01",
-      "value": 0.4039
+      "date": "2026-07-01",
+      "value": 0.4143
     },
-    "profits_vs_wages_ratio_change_1m_pct": 7.505
+    "profits_vs_wages_ratio_change_1m_pct": 2.565
   }
 }
